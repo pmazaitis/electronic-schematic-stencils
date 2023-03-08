@@ -1,7 +1,22 @@
 # Composible Stencils for Electronic Schematic Diagrams
 
+This stencil set includes labeled components in the following categories: 
 
+* Antennas (A)
+* Capacitors (C)
+* Connectors (J)
+* Crystals (Y)
+* Diodes (D)
+* Inductors and Transformers (L & T)
+* Integrated Circuits (I)
+* Power and Ground (V & BT)
+* Resistors (R)
+* Switches and Relays (S)
+* Transistors (T)
+* Labels
+* Points
 
+The components are set up in multiple facings (component stencils are available in left/right up/down, or with cardinal facings, as necessary; labels are aligned and justified for each).
 
 ## Line Weight
 
