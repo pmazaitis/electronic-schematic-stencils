@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Power_and_Ground_-_V___BT" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Power and Ground - V &amp; BT</title>
+    <g id="Power_and_Ground_-_V___BT_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_41">
+        <title>ground-chassis</title>
+        <g id="Line_28">
+          <path d="M 213.0475 216.16103 L 222.7821 216.2327 L 232.15747 216.16103" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_37">
+          <line x1="222.7821" y1="210.22146" x2="222.7821" y2="216.2327" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_38">
+          <line x1="213.0475" y1="216.16103" x2="209.4803" y2="222.06875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_39">
+          <line x1="222.7299" y1="216.16103" x2="219.1627" y2="222.06875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_40">
+          <line x1="232.15747" y1="216.16103" x2="228.59028" y2="222.06875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_35">
+        <title>ground-earth_b</title>
+        <g id="Line_27">
+          <path d="M 141.42949 210.89763 L 149.90846 210.95538 L 158.43736 210.89763" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_30">
+          <line x1="143.98776" y1="215.8866" x2="155.87909" y2="215.8866" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_34">
+          <line x1="147.33845" y1="220.87558" x2="152.5284" y2="220.87558" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Graphic_26">
+        <title>ground-earth_a</title>
+        <path d="M 90.14173 206.79684 L 98.64567 223.80472 L 107.1496 206.79684 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_108">
+        <title>BT</title>
+        <g id="Group_110">
+          <title>cell-three-horizontal</title>
+          <g id="Group_117">
+            <title>Cell</title>
+            <g id="Line_119">
+              <line x1="315.22017" y1="139.97844" x2="315.22017" y2="166.96063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_118">
+              <line x1="310.52102" y1="144.22283" x2="310.52102" y2="162.71624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+          <g id="Group_114">
+            <title>Cell</title>
+            <g id="Line_116">
+              <line x1="305.5187" y1="139.97844" x2="305.5187" y2="166.96063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_115">
+              <line x1="300.81956" y1="144.22283" x2="300.81956" y2="162.71624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+          <g id="Group_111">
+            <title>Cell</title>
+            <g id="Line_113">
+              <line x1="295.81725" y1="139.97844" x2="295.81725" y2="166.96063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_112">
+              <line x1="291.1181" y1="144.22283" x2="291.1181" y2="162.71624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_109">
+          <text transform="translate(332.01122 136.91577) rotate(90)" fill="black">
+            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_120">
+        <title>BT</title>
+        <g id="Group_122">
+          <title>cell-one-horizontal</title>
+          <g id="Line_124">
+            <line x1="214.823" y1="139.53851" x2="214.823" y2="166.96063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_123">
+            <line x1="210.04724" y1="143.8521" x2="210.04724" y2="162.64704" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+        </g>
+        <g id="Graphic_121">
+          <text transform="translate(231.34611 136.96634) rotate(90)" fill="black">
+            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_85">
+        <title>BT</title>
+        <g id="Group_84">
+          <title>cell-three-vertical</title>
+          <g id="Group_59">
+            <title>Cell</title>
+            <g id="Line_61">
+              <line x1="126.6556" y1="140.46508" x2="153.6378" y2="140.46508" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_60">
+              <line x1="130.89999" y1="145.16422" x2="149.3934" y2="145.16422" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+          <g id="Group_62">
+            <title>Cell</title>
+            <g id="Line_64">
+              <line x1="126.6556" y1="150.16654" x2="153.6378" y2="150.16654" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_63">
+              <line x1="130.89999" y1="154.86568" x2="149.3934" y2="154.86568" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+          <g id="Group_65">
+            <title>Cell</title>
+            <g id="Line_67">
+              <line x1="126.6556" y1="159.868" x2="153.6378" y2="159.868" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_66">
+              <line x1="130.89999" y1="164.56714" x2="149.3934" y2="164.56714" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_68">
+          <text transform="translate(123.59294 123.67402)" fill="black">
+            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_83">
+        <title>BT</title>
+        <g id="Group_56">
+          <title>cell-one-vertical</title>
+          <g id="Line_54">
+            <line x1="44.86135" y1="146.80837" x2="72.283465" y2="146.80837" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_55">
+            <line x1="49.17494" y1="151.58413" x2="67.96987" y2="151.58413" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+        </g>
+        <g id="Graphic_58">
+          <text transform="translate(42.28918 130.28526)" fill="black">
+            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_23">
+        <title>V</title>
+        <g id="Group_21">
+          <title>power-ac</title>
+          <g id="Graphic_6">
+            <circle cx="304.01575" cy="55.98425" r="17.7165636391042" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_20">
+            <path d="M 291.3094 56.11696 C 292.47606 53.28363 293.4344 48.28363 297.35106 48.325296 C 301.26772 48.36696 303.97606 56.075296 303.97606 56.075296 C 303.97606 56.075296 306.76772 63.65863 310.76772 63.61696 C 314.76772 63.5753 315.51772 60.36696 316.76772 55.90863" stroke="#00193f" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+          </g>
+        </g>
+        <g id="Graphic_22">
+          <text transform="translate(318.89763 70.01575)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_19">
+        <title>V</title>
+        <g id="Graphic_18">
+          <text transform="translate(197.42949 67.41518) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+          </text>
+        </g>
+        <g id="Group_12">
+          <title>power-dc-vertical</title>
+          <g id="Graphic_8">
+            <text transform="translate(173.81295 35.01575)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="12">+</tspan>
+              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="27.364">−</tspan>
+            </text>
+          </g>
+          <g id="Graphic_5">
+            <title>Circle</title>
+            <circle cx="177.71295" cy="51.732284" r="17.7165636391041" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_11">
+        <title>V</title>
+        <g id="Graphic_10">
+          <text transform="translate(45.50608 72.44882)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+          </text>
+        </g>
+        <g id="Group_9">
+          <title>power-dc-horizontal</title>
+          <g id="Graphic_7">
+            <text transform="translate(52.046544 42.84449)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="12">+ −</tspan>
+            </text>
+          </g>
+          <g id="Graphic_4">
+            <circle cx="61.65354" cy="51.732284" r="17.7165636391041" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

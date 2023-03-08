@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Antennas_-_A" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Antennas - A</title>
+    <g id="Antennas_-_A_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_7">
+        <title>A</title>
+        <g id="Group_24">
+          <title>antenna-aerial_c</title>
+          <g id="Line_12">
+            <path d="M 233.67035 63.546774 L 218.46005 63.4348 L 203.81102 63.546774" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_11">
+            <line x1="218.54162" y1="72.872045" x2="218.46005" y2="63.4348" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_10">
+            <line x1="233.67035" y1="63.546774" x2="239.2441" y2="54.31595" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_9">
+            <line x1="218.54162" y1="63.546774" x2="224.11536" y2="54.31595" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_8">
+            <line x1="203.81102" y1="63.546774" x2="209.38476" y2="54.31595" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_22">
+        <title>A</title>
+        <g id="Graphic_2">
+          <title>antenna-aerial_b</title>
+          <path d="M 38.267717 46.771654 L 52.440945 75.11811 L 66.61417 46.771654 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_18">
+          <line x1="52.46722" y1="75.11811" x2="52.46722" y2="105.70166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_23">
+        <title>A</title>
+        <g id="Graphic_16">
+          <title>antenna-aerial_a</title>
+          <path d="M 111.9685 46.771654 L 126.14173 75.11811 L 140.31496 46.771654 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_21">
+          <line x1="126.08618" y1="46.771654" x2="126.08618" y2="105.70166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

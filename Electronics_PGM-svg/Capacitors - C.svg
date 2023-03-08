@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#666">
+      <g>
+        <path d="M 1.584 0 L 0 -.594 L 0 .594 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M -1.584 0 L 0 .594 L 0 -.594 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.584 0 L 0 -.594 L 0 .594 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Capacitors_-_C" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Capacitors - C</title>
+    <g id="Capacitors_-_C_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_209">
+        <title>C</title>
+        <g id="Graphic_213">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 710.2671) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_210">
+          <title>capacitor-variable_b-south</title>
+          <g id="Line_212">
+            <path d="M 422.89955 667.2016 L 433.7039 667.203 L 444.6341 667.2016" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_211">
+            <path d="M 422.89955 658.5646 C 425.83576 660.7204 432.62137 661.362 432.62137 661.362 C 432.62137 661.362 430.4931 661.458 433.7039 661.4533 C 436.9521 661.4476 440.74414 660.7723 444.6341 658.4607" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_226">
+            <title>arrow</title>
+            <line x1="444.35524" y1="654.1711" x2="427.66613" y2="672.1124" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_219">
+        <title>C</title>
+        <g id="Graphic_223">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 667.1633)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_220">
+          <title>capacitor-variable_b-east</title>
+          <g id="Line_222">
+            <path d="M 317.43335 641.5077 C 319.46938 644.5862 320.4234 647.5845 320.4234 652.26365 C 320.4234 656.9428 319.5148 659.9865 317.29765 663.0986" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_221">
+            <path d="M 326.63907 641.4861 L 326.63907 652.24054 L 326.63907 663.1202" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_227">
+            <title>arrow</title>
+            <line x1="314.03713" y1="642.0849" x2="331.89883" y2="659.5069" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_204">
+        <title>C</title>
+        <g id="Graphic_208">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 710.2671) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_205">
+          <title>capacitor-variable_b-north</title>
+          <g id="Line_207">
+            <path d="M 187.68472 666.9783 C 190.66284 665.00866 193.5634 664.08575 198.09005 664.08575 C 202.6167 664.08575 205.5612 664.9647 208.57186 667.1096" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_206">
+            <path d="M 187.66383 658.07265 L 198.0677 658.07265 L 208.59276 658.07265" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_224">
+            <title>arrow</title>
+            <line x1="187.08662" y1="671.1885" x2="205.66533" y2="653.032" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_214">
+        <title>C</title>
+        <g id="Graphic_218">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 667.1633)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_215">
+          <title>capacitor-variable_b-west</title>
+          <g id="Line_217">
+            <path d="M 68.09751 641.70295 L 68.09607 652.7649 L 68.09751 663.95565" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_216">
+            <path d="M 76.94022 641.70295 C 74.73308 644.7092 73.9779 649.4775 73.982744 652.7649 C 73.98851 656.0905 74.6799 659.97295 77.04658 663.95565" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_228">
+            <title>arrow</title>
+            <line x1="80.99775" y1="664.1633" x2="63.37865" y2="646.1145" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_61">
+        <title>C</title>
+        <g id="Graphic_65">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 599.42664) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_62">
+          <title>capacitor-electrolytic-south</title>
+          <g id="Graphic_120">
+            <text transform="translate(430.7083 569.0042) rotate(180)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+          <g id="Graphic_126">
+            <title>Rectangle</title>
+            <rect x="423.12994" y="548.2157" width="22.016666" height="5.773201" fill="#999"/>
+          </g>
+          <g id="Line_64">
+            <path d="M 423.1344 554.1438 L 434.07456 554.1453 L 445.14217 554.1438" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_63">
+            <path d="M 423.1344 548.0601 L 434.07456 548.0616 L 445.14217 548.0601" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_66">
+        <title>C</title>
+        <g id="Graphic_70">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 556.32284)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_67">
+          <title>capacitor-electrolytic-west</title>
+          <g id="Graphic_117">
+            <text transform="translate(304.97087 538.7315) rotate(-90)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+          <g id="Graphic_124">
+            <title>Rectangle</title>
+            <rect x="319.82166" y="532.1402" width="5.554266" height="21.182614" fill="#999"/>
+          </g>
+          <g id="Line_69">
+            <path d="M 319.64672 532.1402 L 319.64528 542.66596 L 319.64672 553.3143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_68">
+            <path d="M 325.5523 532.1402 L 325.55086 542.66596 L 325.5523 553.3143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_51">
+        <title>C</title>
+        <g id="Graphic_118">
+          <text transform="translate(203.8139 533.313)" fill="black">
+            <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+          </text>
+        </g>
+        <g id="Graphic_55">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 599.42664) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_52">
+          <title>capacitor-electrolytic-north</title>
+          <g id="Graphic_125">
+            <title>Rectangle</title>
+            <rect x="187.3503" y="548.0107" width="22.677166" height="5.946397" fill="#999"/>
+          </g>
+          <g id="Line_54">
+            <path d="M 187.35487 554.1166 L 198.62326 554.11814 L 210.0229 554.1166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_53">
+            <path d="M 187.35487 547.8504 L 198.62326 547.8519 L 210.0229 547.8504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_56">
+        <title>C</title>
+        <g id="Graphic_60">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 556.32284)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_57">
+          <title>capacitor-electrolytic-east</title>
+          <g id="Graphic_119">
+            <text transform="translate(90.02606 544.6583) rotate(90)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+          <g id="Graphic_121">
+            <title>Rectangle</title>
+            <rect x="68.624725" y="530.6457" width="5.6632355" height="21.5973" fill="#999"/>
+          </g>
+          <g id="Line_59">
+            <path d="M 68.446355 530.6457 L 68.44488 541.37746 L 68.446355 552.2343" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_58">
+            <path d="M 74.4678 530.6457 L 74.46633 541.37746 L 74.4678 552.2343" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_172">
+        <title>C</title>
+        <g id="Graphic_176">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 484.6235) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_236">
+          <title>capacitor-variable_b-top-south</title>
+          <g id="Line_175">
+            <path d="M 422.46944 440.74026 L 433.74237 440.74173 L 445.1466 440.74026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_174">
+            <path d="M 428.4526 434.18283 C 430.3207 434.58166 432.19296 434.74505 433.74237 434.74277 C 437.13146 434.7369 441.08794 434.0323 445.1466 431.6205" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_182">
+        <title>C</title>
+        <g id="Graphic_186">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 441.5197)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_183">
+          <title>capacitor-variable_b-left-horizontal</title>
+          <g id="Line_185">
+            <path d="M 317.4163 415.86516 C 319.55047 419.09205 320.55047 422.2349 320.55047 427.13967 C 320.55047 429.2357 320.37655 431.01864 319.99597 432.6279" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_184">
+            <path d="M 327.0657 415.8425 L 327.0657 427.11545 L 327.0657 438.5197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_241">
+        <title>C</title>
+        <g id="Graphic_171">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 484.6235) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_238">
+          <title>capacitor-variable_b-top-north</title>
+          <g id="Line_240">
+            <path d="M 210.02747 431.62195 L 198.75454 431.6205 L 187.3503 431.62195" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_239">
+            <path d="M 204.0443 438.1794 C 202.1762 437.78056 200.30395 437.61716 198.75454 437.61945 C 195.36545 437.6253 191.40897 438.3299 187.3503 440.74173" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_177">
+        <title>C</title>
+        <g id="Graphic_181">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 441.5197)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_178">
+          <title>capacitor-variable_b-right-horizontal</title>
+          <g id="Line_180">
+            <path d="M 66.86998 415.8425 L 66.86851 427.11545 L 66.86998 438.5197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_179">
+            <path d="M 73.42741 421.8257 C 73.02858 423.6938 72.86519 425.56604 72.86747 427.11545 C 72.87335 430.50454 73.57793 434.461 75.98976 438.5197" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_76">
+        <title>C</title>
+        <g id="Graphic_80">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 369.82034) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_235">
+          <title>capacitor-fixed_polarized_b-south</title>
+          <g id="Line_79">
+            <path d="M 421.6794 324.87997 L 433.34507 324.8815 L 445.1466 324.87997" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_78">
+            <path d="M 421.6794 315.55465 C 424.8497 317.88224 429.8783 318.67864 433.34507 318.67353 C 436.85223 318.66745 440.94655 317.93833 445.1466 315.44248" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_92">
+            <text transform="translate(428.28024 339.12987) rotate(180)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_86">
+        <title>C</title>
+        <g id="Graphic_90">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 326.71654)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_87">
+          <title>capacitor-fixed_polarized_b-east</title>
+          <g id="Line_89">
+            <path d="M 317.73667 301.06165 C 319.83743 304.238 320.82176 307.3316 320.82176 312.15953 C 320.82176 316.98745 319.8843 320.12794 317.59666 323.33897" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_88">
+            <path d="M 327.23506 301.03937 L 327.23506 312.1357 L 327.23506 323.36126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_94">
+            <text transform="translate(341.34915 315.4217) rotate(90)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_71">
+        <title>C</title>
+        <g id="Graphic_75">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 369.82034) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_234">
+          <title>capacitor-fixed_b_polarized-north</title>
+          <g id="Line_74">
+            <path d="M 188.1595 327.2652 C 191.25323 325.21908 194.2664 324.26035 198.96876 324.26035 C 203.67112 324.26035 206.72994 325.17343 209.85747 327.40158" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_73">
+            <path d="M 188.1378 318.01383 L 198.94554 318.01383 L 209.87918 318.01383" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_93">
+            <text transform="translate(201.83913 303.5108)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_81">
+        <title>C</title>
+        <g id="Graphic_85">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 326.71654)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_82">
+          <title>capacitor-fixed_polarized_b-west</title>
+          <g id="Line_84">
+            <path d="M 68.13306 301.03937 L 68.13159 312.3123 L 68.13306 323.71654" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_83">
+            <path d="M 77.14444 301.03937 C 75.34505 303.4902 74.14026 307.81286 74.13055 312.3123 C 74.121915 316.86415 75.32337 320.4696 77.252835 323.71654" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_96">
+            <text transform="translate(54.025196 309.39937) rotate(-90)" fill="black">
+              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_41">
+        <title>C</title>
+        <g id="Graphic_45">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 250.76522) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_232">
+          <title>capacitor-fixed_b-south</title>
+          <g id="Line_44">
+            <path d="M 422.46944 206.34044 L 433.74237 206.3419 L 445.1466 206.34044" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_43">
+            <path d="M 422.46944 197.33853 C 425.533 199.58777 430.3923 200.35736 433.74237 200.35242 C 437.13146 200.34654 441.08794 199.64197 445.1466 197.23014" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_36">
+        <title>C</title>
+        <g id="Graphic_40">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 207.66142)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_37">
+          <title>capacitor-fixed_b-east</title>
+          <g id="Line_39">
+            <path d="M 317.62864 182.0069 C 319.76283 185.23378 320.76283 188.37664 320.76283 193.2814 C 320.76283 198.18616 319.81044 201.37664 317.4864 204.63877" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_38">
+            <path d="M 327.2782 181.98425 L 327.2782 193.25718 L 327.2782 204.66142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_46">
+        <title>C</title>
+        <g id="Graphic_50">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 250.76522) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_47">
+          <title>capacitor-fixed_b-bottom-horizontal</title>
+          <g id="Group_233">
+            <title>capacitor-fixed_b-north</title>
+            <g id="Line_49">
+              <path d="M 187.37294 207.6137 C 190.59983 205.4795 193.7427 204.4795 198.64745 204.4795 C 203.55221 204.4795 206.7427 205.43188 210.00483 207.75594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_48">
+              <path d="M 187.3503 197.96413 L 198.62323 197.96413 L 210.02747 197.96413" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_31">
+        <title>C</title>
+        <g id="Graphic_35">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 207.66142)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_32">
+          <title>capacitor-fixed_b-west</title>
+          <g id="Line_34">
+            <path d="M 67.60001 181.98425 L 67.59854 193.25718 L 67.60001 204.66142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_33">
+            <path d="M 76.61139 181.98425 C 74.36216 185.0478 73.59257 189.9071 73.59751 193.25718 C 73.60338 196.64627 74.30796 200.60275 76.71979 204.66142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_192">
+        <title>C</title>
+        <g id="Graphic_196">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(448.1466 133.12742) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_193">
+          <title>capacitor-variable_a-vertical</title>
+          <g id="Line_195">
+            <path d="M 419.82137 88.43884 L 432.41067 88.44056 L 445.1466 88.43884" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_194">
+            <path d="M 419.82137 81.43808 L 432.41067 81.43981 L 445.1466 81.43808" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_203">
+            <title>arrow</title>
+            <line x1="445.00593" y1="95.23813" x2="423.70517" y2="76.79478" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_197">
+        <title>C</title>
+        <g id="Graphic_201">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.77022 90.02362)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_198">
+          <title>capacitor-variable_a-horizontal</title>
+          <g id="Line_200">
+            <path d="M 320.8392 64.34646 L 320.83765 75.61938 L 320.8392 87.02362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_199">
+            <path d="M 327.16426 64.34646 L 327.1627 75.61938 L 327.16426 87.02362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_202">
+            <title>arrow</title>
+            <line x1="314.7859" y1="86.99449" x2="331.21387" y2="69.66636" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_25">
+        <title>C</title>
+        <g id="Graphic_29">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(213.02747 133.12742) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_26">
+          <title>capacitor-fixed_a-vertical</title>
+          <g id="Group_230">
+            <title>capacitor</title>
+            <g id="Line_28">
+              <path d="M 187.3503 87.8186 L 198.62323 87.82015 L 210.02747 87.8186" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_27">
+              <path d="M 187.3503 81.54993 L 198.62323 81.55148 L 210.02747 81.54993" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_24">
+        <title>C</title>
+        <g id="Graphic_6">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.98675 90.02362)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_23">
+          <title>capacitor-fixed_a-horizontal</title>
+          <g id="Group_231">
+            <title>capacitor</title>
+            <g id="Line_21">
+              <path d="M 68.29511 64.34646 L 68.294015 75.61938 L 68.29511 87.02362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_22">
+              <path d="M 74.56425 64.34646 L 74.56315 75.61938 L 74.56425 87.02362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

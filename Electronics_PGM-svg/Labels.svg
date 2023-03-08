@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 5 0 L -3 -3 L 0 0 L 0 0 L -3 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Labels" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Labels</title>
+    <g id="Labels_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_7">
+        <title>Legend</title>
+        <rect x="47.611654" y="265.32283" width="46" height="22" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(52.611654 270.32283)" fill="black">
+          <tspan font-family="Fira Mono" font-size="10" fill="black" x="0" y="10">Legend</tspan>
+        </text>
+      </g>
+      <g id="Group_41">
+        <title>note-vertical-right</title>
+        <g id="Group_28">
+          <title>note-medium-vertical</title>
+          <g id="Graphic_30">
+            <text transform="translate(296.68546 222.63055) rotate(-90)" fill="black">
+              <tspan font-family="Fira Mono" font-style="italic" font-size="10" fill="black" x="0" y="10">Note</tspan>
+            </text>
+          </g>
+          <g id="Line_29">
+            <line x1="309.3738" y1="222.60463" x2="309.409" y2="198.65325" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_36">
+          <title>note-arrow</title>
+          <line x1="309.409" y1="198.65325" x2="298.69337" y2="188.49666" marker-end="url(#SharpArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_39">
+        <title>note-vertical-left</title>
+        <g id="Group_2">
+          <title>note-medium-vertical</title>
+          <g id="Graphic_4">
+            <text transform="translate(214.05282 222.99212) rotate(-90)" fill="black">
+              <tspan font-family="Fira Mono" font-style="italic" font-size="10" fill="black" x="0" y="10">Note</tspan>
+            </text>
+          </g>
+          <g id="Line_3">
+            <line x1="226.74115" y1="222.9662" x2="226.77636" y2="199.01482" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_34">
+          <title>note-arrow</title>
+          <line x1="226.74115" y1="222.9662" x2="215.93855" y2="233.73922" marker-end="url(#SharpArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_40">
+        <title>note-horizontal-right</title>
+        <g id="Group_31">
+          <title>note-medium-horizontal</title>
+          <g id="Graphic_33">
+            <text transform="translate(131.39054 204.13055)" fill="black">
+              <tspan font-family="Fira Mono" font-style="italic" font-size="10" fill="black" x="0" y="10">Note</tspan>
+            </text>
+          </g>
+          <g id="Line_32">
+            <line x1="131.41646" y1="216.81888" x2="155.36784" y2="216.8541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_35">
+          <title>note-arrow</title>
+          <line x1="155.36784" y1="216.8541" x2="168.5782" y2="225.86256" marker-end="url(#SharpArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_38">
+        <title>note-horizontal-left</title>
+        <g id="Group_19">
+          <title>note-medium-horizontal</title>
+          <g id="Graphic_21">
+            <text transform="translate(58.611654 203.63055)" fill="black">
+              <tspan font-family="Fira Mono" font-style="italic" font-size="10" fill="black" x="0" y="10">Note</tspan>
+            </text>
+          </g>
+          <g id="Line_20">
+            <line x1="58.63758" y1="216.31888" x2="82.58895" y2="216.3541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_37">
+          <title>note-arrow</title>
+          <line x1="58.63758" y1="216.31888" x2="51.89382" y2="224.83954" marker-end="url(#SharpArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_24">
+        <title>right_justified-small-vertical</title>
+        <text transform="translate(287.4151 157.9534) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <title>right_justified-small-horizontal</title>
+        <text transform="translate(206.92332 139.53543)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <title>right_justified-medium-vertical</title>
+        <text transform="translate(138.538 161.6829) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <title>right_justified-medium-horizontal</title>
+        <text transform="translate(50.31673 139.53543)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <title>left_justified-small-vertical</title>
+        <text transform="translate(293.96744 97.12808) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Left</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <title>left_justified-small-horizontal</title>
+        <text transform="translate(216.15926 81.3937)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Left</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <title>left_justified-medium-vertical</title>
+        <text transform="translate(146.60343 100.31167) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Left</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <title>left_justified-medium-horizontal</title>
+        <text transform="translate(61.611654 81.3937)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Left</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <title>center_justified-small-vertical</title>
+        <text transform="translate(290.83306 45.49526) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Center</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <title>center_justified-small-horizontal</title>
+        <text transform="translate(207.6577 24.3937)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="8" fill="black" x="0" y="9">Center</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <title>center_justified-medium-vertical</title>
+        <text transform="translate(142.68546 49.770653) rotate(-90)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Center</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <title>center_justified-medium-horizontal</title>
+        <text transform="translate(51.2347 24.3937)" fill="black">
+          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Center</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

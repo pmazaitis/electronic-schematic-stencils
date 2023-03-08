@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <path d="M 6 0 L 0 -2.25 L 0 2.25 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-7 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <path d="M -6 0 L 0 2.25 L 0 -2.25 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.32 0 L 0 -1.62 L 0 1.62 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M -4.32 0 L 0 1.62 L 0 -1.62 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_5" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M -3.936 0 L 0 1.476 L 0 -1.476 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_6" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="black">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Transistors_-_Q" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Transistors - Q</title>
+    <g id="Transistors_-_Q_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_1470">
+        <title>Q</title>
+        <g id="Graphic_1485">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(406.0081 641.3885)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_1471">
+          <title>transistor-mosfet_n_channel_enhancement-west</title>
+          <g id="Graphic_1484">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="667.3872" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1479">
+            <title>Source</title>
+            <g id="Line_1483">
+              <line x1="474.75074" y1="675.3981" x2="474.75074" y2="667.1254" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1482">
+              <path d="M 459.6378 667.0419 L 463.81697 667.1568 L 466.8508 667.1481" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1481">
+              <title>Point</title>
+              <circle cx="474.75074" cy="676.88625" r="1.48819143808384" fill="black"/>
+              <circle cx="474.75074" cy="676.88625" r="1.48819143808384" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1480">
+              <title>Line</title>
+              <line x1="459.6378" y1="676.9116" x2="482.22527" y2="676.8737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1478">
+            <title>Gate</title>
+            <path d="M 436.97476 676.8296 L 453.68726 676.8296 L 453.68726 657.9296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1477">
+            <title>Drain</title>
+            <line x1="459.72484" y1="657.9077" x2="482.22527" y2="657.7907" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1472">
+            <title>Plate</title>
+            <g id="Line_1476">
+              <line x1="458.95155" y1="679.6234" x2="458.95155" y2="674.35655" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1475">
+              <line x1="458.95155" y1="670.1982" x2="458.95155" y2="664.93136" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1474">
+              <line x1="458.95155" y1="660.773" x2="458.95155" y2="655.5062" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1473">
+              <path d="M 459.72484 657.9077 L 459.6378 667.0419 L 459.6378 659.7969 L 459.6378 676.9116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1454">
+        <title>Q</title>
+        <g id="Graphic_1469">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(274.6972 679.1824)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_1455">
+          <title>transistor-mosfet_n_channel_enhancement-south</title>
+          <g id="Graphic_1468">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="664.6457" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1463">
+            <title>Source</title>
+            <g id="Line_1467">
+              <line x1="336.0543" y1="649.53275" x2="327.39455" y2="649.56256" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1466">
+              <path d="M 327.6981 664.6457 L 327.7318 657.8111 L 327.7173 657.45596" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1465">
+              <title>Point</title>
+              <circle cx="337.54248" cy="649.53275" r="1.48819143808382" fill="black"/>
+              <circle cx="337.54248" cy="649.53275" r="1.48819143808382" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1464">
+              <title>Line</title>
+              <line x1="337.56783" y1="664.6457" x2="337.52994" y2="642.0582" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1462">
+            <title>Gate</title>
+            <path d="M 337.48583 687.3087 L 337.48583 670.5962 L 318.58583 670.5962" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1461">
+            <title>Drain</title>
+            <line x1="318.56396" y1="664.55865" x2="318.44693" y2="642.0582" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1456">
+            <title>Plate</title>
+            <g id="Line_1460">
+              <line x1="340.27963" y1="665.3319" x2="335.01278" y2="665.3319" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1459">
+              <line x1="330.85444" y1="665.3319" x2="325.5876" y2="665.3319" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1458">
+              <line x1="321.42924" y1="665.3319" x2="316.1624" y2="665.3319" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1457">
+              <path d="M 318.56396 664.55865 L 327.6981 664.6457 L 337.56783 664.6457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1438">
+        <title>Q</title>
+        <g id="Graphic_1453">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(200.0749 680.458)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_1439">
+          <title>transistor-mosfet_n_channel_enhancement-east</title>
+          <g id="Graphic_1452">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="663.3701" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1447">
+            <title>Source</title>
+            <g id="Line_1451">
+              <line x1="165.8281" y1="655.3592" x2="165.8281" y2="663.9833" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1450">
+              <path d="M 180.94105 663.7154 L 176.12542 663.8296 L 173.75518 663.8296" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1449">
+              <title>Point</title>
+              <circle cx="165.8281" cy="653.871" r="1.48819143808381" fill="black"/>
+              <circle cx="165.8281" cy="653.871" r="1.48819143808381" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1448">
+              <title>Line</title>
+              <line x1="180.94105" y1="653.8457" x2="158.35358" y2="653.8836" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1446">
+            <title>Gate</title>
+            <path d="M 203.60409 653.9277 L 186.89158 653.9277 L 186.89158 672.8277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1445">
+            <title>Drain</title>
+            <line x1="180.854" y1="672.84956" x2="158.35358" y2="672.9666" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1440">
+            <title>Plate</title>
+            <g id="Line_1444">
+              <line x1="181.6273" y1="651.1339" x2="181.6273" y2="656.4007" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1443">
+              <line x1="181.6273" y1="660.5591" x2="181.6273" y2="665.8259" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1442">
+              <line x1="181.6273" y1="669.9843" x2="181.6273" y2="675.2511" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1441">
+              <path d="M 180.854 672.84956 L 180.94105 663.7154 L 180.94105 670.9604 L 180.94105 653.8457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1422">
+        <title>Q</title>
+        <g id="Graphic_1437">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(74.55118 641.24675)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_1423">
+          <title>transistor-mosfet_n_channel_enhancement-north</title>
+          <g id="Graphic_1436">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="667.5289" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1431">
+            <title>Source</title>
+            <g id="Line_1435">
+              <line x1="45.35538" y1="682.6419" x2="53.711565" y2="682.7315" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1434">
+              <path d="M 53.711565 667.5289 L 53.64101 672.97635 L 53.65443 674.8317" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1433">
+              <title>Point</title>
+              <circle cx="43.86719" cy="682.6419" r="1.48819143808381" fill="black"/>
+              <circle cx="43.86719" cy="682.6419" r="1.48819143808381" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1432">
+              <title>Line</title>
+              <line x1="43.84184" y1="667.5289" x2="43.879724" y2="690.1164" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1430">
+            <title>Gate</title>
+            <path d="M 43.92383 644.8659 L 43.92383 661.5784 L 62.82383 661.5784" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1429">
+            <title>Drain</title>
+            <line x1="62.84571" y1="667.616" x2="62.96273" y2="690.1164" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1424">
+            <title>Plate</title>
+            <g id="Line_1428">
+              <line x1="41.13003" y1="666.8427" x2="46.396885" y2="666.8427" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1427">
+              <line x1="50.55523" y1="666.8427" x2="55.82208" y2="666.8427" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1426">
+              <line x1="59.980425" y1="666.8427" x2="65.24728" y2="666.8427" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1425">
+              <path d="M 62.84571 667.616 L 53.711565 667.5289 L 43.84184 667.5289" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1406">
+        <title>Q</title>
+        <g id="Group_1408">
+          <title>transistor-mosfet_p_channel_enhancement-west</title>
+          <g id="Graphic_1421">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="569.3872" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1416">
+            <title>Source</title>
+            <g id="Line_1420">
+              <line x1="474.75074" y1="577.39806" x2="474.75074" y2="569.1254" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1419">
+              <line x1="467.5371" y1="569.14615" x2="474.75074" y2="569.1254" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1418">
+              <title>Point</title>
+              <circle cx="474.75074" cy="578.88625" r="1.48819143808384" fill="black"/>
+              <circle cx="474.75074" cy="578.88625" r="1.48819143808384" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1417">
+              <title>Line</title>
+              <line x1="459.6378" y1="578.9116" x2="482.22527" y2="578.8737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1415">
+            <title>Gate</title>
+            <path d="M 436.97476 578.8296 L 453.68726 578.8296 L 453.68726 559.9296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1414">
+            <title>Drain</title>
+            <line x1="459.72484" y1="559.9077" x2="482.22527" y2="559.7907" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1409">
+            <title>Plate</title>
+            <g id="Line_1413">
+              <line x1="458.95155" y1="581.6234" x2="458.95155" y2="576.35655" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1412">
+              <line x1="458.95155" y1="572.1982" x2="458.95155" y2="566.93136" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1411">
+              <line x1="458.95155" y1="562.773" x2="458.95155" y2="557.50616" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1410">
+              <path d="M 459.72484 559.9077 L 459.6378 569.0419 L 459.6378 561.7969 L 459.6378 578.9116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_1407">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(406.5593 542.7428)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1390">
+        <title>Q</title>
+        <g id="Group_1392">
+          <title>transistor-mosfet_p_channel_enhancement-south</title>
+          <g id="Graphic_1405">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="565.7953" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1400">
+            <title>Source</title>
+            <g id="Line_1404">
+              <line x1="336.0543" y1="550.68234" x2="327.39455" y2="550.71214" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1403">
+              <line x1="327.53914" y1="557.8969" x2="327.39455" y2="550.71214" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1402">
+              <title>Point</title>
+              <circle cx="337.54248" cy="550.68234" r="1.48819143808382" fill="black"/>
+              <circle cx="337.54248" cy="550.68234" r="1.48819143808382" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1401">
+              <title>Line</title>
+              <line x1="337.56783" y1="565.7953" x2="337.52994" y2="543.2078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1399">
+            <title>Gate</title>
+            <path d="M 337.48583 588.4583 L 337.48583 571.7458 L 318.58583 571.7458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1398">
+            <title>Drain</title>
+            <line x1="318.56396" y1="565.70824" x2="318.44693" y2="543.2078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1393">
+            <title>Plate</title>
+            <g id="Line_1397">
+              <line x1="340.27963" y1="566.4815" x2="335.01278" y2="566.4815" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1396">
+              <line x1="330.85444" y1="566.4815" x2="325.5876" y2="566.4815" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1395">
+              <line x1="321.42924" y1="566.4815" x2="316.1624" y2="566.4815" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1394">
+              <path d="M 318.56396 565.70824 L 327.6981 565.7953 L 337.56783 565.7953" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_1391">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(275.53185 581.3872)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1374">
+        <title>Q</title>
+        <g id="Group_1376">
+          <title>transistor-mosfet_p_channel_enhancement-east</title>
+          <g id="Graphic_1389">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="564.80315" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1384">
+            <title>Source</title>
+            <g id="Line_1388">
+              <line x1="165.8281" y1="556.7923" x2="165.8281" y2="565.4164" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1387">
+              <line x1="173.04187" y1="565.2626" x2="165.85518" y2="565.2626" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1386">
+              <title>Point</title>
+              <circle cx="165.8281" cy="555.3041" r="1.48819143808379" fill="black"/>
+              <circle cx="165.8281" cy="555.3041" r="1.48819143808379" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1385">
+              <title>Line</title>
+              <line x1="180.94105" y1="555.27874" x2="158.35358" y2="555.3166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1383">
+            <title>Gate</title>
+            <path d="M 203.60409 555.36073 L 186.89158 555.36073 L 186.89158 574.2607" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1382">
+            <title>Drain</title>
+            <line x1="180.854" y1="574.2826" x2="158.35358" y2="574.3996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1377">
+            <title>Plate</title>
+            <g id="Line_1381">
+              <line x1="181.6273" y1="552.56693" x2="181.6273" y2="557.8338" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1380">
+              <line x1="181.6273" y1="561.9921" x2="181.6273" y2="567.259" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1379">
+              <line x1="181.6273" y1="571.4173" x2="181.6273" y2="576.6842" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1378">
+              <path d="M 180.854 574.2826 L 180.94105 565.1485 L 180.94105 572.3935 L 180.94105 555.27874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_1375">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(199.55905 582.3793)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1358">
+        <title>Q</title>
+        <g id="Group_1360">
+          <title>transistor-mosfet_p_channel_enhancement-north</title>
+          <g id="Graphic_1373">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="569.24544" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1368">
+            <title>Source</title>
+            <g id="Line_1372">
+              <line x1="45.35538" y1="584.3584" x2="53.711565" y2="584.448" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1371">
+              <line x1="53.65875" y1="577.14526" x2="53.711565" y2="584.448" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1370">
+              <title>Point</title>
+              <circle cx="43.86719" cy="584.3584" r="1.48819143808378" fill="black"/>
+              <circle cx="43.86719" cy="584.3584" r="1.48819143808378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_1369">
+              <title>Line</title>
+              <line x1="43.84184" y1="569.24544" x2="43.879724" y2="591.8329" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1367">
+            <title>Gate</title>
+            <path d="M 43.92383 546.5824 L 43.92383 563.2949 L 62.82383 563.2949" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_1366">
+            <title>Drain</title>
+            <line x1="62.84571" y1="569.3325" x2="62.96273" y2="591.8329" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1361">
+            <title>Plate</title>
+            <g id="Line_1365">
+              <line x1="41.13003" y1="568.5592" x2="46.396885" y2="568.5592" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1364">
+              <line x1="50.55523" y1="568.5592" x2="55.82208" y2="568.5592" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1363">
+              <line x1="59.980425" y1="568.5592" x2="65.24728" y2="568.5592" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1362">
+              <path d="M 62.84571 569.3325 L 53.711565 569.24544 L 43.84184 569.24544" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_1359">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(74.53543 542.8846)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_858">
+        <title>Q</title>
+        <g id="Group_727">
+          <title>transistor-mosfet_n_channel_depletion-west</title>
+          <g id="Graphic_738">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="480.09585" r="24.8031890947457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_733">
+            <title>Source</title>
+            <g id="Line_737">
+              <line x1="474.75074" y1="488.1067" x2="474.7624" y2="479.6628" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_736">
+              <line x1="459.6378" y1="479.75053" x2="466.8625" y2="479.70863" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_735">
+              <title>Point</title>
+              <circle cx="474.75074" cy="489.5949" r="1.48819129922117" fill="black"/>
+              <circle cx="474.75074" cy="489.5949" r="1.48819129922117" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_734">
+              <title>Line</title>
+              <line x1="459.6378" y1="489.62026" x2="482.22527" y2="489.5824" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_730">
+            <title>Plate</title>
+            <g id="Line_732">
+              <path d="M 459.6378 467.69427 L 459.6378 480.16026 L 459.6378 492.4974" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_731">
+              <path d="M 459.72484 470.6164 L 459.6378 479.75053 L 459.6378 472.50553 L 459.6378 489.62026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_729">
+            <title>Gate</title>
+            <path d="M 436.97476 489.53827 L 453.68726 489.53827 L 453.68726 470.63827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_728">
+            <title>Drain</title>
+            <line x1="459.72484" y1="470.6164" x2="482.22527" y2="470.49937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_848">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(409.1105 450.04995)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_857">
+        <title>Q</title>
+        <g id="Group_703">
+          <title>transistor-mosfet_n_channel_depletion-south</title>
+          <g id="Graphic_714">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="472.11027" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_709">
+            <title>Source</title>
+            <g id="Line_713">
+              <line x1="336.0543" y1="456.9973" x2="327.57264" y2="457.0075" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_712">
+              <line x1="327.6981" y1="472.11026" x2="327.63826" y2="464.9072" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_711">
+              <title>Point</title>
+              <circle cx="337.54248" cy="456.9973" r="1.4881912992212" fill="black"/>
+              <circle cx="337.54248" cy="456.9973" r="1.4881912992212" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_710">
+              <title>Line</title>
+              <line x1="337.56783" y1="472.11026" x2="337.52994" y2="449.5228" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_706">
+            <title>Plate</title>
+            <g id="Line_708">
+              <path d="M 315.64184 472.11027 L 328.10783 472.11027 L 340.445 472.11027" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_707">
+              <path d="M 318.56396 472.0232 L 327.6981 472.11026 L 337.56783 472.11026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_705">
+            <title>Gate</title>
+            <path d="M 337.48583 494.7733 L 337.48583 478.0608 L 318.58583 478.0608" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_704">
+            <title>Drain</title>
+            <line x1="318.56396" y1="472.0232" x2="318.44693" y2="449.5228" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_844">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(280.4388 493.08797)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_856">
+        <title>Q</title>
+        <g id="Group_679">
+          <title>transistor-mosfet_n_channel_depletion-east</title>
+          <g id="Graphic_690">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="471.25985" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_685">
+            <title>Source</title>
+            <g id="Line_689">
+              <line x1="165.8281" y1="463.24897" x2="165.8117" y2="471.99156" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_688">
+              <line x1="180.94105" y1="471.60516" x2="173.70913" y2="471.78986" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_687">
+              <title>Point</title>
+              <circle cx="165.8281" cy="461.7608" r="1.48819129922118" fill="black"/>
+              <circle cx="165.8281" cy="461.7608" r="1.48819129922118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_686">
+              <title>Line</title>
+              <line x1="180.94105" y1="461.73543" x2="158.35358" y2="461.7733" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_682">
+            <title>Plate</title>
+            <g id="Line_684">
+              <path d="M 180.94106 483.6614 L 180.94106 471.19543 L 180.94106 458.85827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_683">
+              <path d="M 180.854 480.7393 L 180.94105 471.60516 L 180.94105 478.85016 L 180.94105 461.73543" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_681">
+            <title>Gate</title>
+            <path d="M 203.60409 461.8174 L 186.89158 461.8174 L 186.89158 480.7174" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_680">
+            <title>Drain</title>
+            <line x1="180.854" y1="480.7393" x2="158.35358" y2="480.8563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_840">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(194.12215 493.9384)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_855">
+        <title>Q</title>
+        <g id="Group_643">
+          <title>transistor-mosfet_n_channel_depletion-north</title>
+          <g id="Graphic_654">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="479.8124" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_649">
+            <title>Source</title>
+            <g id="Line_653">
+              <line x1="45.355377" y1="494.9253" x2="53.711565" y2="495.015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_652">
+              <line x1="53.711565" y1="479.8124" x2="53.711565" y2="487.115" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_651">
+              <title>Point</title>
+              <circle cx="43.86719" cy="494.9253" r="1.48819129922121" fill="black"/>
+              <circle cx="43.86719" cy="494.9253" r="1.48819129922121" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_650">
+              <title>Line</title>
+              <line x1="43.84184" y1="479.8124" x2="43.879724" y2="502.39985" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_646">
+            <title>Plate</title>
+            <g id="Line_648">
+              <path d="M 65.76783 479.8124 L 53.301835 479.8124 L 40.96468 479.8124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_647">
+              <path d="M 62.84571 479.8994 L 53.711565 479.8124 L 43.84184 479.8124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_645">
+            <title>Gate</title>
+            <path d="M 43.92383 457.14935 L 43.92383 473.86185 L 62.82383 473.86185" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_644">
+            <title>Drain</title>
+            <line x1="62.84571" y1="479.8994" x2="62.96273" y2="502.39985" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_836">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(72.21665 450.3334)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_854">
+        <title>Q</title>
+        <g id="Group_715">
+          <title>transistor-mosfet_p_channel_depletion-west</title>
+          <g id="Graphic_726">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="393.4974" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_721">
+            <title>Source</title>
+            <g id="Line_725">
+              <line x1="474.75074" y1="401.5083" x2="474.75074" y2="393.05947" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_724">
+              <line x1="467.53765" y1="393.1037" x2="474.75074" y2="393.05947" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_723">
+              <title>Point</title>
+              <circle cx="474.75074" cy="402.99647" r="1.48819129922116" fill="black"/>
+              <circle cx="474.75074" cy="402.99647" r="1.48819129922116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_722">
+              <title>Line</title>
+              <line x1="459.6378" y1="403.0218" x2="482.22527" y2="402.98393" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_718">
+            <title>Plate</title>
+            <g id="Line_720">
+              <path d="M 459.6378 381.09583 L 459.6378 393.5618 L 459.6378 405.899" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_719">
+              <path d="M 459.72484 384.01795 L 459.6378 393.1521 L 459.6378 385.9071 L 459.6378 403.0218" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_717">
+            <title>Gate</title>
+            <path d="M 436.97476 402.93982 L 453.68726 402.93982 L 453.68726 384.03982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_716">
+            <title>Drain</title>
+            <line x1="459.72484" y1="384.01795" x2="482.22527" y2="383.90092" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_847">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(407.4097 365.71923)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_853">
+        <title>Q</title>
+        <g id="Group_691">
+          <title>transistor-mosfet_p_channel_depletion-south</title>
+          <g id="Graphic_702">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="386.36222" r="24.8031890947457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_697">
+            <title>Source</title>
+            <g id="Line_701">
+              <line x1="336.0543" y1="371.2493" x2="327.61467" y2="371.2493" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_700">
+              <line x1="327.6545" y1="378.46234" x2="327.61467" y2="371.2493" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_699">
+              <title>Point</title>
+              <circle cx="337.54248" cy="371.2493" r="1.48819129922118" fill="black"/>
+              <circle cx="337.54248" cy="371.2493" r="1.48819129922118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_698">
+              <title>Line</title>
+              <line x1="337.56783" y1="386.3622" x2="337.52994" y2="363.77475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_694">
+            <title>Plate</title>
+            <g id="Line_696">
+              <path d="M 315.64184 386.36223 L 328.10783 386.36223 L 340.445 386.36223" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_695">
+              <path d="M 318.56396 386.2752 L 327.6981 386.3622 L 337.56783 386.3622" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_693">
+            <title>Gate</title>
+            <path d="M 337.48583 409.02526 L 337.48583 392.31276 L 318.58583 392.31276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_692">
+            <title>Drain</title>
+            <line x1="318.56396" y1="386.2752" x2="318.44693" y2="363.77475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_843">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(281.2892 407.90686)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_852">
+        <title>Q</title>
+        <g id="Group_655">
+          <title>transistor-mosfet_p_channel_depletion-east</title>
+          <g id="Graphic_666">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="386.22048" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_661">
+            <title>Source</title>
+            <g id="Line_665">
+              <line x1="165.8281" y1="378.2096" x2="165.8281" y2="386.66525" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_664">
+              <line x1="173.04122" y1="386.6178" x2="165.8281" y2="386.66525" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_663">
+              <title>Point</title>
+              <circle cx="165.8281" cy="376.7214" r="1.4881912992212" fill="black"/>
+              <circle cx="165.8281" cy="376.7214" r="1.4881912992212" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_662">
+              <title>Line</title>
+              <line x1="180.94105" y1="376.69606" x2="158.35358" y2="376.73395" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_658">
+            <title>Plate</title>
+            <g id="Line_660">
+              <path d="M 180.94106 398.62205 L 180.94106 386.15606 L 180.94106 373.8189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_659">
+              <path d="M 180.854 395.69993 L 180.94105 386.5658 L 180.94105 393.8108 L 180.94105 376.69606" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_657">
+            <title>Gate</title>
+            <path d="M 203.60409 376.77805 L 186.89158 376.77805 L 186.89158 395.67805" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_656">
+            <title>Drain</title>
+            <line x1="180.854" y1="395.69993" x2="158.35358" y2="395.81696" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_839">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(194.26126 408.0486)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_851">
+        <title>Q</title>
+        <g id="Group_630">
+          <title>transistor-mosfet_p_channel_depletion-north</title>
+          <g id="Graphic_598">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="394.3478" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_626">
+            <title>Source</title>
+            <g id="Line_624">
+              <line x1="45.355377" y1="409.46076" x2="53.711565" y2="409.5504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_623">
+              <line x1="53.711565" y1="402.2478" x2="53.711565" y2="409.5504" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_621">
+              <title>Point</title>
+              <circle cx="43.86719" cy="409.46076" r="1.4881912992212" fill="black"/>
+              <circle cx="43.86719" cy="409.46076" r="1.4881912992212" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_594">
+              <title>Line</title>
+              <line x1="43.84184" y1="394.3478" x2="43.879724" y2="416.9353" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_625">
+            <title>Plate</title>
+            <g id="Line_597">
+              <path d="M 65.76783 394.3478 L 53.301835 394.3478 L 40.96468 394.3478" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_596">
+              <path d="M 62.84571 394.43485 L 53.711565 394.3478 L 43.84184 394.3478" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_619">
+            <title>Gate</title>
+            <path d="M 43.92383 371.6848 L 43.92383 388.3973 L 62.82383 388.3973" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_593">
+            <title>Drain</title>
+            <line x1="62.84571" y1="394.43485" x2="62.96273" y2="416.9353" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_835">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(72.21665 364.86882)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1357">
+        <title>Q</title>
+        <g id="Group_1334">
+          <title>transistor-jfet_p_channel-west</title>
+          <g id="Graphic_1341">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="310.26473" r="24.8031890947457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1340">
+            <title>Source</title>
+            <line x1="459.33957" y1="320.38973" x2="482.1232" y2="320.3114" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1337">
+            <title>Plate</title>
+            <g id="Line_1339">
+              <path d="M 459.1378 292.5482 L 459.1378 310.35676 L 459.1378 327.98127" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1338">
+              <path d="M 459.1378 300.13973 L 459.1378 310.18534 L 459.1378 299.3929 L 459.1378 318.51336 L 459.33957 320.38973" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1336">
+            <title>Gate</title>
+            <line x1="459.1378" y1="310.18534" x2="446.77457" y2="310.22573" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1335">
+            <title>Drain</title>
+            <line x1="459.1378" y1="300.13973" x2="482.22527" y2="300.1076" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1349">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(410.23455 279.08497)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1355">
+        <title>Q</title>
+        <g id="Group_1326">
+          <title>transistor-jfet_p_channel-south</title>
+          <g id="Graphic_1333">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="301.5705" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1332">
+            <title>Source</title>
+            <line x1="338.1684" y1="301.8687" x2="338.0901" y2="279.0851" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1329">
+            <title>Plate</title>
+            <g id="Line_1331">
+              <path d="M 310.32688 302.0705 L 328.13544 302.0705 L 345.75995 302.0705" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1330">
+              <path d="M 317.9184 302.0705 L 336.29203 302.0705 L 338.1684 301.8687" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1328">
+            <title>Gate</title>
+            <line x1="327.964" y1="302.0705" x2="328.0044" y2="314.4337" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1327">
+            <title>Drain</title>
+            <line x1="317.9184" y1="302.0705" x2="317.8863" y2="278.983" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1347">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(280.7918 322.83166)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1353">
+        <title>Q</title>
+        <g id="Group_1318">
+          <title>transistor-jfet_p_channel-east</title>
+          <g id="Graphic_1325">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="301.42875" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1324">
+            <title>Source</title>
+            <line x1="181.23928" y1="291.30375" x2="158.45566" y2="291.38207" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1321">
+            <title>Plate</title>
+            <g id="Line_1323">
+              <path d="M 181.44106 319.1453 L 181.44106 301.33673 L 181.44106 283.7122" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1322">
+              <path d="M 181.44106 311.55375 L 181.44106 301.50815 L 181.44106 312.3006 L 181.44106 293.18013 L 181.23928 291.30375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1320">
+            <title>Gate</title>
+            <line x1="181.44106" y1="301.50815" x2="193.80428" y2="301.46776" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1319">
+            <title>Drain</title>
+            <line x1="181.44106" y1="311.55375" x2="158.35358" y2="311.5859" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1344">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(195.82294 322.9734)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1351">
+        <title>Q</title>
+        <g id="Group_1310">
+          <title>transistor-jfet_p_channel-north</title>
+          <g id="Graphic_1317">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="311.96553" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1316">
+            <title>Source</title>
+            <line x1="43.241253" y1="311.6673" x2="43.31957" y2="334.4509" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1313">
+            <title>Plate</title>
+            <g id="Line_1315">
+              <path d="M 71.08279 311.46552 L 53.27423 311.46552 L 35.649718 311.46552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1314">
+              <path d="M 63.49125 311.46552 L 45.11763 311.46552 L 43.241253 311.6673" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1312">
+            <title>Gate</title>
+            <line x1="53.44565" y1="311.46552" x2="53.40526" y2="299.1023" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1311">
+            <title>Drain</title>
+            <line x1="63.49125" y1="311.46552" x2="63.52338" y2="334.553" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1343">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.54736 277.38418)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1356">
+        <title>Q</title>
+        <g id="Group_1272">
+          <title>transistor-jfet_n_channel-west</title>
+          <g id="Graphic_1279">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="224.37497" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1278">
+            <title>Source</title>
+            <line x1="459.33957" y1="234.49997" x2="482.1232" y2="234.42166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1275">
+            <title>Plate</title>
+            <g id="Line_1277">
+              <path d="M 459.1378 206.65844 L 459.1378 224.467 L 459.1378 242.0915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1276">
+              <path d="M 459.1378 214.24997 L 459.1378 224.29558 L 459.1378 213.50312 L 459.1378 232.6236 L 459.33957 234.49997" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1274">
+            <title>Gate</title>
+            <line x1="447.19785" y1="224.33458" x2="434.83463" y2="224.37497" marker-start="url(#FilledArrow_Marker_4)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1273">
+            <title>Drain</title>
+            <line x1="459.1378" y1="214.24997" x2="482.22527" y2="214.21784" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1348">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(409.9511 193.47867)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1354">
+        <title>Q</title>
+        <g id="Group_1264">
+          <title>transistor-jfet_n_channel-south</title>
+          <g id="Graphic_1271">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="215.6807" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1270">
+            <title>Source</title>
+            <line x1="338.1684" y1="215.97894" x2="338.0901" y2="193.19532" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1267">
+            <title>Plate</title>
+            <g id="Line_1269">
+              <path d="M 310.32688 216.18072 L 328.13544 216.18072 L 345.75995 216.18072" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1268">
+              <path d="M 317.9184 216.18072 L 336.29203 216.18072 L 338.1684 215.97894" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1266">
+            <title>Gate</title>
+            <line x1="328.00302" y1="228.12065" x2="328.0434" y2="240.48387" marker-start="url(#FilledArrow_Marker_4)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1265">
+            <title>Drain</title>
+            <line x1="317.9184" y1="216.18072" x2="317.8863" y2="193.09324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1346">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(281.35873 237.22538)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1352">
+        <title>Q</title>
+        <g id="Group_1256">
+          <title>transistor-jfet_n_channel-east</title>
+          <g id="Graphic_1263">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="215.53898" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1262">
+            <title>Source</title>
+            <line x1="181.23928" y1="205.41398" x2="158.45566" y2="205.4923" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1259">
+            <title>Plate</title>
+            <g id="Line_1261">
+              <path d="M 181.44106 233.25552 L 181.44106 215.44696 L 181.44106 197.82245" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1260">
+              <path d="M 181.44106 225.66398 L 181.44106 215.61838 L 181.44106 226.41083 L 181.44106 207.29036 L 181.23928 205.41398" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1258">
+            <title>Gate</title>
+            <line x1="193.381" y1="215.57937" x2="205.74421" y2="215.53898" marker-start="url(#FilledArrow_Marker_4)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1257">
+            <title>Drain</title>
+            <line x1="181.44106" y1="225.66398" x2="158.35358" y2="225.69611" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1345">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(194.81506 237.3671)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1350">
+        <title>Q</title>
+        <g id="Group_1232">
+          <title>transistor-jfet_n_channel-north</title>
+          <g id="Graphic_1239">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="226.2175" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1238">
+            <title>Source</title>
+            <line x1="43.241253" y1="225.91927" x2="43.31957" y2="248.70288" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1235">
+            <title>Plate</title>
+            <g id="Line_1237">
+              <path d="M 71.08279 225.71749 L 53.27423 225.71749 L 35.649718 225.71749" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1236">
+              <path d="M 63.49125 225.71749 L 45.11763 225.71749 L 43.241253 225.91927" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Line_1234">
+            <title>Gate</title>
+            <line x1="53.40915" y1="214.54555" x2="53.36625" y2="201.41433" marker-start="url(#FilledArrow_Marker_5)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1233">
+            <title>Drain</title>
+            <line x1="63.49125" y1="225.71749" x2="63.52338" y2="248.80497" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1342">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.54736 191.63615)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1598">
+        <title>Q</title>
+        <g id="Group_1561">
+          <title>transistor-npn-west</title>
+          <g id="Graphic_1570">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="142.82967" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1567">
+            <title>Plate</title>
+            <g id="Line_1569">
+              <path d="M 452.4094 125.11314 L 452.4094 142.9217 L 452.4094 160.5462" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1568">
+              <path d="M 452.4094 132.70467 L 452.4094 142.75028 L 452.4094 131.95782 L 452.4094 151.0783 L 452.6112 152.95467" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1564">
+            <title>Emitter</title>
+            <g id="Line_1566">
+              <title>Line</title>
+              <line x1="452.6112" y1="152.95467" x2="475.22235" y2="161.78257" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1565">
+              <line x1="462.52484" y1="156.7863" x2="457.54913" y2="154.82303" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1563">
+            <title>Base</title>
+            <line x1="452.4094" y1="142.75028" x2="434.83463" y2="142.82967" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1562">
+            <title>Collector</title>
+            <line x1="452.4094" y1="132.70467" x2="475.2203" y2="123.52991" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1590">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(412.88616 109.00624)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1597">
+        <title>Q</title>
+        <g id="Group_1551">
+          <title>transistor-npn-south</title>
+          <g id="Graphic_1560">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="133.02873" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1557">
+            <title>Plate</title>
+            <g id="Line_1559">
+              <path d="M 310.32688 140.25712 L 328.13544 140.25712 L 345.75995 140.25712" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1558">
+              <path d="M 317.9184 140.25712 L 336.29204 140.25712 L 338.1684 140.05534" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1554">
+            <title>Emitter</title>
+            <g id="Line_1556">
+              <title>Line</title>
+              <line x1="338.1684" y1="140.05534" x2="346.9963" y2="117.44418" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1555">
+              <line x1="342.00003" y1="130.14168" x2="340.03676" y2="135.11739" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1553">
+            <title>Base</title>
+            <line x1="327.964" y1="140.25712" x2="328.0434" y2="157.83189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1552">
+            <title>Collector</title>
+            <line x1="317.9184" y1="140.25712" x2="308.74365" y2="117.4462" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1588">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(281.92568 154.901)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1596">
+        <title>Q</title>
+        <g id="Group_1541">
+          <title>transistor-npn-east</title>
+          <g id="Graphic_1550">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="134.89842" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1547">
+            <title>Plate</title>
+            <g id="Line_1549">
+              <path d="M 188.16945 152.61495 L 188.16945 134.80639 L 188.16945 117.18188" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1548">
+              <path d="M 188.16945 145.02342 L 188.16945 134.97781 L 188.16945 145.77027 L 188.16945 126.6498 L 187.96767 124.77342" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1544">
+            <title>Emitter</title>
+            <g id="Line_1546">
+              <title>Line</title>
+              <line x1="187.96767" y1="124.77342" x2="165.3565" y2="115.94552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1545">
+              <line x1="178.054" y1="120.9418" x2="183.02972" y2="122.90506" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1543">
+            <title>Base</title>
+            <line x1="188.16945" y1="134.97781" x2="205.74421" y2="134.89842" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1542">
+            <title>Collector</title>
+            <line x1="188.16945" y1="145.02342" x2="165.35853" y2="154.19818" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1586">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(198.235 154.0727)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1595">
+        <title>Q</title>
+        <g id="Group_1531">
+          <title>transistor-npn-north</title>
+          <g id="Graphic_1540">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="142.57338" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1537">
+            <title>Plate</title>
+            <g id="Line_1539">
+              <path d="M 71.08279 135.34498 L 53.27423 135.34498 L 35.649717 135.34498" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1538">
+              <path d="M 63.49125 135.34498 L 45.11763 135.34498 L 43.241253 135.54676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1534">
+            <title>Emitter</title>
+            <g id="Line_1536">
+              <title>Line</title>
+              <line x1="43.241253" y1="135.54676" x2="34.413357" y2="158.15793" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1535">
+              <line x1="39.40963" y1="145.46043" x2="41.3729" y2="140.48471" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1533">
+            <title>Base</title>
+            <line x1="53.44565" y1="135.34498" x2="53.36625" y2="117.77022" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1532">
+            <title>Collector</title>
+            <line x1="63.49125" y1="135.34498" x2="72.66602" y2="158.1559" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1584">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(69.535436 110.30391)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1594">
+        <title>Q</title>
+        <g id="Group_1521">
+          <title>transistor-pnp-west</title>
+          <g id="Graphic_1530">
+            <title>Circle</title>
+            <circle cx="459.6378" cy="43.80805" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1527">
+            <title>Plate</title>
+            <g id="Line_1529">
+              <path d="M 452.4094 26.091517 L 452.4094 43.90008 L 452.4094 61.52459" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1528">
+              <path d="M 452.4094 33.683052 L 452.4094 43.72866 L 452.4094 32.9362 L 452.4094 52.056675 L 452.6112 53.93305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1524">
+            <title>Emitter</title>
+            <g id="Line_1526">
+              <title>Line</title>
+              <line x1="452.6112" y1="53.93305" x2="475.22235" y2="62.76095" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1525">
+              <line x1="465.9768" y1="59.12672" x2="470.95253" y2="61.08999" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1523">
+            <title>Base</title>
+            <line x1="452.4094" y1="43.72866" x2="434.83463" y2="43.80805" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1522">
+            <title>Collector</title>
+            <line x1="452.4094" y1="33.683052" x2="475.2203" y2="24.508287" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1589">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(410.47673 12.061358)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1593">
+        <title>Q</title>
+        <g id="Group_1511">
+          <title>transistor-pnp-south</title>
+          <g id="Graphic_1520">
+            <title>Circle</title>
+            <circle cx="328.0434" cy="35.03212" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1517">
+            <title>Plate</title>
+            <g id="Line_1519">
+              <path d="M 310.32688 42.26051 L 328.13544 42.26051 L 345.75995 42.26051" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1518">
+              <path d="M 317.9184 42.26051 L 336.29204 42.26051 L 338.1684 42.05873" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1514">
+            <title>Emitter</title>
+            <g id="Line_1516">
+              <title>Line</title>
+              <line x1="338.1684" y1="42.05873" x2="346.9963" y2="19.447568" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1515">
+              <line x1="343.3621" y1="28.693096" x2="345.32535" y2="23.717385" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1513">
+            <title>Base</title>
+            <line x1="327.964" y1="42.26051" x2="328.0434" y2="59.83528" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1512">
+            <title>Collector</title>
+            <line x1="317.9184" y1="42.26051" x2="308.74365" y2="19.449593" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1587">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(281.74483 56.931116)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1592">
+        <title>Q</title>
+        <g id="Group_1501">
+          <title>transistor-pnp-east</title>
+          <g id="Graphic_1510">
+            <title>Circle</title>
+            <circle cx="180.94105" cy="37.005576" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1507">
+            <title>Plate</title>
+            <g id="Line_1509">
+              <path d="M 188.16945 54.72211 L 188.16945 36.91355 L 188.16945 19.28904" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1508">
+              <path d="M 188.16945 47.130576 L 188.16945 37.08497 L 188.16945 47.877427 L 188.16945 28.756953 L 187.96767 26.880576" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1504">
+            <title>Emitter</title>
+            <g id="Line_1506">
+              <title>Line</title>
+              <line x1="187.96767" y1="26.880576" x2="165.3565" y2="18.05268" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1505">
+              <line x1="174.60203" y1="21.686908" x2="169.62632" y2="19.72364" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1503">
+            <title>Base</title>
+            <line x1="188.16945" y1="37.08497" x2="205.74421" y2="37.005576" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1502">
+            <title>Collector</title>
+            <line x1="188.16945" y1="47.130576" x2="165.35853" y2="56.30534" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1585">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(198.235 55.99904)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1591">
+        <title>Q</title>
+        <g id="Group_1488">
+          <title>transistor-pnp-north</title>
+          <g id="Graphic_1495">
+            <title>Circle</title>
+            <circle cx="53.36625" cy="45.712604" r="24.8031890947458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_1491">
+            <title>Plate</title>
+            <g id="Line_1493">
+              <path d="M 71.08279 38.48421 L 53.27423 38.48421 L 35.649717 38.48421" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+            <g id="Line_1492">
+              <path d="M 63.49125 38.48421 L 45.11763 38.48421 L 43.241253 38.68599" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1500">
+            <title>Emitter</title>
+            <g id="Line_1494">
+              <title>Line</title>
+              <line x1="43.241253" y1="38.68599" x2="34.413357" y2="61.297154" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_1497">
+              <line x1="38.047585" y1="52.051625" x2="36.084316" y2="57.02734" marker-start="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_1490">
+            <title>Base</title>
+            <line x1="53.44565" y1="38.48421" x2="53.36625" y2="20.909442" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_1489">
+            <title>Collector</title>
+            <line x1="63.49125" y1="38.48421" x2="72.66602" y2="61.29513" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_1583">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.54736 11.198187)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

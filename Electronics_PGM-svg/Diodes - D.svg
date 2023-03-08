@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M -1.04 0 L 0 .39 L 0 -.39 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.04 0 L 0 -.39 L 0 .39 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Diodes_-_D" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Diodes - D</title>
+    <g id="Diodes_-_D_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_373">
+        <title>SCR</title>
+        <g id="Graphic_384">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(284.58595 440.77737) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_374">
+          <title>diode-rectfier-south</title>
+          <g id="Group_424">
+            <title>Labels</title>
+            <g id="Graphic_383">
+              <text transform="translate(259.66453 399.06667)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">A</tspan>
+              </text>
+            </g>
+            <g id="Graphic_382">
+              <text transform="translate(248.32595 437.0509)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">G</tspan>
+              </text>
+            </g>
+            <g id="Graphic_381">
+              <text transform="translate(259.66453 442.7202)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">C</tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Graphic_380">
+            <path d="M 258.4865 417.83985 L 265.5731 431.02095 L 272.65972 417.83985 Z" fill="black"/>
+            <path d="M 258.4865 417.83985 L 265.5731 431.02095 L 272.65972 417.83985 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_379">
+            <path d="M 258.4865 431.3881 L 265.57348 431.3881 L 272.69848 431.3881" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Graphic_378">
+            <circle cx="265.5925" cy="424.61396" r="17.7165636391041" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_377">
+            <line x1="265.59023" y1="398.7271" x2="265.59023" y2="424.468" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_376">
+            <line x1="265.59023" y1="451.7567" x2="265.59023" y2="424.468" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_375">
+            <line x1="245.19684" y1="451.7567" x2="265.56548" y2="431.3881" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_397">
+        <title>SCR</title>
+        <g id="Graphic_408">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(214.44228 439.927) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_398">
+          <title>diode-rectfier-north</title>
+          <g id="Group_423">
+            <title>Labels</title>
+            <g id="Graphic_407">
+              <text transform="translate(189.52086 442.37243)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">A</tspan>
+              </text>
+            </g>
+            <g id="Graphic_406">
+              <text transform="translate(178.18228 404.3882)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">G</tspan>
+              </text>
+            </g>
+            <g id="Graphic_405">
+              <text transform="translate(189.52086 398.26923)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">C</tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Graphic_404">
+            <path d="M 188.34282 430.9715 L 195.42944 417.7904 L 202.51605 430.9715 Z" fill="black"/>
+            <path d="M 188.34282 430.9715 L 195.42944 417.7904 L 202.51605 430.9715 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_403">
+            <path d="M 188.34282 417.42325 L 195.4298 417.42325 L 202.5548 417.42325" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Graphic_402">
+            <circle cx="195.44881" cy="424.19737" r="17.7165636391041" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_401">
+            <line x1="195.44655" y1="449.55564" x2="195.44655" y2="424.3433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_400">
+            <line x1="195.44655" y1="397.5228" x2="195.44655" y2="424.3433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_399">
+            <line x1="175.52137" y1="397.5228" x2="195.4218" y2="417.42325" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_361">
+        <title>SCR</title>
+        <g id="Graphic_372">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(111.51682 440.9454)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_362">
+          <title>diode-rectfier-west</title>
+          <g id="Group_422">
+            <title>Labels</title>
+            <g id="Graphic_371">
+              <text transform="translate(146.68464 414.0256)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">A</tspan>
+              </text>
+            </g>
+            <g id="Graphic_370">
+              <text transform="translate(109.58425 402.9854)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">G</tspan>
+              </text>
+            </g>
+            <g id="Graphic_369">
+              <text transform="translate(103.63149 414.0256)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">C</tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Graphic_368">
+            <path d="M 134.0329 414.84593 L 120.8518 421.93254 L 134.0329 429.01916 Z" fill="black"/>
+            <path d="M 134.0329 414.84593 L 120.8518 421.93254 L 134.0329 429.01916 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_367">
+            <path d="M 120.48468 414.84593 L 120.48468 421.9329 L 120.48468 429.0579" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Graphic_366">
+            <circle cx="127.25879" cy="421.9519" r="17.7165636391041" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_365">
+            <line x1="155.9201" y1="421.94966" x2="127.40475" y2="421.94966" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_364">
+            <line x1="99.40846" y1="421.94966" x2="127.40475" y2="421.94966" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_363">
+            <line x1="99.72643" y1="401.16667" x2="120.48468" y2="421.9249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_336">
+        <title>SCR</title>
+        <g id="Graphic_335">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(26.22644 443.1982)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_323">
+          <title>diode-rectfier-east</title>
+          <g id="Group_421">
+            <title>Labels</title>
+            <g id="Graphic_332">
+              <text transform="translate(19.333995 416.2933)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">A</tspan>
+              </text>
+            </g>
+            <g id="Graphic_333">
+              <text transform="translate(56.39547 404.92125)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">G</tspan>
+              </text>
+            </g>
+            <g id="Graphic_334">
+              <text transform="translate(61.49567 416.2933)" fill="black">
+                <tspan font-family="Fira Mono" font-size="6" fill="black" x="0" y="6">C</tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Graphic_325">
+            <path d="M 35.6164 417.0987 L 48.7975 424.18533 L 35.6164 431.27195 Z" fill="black"/>
+            <path d="M 35.6164 417.0987 L 48.7975 424.18533 L 35.6164 431.27195 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_324">
+            <path d="M 49.16463 417.0987 L 49.16463 424.1857 L 49.16463 431.3107" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Graphic_326">
+            <circle cx="42.390513" cy="424.2047" r="17.7165636391042" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_327">
+            <line x1="15.48679" y1="424.20245" x2="42.244555" y2="424.20245" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_329">
+            <line x1="69.26101" y1="424.20245" x2="42.244555" y2="424.20245" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_331">
+            <line x1="69.10694" y1="404.2354" x2="49.16463" y2="424.1777" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_287">
+        <title>D</title>
+        <g id="Graphic_295">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(175.91792 375.9619) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_288">
+          <title>diode-photo-south</title>
+          <g id="Group_465">
+            <g id="Graphic_294">
+              <path d="M 160.429 352.72785 L 167.51562 365.90895 L 174.60223 352.72785 Z" fill="black"/>
+              <path d="M 160.429 352.72785 L 167.51562 365.90895 L 174.60223 352.72785 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_293">
+              <path d="M 160.429 366.90107 L 167.51599 366.90107 L 174.64099 366.90107" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_289">
+            <g id="Line_291">
+              <path d="M 157.4754 358.75566 L 154.88218 360.2944 L 154.88103 360.30004" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_290">
+              <path d="M 159.48008 361.8003 L 156.88685 363.33903 L 156.8857 363.3447" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_296">
+        <title>D</title>
+        <g id="Graphic_304">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(132.59293 375.9619) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_297">
+          <title>diode-photo-north</title>
+          <g id="Group_464">
+            <g id="Graphic_303">
+              <path d="M 117.10402 367.2897 L 124.19063 354.1086 L 131.27724 367.2897 Z" fill="black"/>
+              <path d="M 117.10402 367.2897 L 124.19063 354.1086 L 131.27724 367.2897 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_302">
+              <path d="M 117.10402 353.11647 L 124.191 353.11647 L 131.316 353.11647" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_298">
+            <g id="Line_300">
+              <path d="M 114.15042 361.2619 L 111.55719 359.72315 L 111.55604 359.7175" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_299">
+              <path d="M 116.15509 358.21724 L 113.56186 356.6785 L 113.56071 356.67287" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_305">
+        <title>D</title>
+        <g id="Graphic_313">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(65.02134 366.6464)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_306">
+          <title>diode-photo-west</title>
+          <g id="Group_310">
+            <g id="Graphic_312">
+              <path d="M 88.25541 351.1575 L 75.07431 358.2441 L 88.25541 365.33073 Z" fill="black"/>
+              <path d="M 88.25541 351.1575 L 75.07431 358.2441 L 88.25541 365.33073 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_311">
+              <path d="M 74.08218 351.1575 L 74.08218 358.2445 L 74.08218 365.3695" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_307">
+            <g id="Line_309">
+              <path d="M 82.22759 348.2039 L 80.68887 345.61067 L 80.68322 345.6095" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_308">
+              <path d="M 79.18295 350.20857 L 77.64423 347.61534 L 77.63858 347.6142" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_314">
+        <title>D</title>
+        <g id="Graphic_322">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(21.65126 366.86365)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_315">
+          <title>diode-photo-east</title>
+          <g id="Group_319">
+            <g id="Graphic_321">
+              <path d="M 30.712106 351.37474 L 43.89321 358.46135 L 30.712106 365.54797 Z" fill="black"/>
+              <path d="M 30.712106 351.37474 L 43.89321 358.46135 L 30.712106 365.54797 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_320">
+              <path d="M 44.885335 351.37474 L 44.885335 358.46172 L 44.885335 365.58672" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_316">
+            <g id="Line_318">
+              <path d="M 36.739926 348.42114 L 38.278653 345.8279 L 38.2843 345.82676" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_317">
+              <path d="M 39.784564 350.4258 L 41.32329 347.8326 L 41.32894 347.83143" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_222">
+        <title>D</title>
+        <g id="Graphic_223">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(176.7983 332.056) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_280">
+          <title>diode-light_emitting-south</title>
+          <g id="Group_462">
+            <g id="Graphic_286">
+              <path d="M 161.13319 308.40705 L 168.2198 321.58816 L 175.30641 308.40705 Z" fill="black"/>
+              <path d="M 161.13319 308.40705 L 168.2198 321.58816 L 175.30641 308.40705 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_285">
+              <path d="M 161.13319 322.5803 L 168.22017 322.5803 L 175.34517 322.5803" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_281">
+            <g id="Line_283">
+              <line x1="160.70799" y1="312.9346" x2="158.11143" y2="314.4753" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_282">
+              <line x1="162.71266" y1="315.97925" x2="160.1161" y2="317.51995" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_463">
+        <title>D</title>
+        <g id="Graphic_228">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(133.632 330.04066) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_264">
+          <title>diode-light_emitting-north</title>
+          <g id="Group_460">
+            <g id="Graphic_270">
+              <path d="M 118.14309 320.9798 L 125.2297 307.7987 L 132.31632 320.9798 Z" fill="black"/>
+              <path d="M 118.14309 320.9798 L 125.2297 307.7987 L 132.31632 320.9798 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_269">
+              <path d="M 118.14309 306.8066 L 125.23007 306.8066 L 132.35507 306.8066" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_265">
+            <g id="Line_267">
+              <line x1="117.71789" y1="316.45226" x2="115.12133" y2="314.91155" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_266">
+              <line x1="119.72256" y1="313.40762" x2="117.126" y2="311.8669" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_232">
+        <title>D</title>
+        <g id="Graphic_233">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.78942 317.8243)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_256">
+          <title>diode-light_emitting-west</title>
+          <g id="Group_262">
+            <g id="Graphic_261">
+              <path d="M 89.92556 302.33537 L 76.74446 309.422 L 89.92556 316.5086 Z" fill="black"/>
+              <path d="M 89.92556 302.33537 L 76.74446 309.422 L 89.92556 316.5086 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_260">
+              <path d="M 75.75233 302.33537 L 75.75233 309.42236 L 75.75233 316.54736" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_257">
+            <g id="Line_259">
+              <line x1="85.398" y1="301.91017" x2="83.8573" y2="299.3136" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_258">
+              <line x1="82.35337" y1="303.91484" x2="80.81266" y2="301.3183" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_237">
+        <title>D</title>
+        <g id="Graphic_238">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(23.068582 316.69043)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_239">
+          <title>diode-light_emitting-east</title>
+          <g id="Group_263">
+            <g id="Graphic_241">
+              <path d="M 32.12943 301.2015 L 45.31053 308.28813 L 32.12943 315.37474 Z" fill="black"/>
+              <path d="M 32.12943 301.2015 L 45.31053 308.28813 L 32.12943 315.37474 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_240">
+              <path d="M 46.30266 301.2015 L 46.30266 308.2885 L 46.30266 315.4135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_247">
+            <g id="Line_245">
+              <line x1="36.656987" y1="300.7763" x2="38.19769" y2="298.17975" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_246">
+              <line x1="39.701625" y1="302.781" x2="41.24233" y2="300.18442" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_177">
+        <title>D</title>
+        <g id="Graphic_178">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(176.9278 285.0546) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_217">
+          <title>diode-schottky-south</title>
+          <g id="Graphic_221">
+            <path d="M 175.21184 261.08252 L 168.63165 273.32167 L 162.05146 261.08252 Z" fill="black"/>
+            <path d="M 175.21184 261.08252 L 168.63165 273.32167 L 162.05146 261.08252 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_220">
+            <path d="M 175.21184 274.2429 L 168.6313 274.2429 L 162.01547 274.2429" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_219">
+            <path d="M 175.21184 274.2429 L 175.21184 270.77012 L 172.80353 270.77012" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_218">
+            <path d="M 162.01547 274.2429 L 162.01547 277.66423 L 164.54755 277.66423" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_453">
+        <title>D</title>
+        <g id="Graphic_459">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(131.60987 283.738) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_454">
+          <title>diode-schottky-north</title>
+          <g id="Graphic_458">
+            <path d="M 129.8007 259.74614 L 123.22051 271.9853 L 116.64032 259.74614 Z" fill="black"/>
+            <path d="M 129.8007 259.74614 L 123.22051 271.9853 L 116.64032 259.74614 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_457">
+            <path d="M 129.8007 272.90652 L 123.22017 272.90652 L 116.60433 272.90652" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_456">
+            <path d="M 129.8007 272.90652 L 129.8007 269.43374 L 127.3924 269.43374" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_455">
+            <path d="M 116.60433 272.90652 L 116.60433 276.32785 L 119.13642 276.32785" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_205">
+        <title>D</title>
+        <g id="Graphic_206">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.69149 272.26905)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_207">
+          <title>diode-schottky-west</title>
+          <g id="Graphic_211">
+            <path d="M 90.72622 270.99212 L 77.58106 263.92483 L 90.72622 256.85754 Z" fill="black"/>
+            <path d="M 90.72622 270.99212 L 77.58106 263.92483 L 90.72622 256.85754 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_210">
+            <path d="M 76.59164 270.99212 L 76.59164 263.92446 L 76.59164 256.8189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_209">
+            <path d="M 76.59164 270.99212 L 80.95553 270.99212 L 80.95499 267.61942" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_208">
+            <path d="M 76.59164 256.8189 L 72.53629 256.82712 L 72.53629 260.0651" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_192">
+        <title>D</title>
+        <g id="Graphic_193">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.970652 272.26905)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_194">
+          <title>diode-schottky-east</title>
+          <g id="Graphic_196">
+            <path d="M 29.947007 255.8829 L 43.092616 262.9502 L 29.947007 270.0175 Z" fill="black"/>
+            <path d="M 29.947007 255.8829 L 43.092616 262.9502 L 29.947007 270.0175 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_195">
+            <path d="M 44.08207 255.8829 L 44.08207 262.95057 L 44.08207 270.05614" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_203">
+            <path d="M 44.08207 255.8829 L 39.80818 255.88292 L 39.80818 258.70984" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_204">
+            <path d="M 44.08207 270.05614 L 48.289216 270.0175 L 48.289216 266.65462" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_172">
+        <title>D</title>
+        <g id="Graphic_176">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(177.82677 235.42616) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_173">
+          <title>diode-zener-south</title>
+          <g id="Graphic_175">
+            <path d="M 175.96773 213.3509 L 169.05473 226.2091 L 162.14173 213.3509 Z" fill="black"/>
+            <path d="M 175.96773 213.3509 L 169.05473 226.2091 L 162.14173 213.3509 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_174">
+            <path d="M 177.35033 224.4117 L 174.6215 227.16219 L 163.51954 227.16219 L 160.7541 229.9249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_167">
+        <title>D</title>
+        <g id="Graphic_168">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(132.81352 237.53328) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_169">
+          <title>diode-zener-north</title>
+          <g id="Graphic_171">
+            <path d="M 116.15971 229.39179 L 123.24632 216.21068 L 130.33294 229.39179 Z" fill="black"/>
+            <path d="M 116.15971 229.39179 L 123.24632 216.21068 L 130.33294 229.39179 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_170">
+            <path d="M 114.74239 218.0532 L 117.53974 215.23366 L 128.92053 215.23366 L 131.75542 212.40155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_166">
+        <title>D</title>
+        <g id="Graphic_150">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(68.03401 227.221)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_163">
+          <title>diode-zener-east</title>
+          <g id="Graphic_165">
+            <path d="M 91.00226 224.52528 L 77.807475 217.4313 L 91.00226 210.33734 Z" fill="black"/>
+            <path d="M 91.00226 224.52528 L 77.807475 217.4313 L 91.00226 210.33734 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_164">
+            <path d="M 79.65191 225.94408 L 76.82943 223.14382 L 76.82943 211.75122 L 73.994384 208.91338" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_154">
+        <title>D</title>
+        <g id="Graphic_155">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.970652 227.221)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_162">
+          <title>diode-zener-east</title>
+          <g id="Graphic_158">
+            <path d="M 30.614174 210.33217 L 43.80896 217.42614 L 30.614174 224.52011 Z" fill="black"/>
+            <path d="M 30.614174 210.33217 L 43.80896 217.42614 L 30.614174 224.52011 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_161">
+            <path d="M 41.964525 208.91338 L 44.787 211.71364 L 44.787 223.10624 L 47.62205 225.94408" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_24">
+        <title>D</title>
+        <g id="Graphic_25">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(180.80822 189.15878) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_59">
+          <title>diode-varactor-south</title>
+          <g id="Graphic_62">
+            <title>Triangle to Right</title>
+            <path d="M 179.53129 163.44439 L 172.44467 176.62549 L 165.35806 163.44439 Z" fill="black"/>
+            <path d="M 179.53129 163.44439 L 172.44467 176.62549 L 165.35806 163.44439 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_61">
+            <path d="M 179.53129 177.61761 L 172.4443 177.61761 L 165.3193 177.61761" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_60">
+            <path d="M 179.57005 182.57824 L 172.48306 182.57824 L 165.35806 182.57824" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_29">
+        <title>D</title>
+        <g id="Graphic_30">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(132.81351 189.15878) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_55">
+          <title>diode-varactor-north</title>
+          <g id="Graphic_58">
+            <path d="M 117.36336 183.76473 L 124.44997 170.58363 L 131.53659 183.76473 Z" fill="black"/>
+            <path d="M 117.36336 183.76473 L 124.44997 170.58363 L 131.53659 183.76473 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_57">
+            <path d="M 117.36336 169.5915 L 124.45034 169.5915 L 131.57535 169.5915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_56">
+            <path d="M 117.3246 164.8111 L 124.41159 164.8111 L 131.53659 164.8111" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_54">
+        <title>D</title>
+        <g id="Graphic_35">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(66.69149 176.32623)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_50">
+          <title>diode-varactor-west</title>
+          <g id="Graphic_53">
+            <path d="M 91.46018 160.91462 L 78.35077 167.96269 L 91.46018 175.01076 Z" fill="black"/>
+            <path d="M 91.46018 160.91462 L 78.35077 167.96269 L 91.46018 175.01076 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_52">
+            <path d="M 77.36404 160.91462 L 77.36404 167.96306 L 77.36404 175.0493" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_51">
+            <path d="M 72.00234 160.87607 L 72.00234 167.92451 L 72.00234 175.01076" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_39">
+        <title>D</title>
+        <g id="Graphic_40">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(21.628126 176.32623)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_41">
+          <title>diode-varactor-east</title>
+          <g id="Graphic_43">
+            <path d="M 26.000578 160.91462 L 39.10958 167.96269 L 26.000578 175.01076 Z" fill="black"/>
+            <path d="M 26.000578 160.91462 L 39.10958 167.96269 L 26.000578 175.01076 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_42">
+            <path d="M 40.09628 160.91462 L 40.09628 167.96306 L 40.09628 175.0493" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_49">
+            <path d="M 45.2079 160.87607 L 45.2079 167.92451 L 45.2079 175.01076" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_129">
+        <title>D</title>
+        <g id="Graphic_130">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(236.85826 126.05387)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_131">
+          <title>diode-general-northeast</title>
+          <g id="Graphic_133">
+            <path d="M 234.02337 134.37712 L 238.33283 120.04568 L 224.0014 124.35513 Z" fill="black"/>
+            <path d="M 234.02337 134.37712 L 238.33283 120.04568 L 224.0014 124.35513 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_132">
+            <path d="M 244.04536 124.35513 L 239.0341 119.34387 L 233.99597 114.30574" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_134">
+        <title>D</title>
+        <g id="Graphic_135">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(156.0092 124.86748)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_136">
+          <title>diode-general-southeast</title>
+          <g id="Graphic_138">
+            <path d="M 191.8149 113.54092 L 196.12436 127.87236 L 181.79292 123.5629 Z" fill="black"/>
+            <path d="M 191.8149 113.54092 L 196.12436 127.87236 L 181.79292 123.5629 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_137">
+            <path d="M 201.8369 123.5629 L 196.82564 128.57416 L 191.7875 133.6123" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_124">
+        <title>D</title>
+        <g id="Graphic_125">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(101.64567 124.86748)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_126">
+          <title>diode-general-southwest</title>
+          <g id="Graphic_128">
+            <title>Anode</title>
+            <path d="M 107.87842 123.43521 L 93.54698 127.74467 L 97.85644 113.41323 Z" fill="black"/>
+            <path d="M 107.87842 123.43521 L 93.54698 127.74467 L 97.85644 113.41323 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_127">
+            <title>Cathode</title>
+            <path d="M 97.85644 133.4572 L 92.84518 128.44595 L 87.80704 123.40781" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_433">
+        <title>D</title>
+        <g id="Graphic_437">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.531848 126.05387)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_434">
+          <title>diode-general-northwest</title>
+          <g id="Graphic_436">
+            <path d="M 70.87159 124.54167 L 56.540154 120.23221 L 60.84961 134.56365 Z" fill="black"/>
+            <path d="M 70.87159 124.54167 L 56.540154 120.23221 L 60.84961 134.56365 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_435">
+            <path d="M 60.84961 114.51968 L 55.83835 119.53094 L 50.800217 124.56907" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_443">
+        <title>D</title>
+        <g id="Graphic_447">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(237.99212 72.71)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_444">
+          <title>diode-general-southeast</title>
+          <g id="Graphic_446">
+            <path d="M 224.0014 86.3702 L 238.33283 90.67966 L 234.02337 76.34822 Z" fill="black"/>
+            <path d="M 224.0014 86.3702 L 238.33283 90.67966 L 234.02337 76.34822 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_445">
+            <path d="M 234.02337 96.39219 L 239.03463 91.38093 L 244.07277 86.3428" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_448">
+        <title>D</title>
+        <g id="Graphic_452">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(156.0092 72.843855)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_449">
+          <title>diode-general-northeast</title>
+          <g id="Graphic_451">
+            <path d="M 181.79292 87.46412 L 196.12436 83.15467 L 191.8149 97.4861 Z" fill="black"/>
+            <path d="M 181.79292 87.46412 L 196.12436 83.15467 L 191.8149 97.4861 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_450">
+            <path d="M 191.8149 77.44213 L 196.82616 82.45339 L 201.8643 87.49152" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_119">
+        <title>D</title>
+        <g id="Graphic_120">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(102.10446 73.843855)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_121">
+          <title>diode-general-northwest</title>
+          <g id="Graphic_123">
+            <path d="M 108.97094 87.77329 L 94.6395 83.46383 L 98.94896 97.79527 Z" fill="black"/>
+            <path d="M 108.97094 87.77329 L 94.6395 83.46383 L 98.94896 97.79527 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_122">
+            <path d="M 98.94896 77.7513 L 93.9377 82.76256 L 88.89957 87.80069" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_438">
+        <title>D</title>
+        <g id="Graphic_442">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(24.733463 72.71)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_439">
+          <title>diode-general-southwest</title>
+          <g id="Graphic_441">
+            <title>Anode</title>
+            <path d="M 70.87159 86.60064 L 56.540154 90.9101 L 60.84961 76.57866 Z" fill="black"/>
+            <path d="M 70.87159 86.60064 L 56.540154 90.9101 L 60.84961 76.57866 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_440">
+            <title>Cathode</title>
+            <path d="M 60.84961 96.62263 L 55.83835 91.61137 L 50.800217 86.57324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_19">
+        <title>D</title>
+        <g id="Graphic_20">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(168.03225 57.347756) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_21">
+          <title>diode-general-south</title>
+          <g id="Graphic_23">
+            <title>Anode</title>
+            <path d="M 152.5821 33.586062 L 159.6687 46.767164 L 166.75532 33.586062 Z" fill="black"/>
+            <path d="M 152.5821 33.586062 L 159.6687 46.767164 L 166.75532 33.586062 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_22">
+            <title>Cathode</title>
+            <path d="M 152.5821 47.75929 L 159.66908 47.75929 L 166.79408 47.75929" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_14">
+        <title>D</title>
+        <g id="Graphic_15">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(121.2606 57.347756) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_16">
+          <title>diode-general-north</title>
+          <g id="Graphic_18">
+            <title>Anode</title>
+            <path d="M 105.81044 48.28691 L 112.89706 35.105808 L 119.98367 48.28691 Z" fill="black"/>
+            <path d="M 105.81044 48.28691 L 112.89706 35.105808 L 119.98367 48.28691 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_17">
+            <title>Cathode</title>
+            <path d="M 105.81044 34.11368 L 112.89743 34.11368 L 120.02243 34.11368" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9">
+        <title>D</title>
+        <g id="Graphic_10">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(59.04881 45.59086)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_11">
+          <title>diode-general-west</title>
+          <g id="Graphic_13">
+            <title>Anode</title>
+            <path d="M 82.26356 30.140702 L 69.1184 37.20799 L 82.26356 44.27528 Z" fill="black"/>
+            <path d="M 82.26356 30.140702 L 69.1184 37.20799 L 82.26356 44.27528 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_12">
+            <title>Cathode</title>
+            <path d="M 68.12898 30.140702 L 68.12898 37.20836 L 68.12898 44.31393" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_8">
+        <title>D</title>
+        <g id="Graphic_7">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(19.002145 45.59086)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_6">
+          <title>diode-general-east</title>
+          <g id="Graphic_3">
+            <title>Anode</title>
+            <path d="M 27.66814 30.140702 L 40.813297 37.20799 L 27.66814 44.27528 Z" fill="black"/>
+            <path d="M 27.66814 30.140702 L 40.813297 37.20799 L 27.66814 44.27528 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_5">
+            <title>Cathode</title>
+            <path d="M 41.802717 30.140702 L 41.802717 37.20836 L 41.802717 44.31393" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_74">
+        <title>D</title>
+        <g id="Graphic_72">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(472.96195 48.88761) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_68">
+          <title>diode-gunn-vertical</title>
+          <g id="Graphic_70">
+            <path d="M 471.685 19.346452 L 464.5984 32.527554 L 457.5118 19.346452 Z" fill="black"/>
+            <path d="M 471.685 19.346452 L 464.5984 32.527554 L 457.5118 19.346452 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_69">
+            <path d="M 471.685 46.133844 L 464.5984 32.952742 L 457.5118 46.133844 Z" fill="black"/>
+            <path d="M 471.685 46.133844 L 464.5984 32.952742 L 457.5118 46.133844 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_73">
+        <title>D</title>
+        <g id="Graphic_71">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(373.1911 35.063352)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_67">
+          <title>diode-gunn-horizontal</title>
+          <g id="Graphic_65">
+            <path d="M 375.94487 19.613196 L 389.12597 26.69981 L 375.94487 33.786424 Z" fill="black"/>
+            <path d="M 375.94487 19.613196 L 389.12597 26.69981 L 375.94487 33.786424 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_66">
+            <path d="M 402.73226 19.613196 L 389.55116 26.69981 L 402.73226 33.786424 Z" fill="black"/>
+            <path d="M 402.73226 19.613196 L 389.55116 26.69981 L 402.73226 33.786424 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

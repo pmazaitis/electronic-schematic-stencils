@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.44 0 L 0 -.54 L 0 .54 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Switches_and_Relays_-_S" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Switches and Relays - S</title>
+    <g id="Switches_and_Relays_-_S_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_34">
+        <title>S</title>
+        <g id="Group_10">
+          <title>spdt-north</title>
+          <g id="Line_9">
+            <line x1="230.643" y1="193.88977" x2="208.4063" y2="237.25794" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_6">
+            <circle cx="230.643" cy="189.6378" r="4.25197544234331" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_7">
+            <circle cx="202.58" cy="245.76378" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_8">
+            <circle cx="258.706" cy="246.89764" r="4.25197544234331" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_32">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(265.91205 266.7101) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_33">
+        <title>S</title>
+        <g id="Group_16">
+          <title>spdt-south</title>
+          <g id="Line_20">
+            <line x1="77.66929" y1="242.64567" x2="99.90599" y2="199.2775" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_19">
+            <circle cx="77.66929" cy="246.89764" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_18">
+            <circle cx="105.73228" cy="190.77166" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_17">
+            <circle cx="49.6063" cy="189.6378" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_29">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(112.91276 266.7101) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_31">
+        <title>S</title>
+        <g id="Group_21">
+          <title>spdt-west</title>
+          <g id="Line_25">
+            <line x1="212.4567" y1="81.92126" x2="255.82487" y2="104.15796" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_24">
+            <circle cx="208.20473" cy="81.92126" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_23">
+            <circle cx="264.3307" cy="109.98425" r="4.25197544234333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_22">
+            <circle cx="265.46457" cy="53.85827" r="4.25197544234332" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_28">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(188.39226 117.1601)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_27">
+        <title>S</title>
+        <g id="Group_11">
+          <title>spdt-east</title>
+          <g id="Line_15">
+            <line x1="109.32417" y1="84.24473" x2="65.955996" y2="62.00803" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_14">
+            <circle cx="113.57614" cy="84.24473" r="4.25197544234331" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_13">
+            <circle cx="57.45016" cy="56.18174" r="4.25197544234331" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_12">
+            <circle cx="56.3163" cy="112.30773" r="4.2519754423433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_26">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(36.503836 119.33205)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

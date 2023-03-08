@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#666">
+      <g>
+        <path d="M 1.584 0 L 0 -.594 L 0 .594 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Inductors_and_Transformers_-_L___T" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Inductors and Transformers - L &amp; T</title>
+    <g id="Inductors_and_Transformers_-_L___T_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_770">
+        <title>T</title>
+        <g id="Graphic_767">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(503.21455 690.7481)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_738">
+          <title>transformer-powder_core-step-vertical</title>
+          <g id="Group_739">
+            <title>Coil</title>
+            <g id="Line_748">
+              <line x1="537.9378" y1="685.6432" x2="532.228" y2="685.6432" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_747">
+              <line x1="537.9378" y1="671.47" x2="532.228" y2="671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_746">
+              <path d="M 532.228 685.6432 C 529.30986 685.6432 526.51055 682.7061 526.5182 678.5338 C 526.5807 674.0754 529.4155 671.47 532.228 671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_745">
+              <line x1="538.0266" y1="657.2763" x2="532.2282" y2="657.1759" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_744">
+              <path d="M 532.228 671.47 C 529.30986 671.47 526.51056 668.8742 526.5182 664.7019 C 526.5807 660.2435 529.4157 657.1759 532.2282 657.1759" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_743">
+              <line x1="537.9378" y1="643.12354" x2="532.228" y2="643.12354" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_742">
+              <path d="M 532.2282 657.1759 C 529.31 657.1759 526.51056 654.701 526.5182 650.52864 C 526.5807 646.0703 529.414 643.1235 532.2265 643.1235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_741">
+              <line x1="537.6409" y1="628.9503" x2="531.93107" y2="628.9503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_740">
+              <path d="M 531.93107 643.1235 C 529.0129 643.1235 526.2136 640.5278 526.22126 636.3554 C 526.28376 631.8971 529.1171 628.9503 531.9296 628.9503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_870">
+            <title>Core</title>
+            <g id="Line_758">
+              <line x1="519.50226" y1="678.5657" x2="519.50226" y2="635.0278" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_757">
+              <line x1="522.6468" y1="678.5657" x2="522.6468" y2="635.0278" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_749">
+            <title>Coil</title>
+            <g id="Line_756">
+              <line x1="504.82003" y1="678.7823" x2="510.52986" y2="678.7823" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_755">
+              <line x1="504.82003" y1="664.609" x2="510.52986" y2="664.609" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_754">
+              <path d="M 510.52986 678.7823 C 513.448 678.7823 516.2473 675.6151 516.2397 671.4427 C 516.1772 666.9844 513.34236 664.609 510.52986 664.609" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_753">
+              <line x1="504.82003" y1="650.4358" x2="510.52986" y2="650.4358" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_752">
+              <path d="M 510.52986 664.609 C 513.448 664.609 516.2473 662.0133 516.2397 657.8409 C 516.1772 653.3826 513.34384 650.4358 510.53134 650.4358" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_751">
+              <line x1="504.82003" y1="636.2626" x2="510.52986" y2="636.2626" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_750">
+              <path d="M 510.52986 650.4358 C 513.448 650.4358 516.2473 647.84005 516.2397 643.6677 C 516.1772 639.20935 513.34384 636.2626 510.53134 636.2626" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_769">
+        <title>T</title>
+        <g id="Graphic_766">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(431.72144 690.7481)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_696">
+          <title>transformer-iron_core-step-vertical</title>
+          <g id="Group_697">
+            <title>Coil</title>
+            <g id="Line_706">
+              <line x1="464.68695" y1="685.6432" x2="458.9771" y2="685.6432" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_705">
+              <line x1="464.68695" y1="671.47" x2="458.9771" y2="671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_704">
+              <path d="M 458.9771 685.6432 C 456.059 685.6432 453.25967 682.7061 453.2673 678.5338 C 453.3298 674.0754 456.1646 671.47 458.9771 671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_703">
+              <line x1="464.77574" y1="657.2763" x2="458.9773" y2="657.1759" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_702">
+              <path d="M 458.9771 671.47 C 456.059 671.47 453.2597 668.8742 453.2673 664.7019 C 453.3298 660.2435 456.1648 657.1759 458.9773 657.1759" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_701">
+              <line x1="464.68695" y1="643.12354" x2="458.9771" y2="643.12354" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_700">
+              <path d="M 458.9773 657.1759 C 456.05915 657.1759 453.2597 654.701 453.2673 650.52864 C 453.3298 646.0703 456.16315 643.12354 458.97565 643.12354" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_699">
+              <line x1="464.39" y1="628.9503" x2="458.6802" y2="628.9503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_698">
+              <path d="M 458.6802 643.12354 C 455.76205 643.12354 452.96275 640.5278 452.9704 636.3554 C 453.0329 631.8971 455.8662 628.9503 458.6787 628.9503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_869">
+            <title>Core</title>
+            <g id="Line_716">
+              <line x1="446.2514" y1="679.3157" x2="446.2514" y2="635.7778" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_715">
+              <line x1="449.3959" y1="679.3157" x2="449.3959" y2="635.7778" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_707">
+            <title>Coil</title>
+            <g id="Line_714">
+              <line x1="431.56916" y1="678.7823" x2="437.279" y2="678.7823" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_713">
+              <line x1="431.56916" y1="664.609" x2="437.279" y2="664.609" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_712">
+              <path d="M 437.279 678.7823 C 440.19713 678.7823 442.99644 675.6151 442.9888 671.4427 C 442.9263 666.9844 440.0915 664.609 437.279 664.609" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_711">
+              <line x1="431.56916" y1="650.4358" x2="437.279" y2="650.4358" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_710">
+              <path d="M 437.279 664.609 C 440.19713 664.609 442.9964 662.0133 442.9888 657.8409 C 442.9263 653.3826 440.09296 650.4358 437.28046 650.4358" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_709">
+              <line x1="431.56916" y1="636.2626" x2="437.279" y2="636.2626" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_708">
+              <path d="M 437.279 650.4358 C 440.19713 650.4358 442.9964 647.84005 442.9888 643.6677 C 442.9263 639.20935 440.09296 636.2626 437.28046 636.2626" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_768">
+        <title>T</title>
+        <g id="Graphic_765">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(359.196 690.7481)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_655">
+          <title>transformer-air_core-step-vertical</title>
+          <g id="Group_666">
+            <title>Coil</title>
+            <g id="Line_673">
+              <line x1="359.51962" y1="636.0369" x2="365.22945" y2="636.0369" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_672">
+              <line x1="359.51962" y1="650.21015" x2="365.22945" y2="650.21015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_671">
+              <path d="M 365.22945 636.0369 C 368.1476 636.0369 370.52063 639.8054 370.513 643.9777 C 370.4505 648.4361 368.04195 650.21015 365.22945 650.21015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_670">
+              <path d="M 359.51604 664.3835 C 361.41912 664.3835 365.0091 664.291 365.22586 664.3835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_669">
+              <path d="M 365.22945 650.21015 C 368.1476 650.21015 370.9469 652.8059 370.93926 656.9783 C 370.87676 661.4366 368.04343 664.3834 365.23093 664.3834" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_668">
+              <line x1="359.51962" y1="678.5566" x2="365.22945" y2="678.5566" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_667">
+              <path d="M 365.22945 664.3834 C 368.1476 664.3834 370.9469 666.9791 370.93926 671.1515 C 370.87676 675.6098 368.04343 678.5566 365.23093 678.5566" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_656">
+            <title>Coil</title>
+            <g id="Line_665">
+              <line x1="392.1991" y1="628.9503" x2="386.48925" y2="628.9503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_664">
+              <line x1="392.1991" y1="643.1235" x2="386.48925" y2="643.1235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_663">
+              <path d="M 386.48925 628.9503 C 383.5711 628.9503 380.95216 632.8756 380.9598 637.048 C 381.0223 641.5063 383.67675 643.1235 386.48925 643.1235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_662">
+              <line x1="392.1991" y1="657.2968" x2="386.48925" y2="657.2968" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_661">
+              <path d="M 386.48925 643.1235 C 383.5711 643.1235 380.7718 645.7193 380.77944 649.89166 C 380.84194 654.35 383.67528 657.2968 386.48778 657.2968" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_660">
+              <line x1="392.1991" y1="671.47" x2="386.48925" y2="671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_659">
+              <path d="M 386.48925 657.2968 C 383.5711 657.2968 380.7718 659.8925 380.77944 664.0649 C 380.84194 668.5232 383.67528 671.47 386.48778 671.47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_658">
+              <line x1="392.1991" y1="685.6432" x2="386.48928" y2="685.6432" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_657">
+              <path d="M 386.48928 671.47 C 383.57113 671.47 380.77184 674.06575 380.77946 678.2381 C 380.84196 682.69645 383.6753 685.6432 386.4878 685.6432" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_798">
+        <title>T</title>
+        <g id="Graphic_794">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(291.01283 682.0692) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_717">
+          <title>transformer-powder_core-step-horizontal</title>
+          <g id="Group_718">
+            <title>Coil</title>
+            <g id="Line_727">
+              <line x1="230.96783" y1="682.2307" x2="230.96783" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_726">
+              <line x1="245.14105" y1="682.2307" x2="245.14105" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_725">
+              <path d="M 230.96783 676.5208 C 230.96783 673.6027 233.5636 670.8034 237.73595 670.811 C 242.1943 670.8735 245.14106 673.70686 245.14106 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_724">
+              <line x1="259.31428" y1="682.2307" x2="259.31428" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_723">
+              <path d="M 245.14105 676.5208 C 245.14105 673.6027 247.7368 670.8034 251.90918 670.811 C 256.3675 670.8735 259.31428 673.70686 259.31428 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_722">
+              <line x1="273.4875" y1="682.2307" x2="273.4875" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_721">
+              <path d="M 259.31428 676.5208 C 259.31428 673.6027 261.91004 670.8034 266.0824 670.811 C 270.54074 670.8735 273.4875 673.70686 273.4875 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_720">
+              <line x1="287.66074" y1="681.9337" x2="287.66074" y2="676.2239" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_719">
+              <path d="M 273.4875 676.2239 C 273.4875 673.3058 276.08327 670.5065 280.25564 670.5141 C 284.71397 670.5766 287.66074 673.4099 287.66074 676.2224" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_868">
+            <title>Core</title>
+            <g id="Line_737">
+              <line x1="238.04532" y1="664.3215" x2="281.58325" y2="664.3215" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_736">
+              <line x1="238.04532" y1="667.4396" x2="281.58325" y2="667.4396" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_728">
+            <title>Coil</title>
+            <g id="Line_735">
+              <line x1="237.8288" y1="649.6129" x2="237.8288" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_734">
+              <line x1="252.002" y1="649.6129" x2="252.002" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_733">
+              <path d="M 237.8288 655.3227 C 237.8288 658.24084 240.42454 661.0401 244.5969 661.0325 C 249.05525 660.97 252.00202 658.1367 252.00202 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_732">
+              <line x1="266.17524" y1="649.6129" x2="266.17524" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_731">
+              <path d="M 252.002 655.3227 C 252.002 658.24084 254.59777 661.0401 258.77014 661.0325 C 263.22847 660.97 266.17524 658.1367 266.17524 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_730">
+              <line x1="280.34847" y1="649.6129" x2="280.34847" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_729">
+              <path d="M 266.17524 655.3227 C 266.17524 658.24084 268.771 661.0401 272.94337 661.0325 C 277.4017 660.97 280.34847 658.1367 280.34847 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_796">
+        <title>T</title>
+        <g id="Graphic_793">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(189.5882 682.0692) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_695">
+          <title>transformer-iron_core-step-horizontal</title>
+          <g id="Group_694">
+            <title>Coil</title>
+            <g id="Line_602">
+              <line x1="129.25984" y1="682.2307" x2="129.25984" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_601">
+              <line x1="143.43307" y1="682.2307" x2="143.43307" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_600">
+              <path d="M 129.25984 676.5208 C 129.25984 673.6027 131.8556 670.8034 136.02796 670.811 C 140.4863 670.8735 143.43307 673.70686 143.43307 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_599">
+              <line x1="157.6063" y1="682.2307" x2="157.6063" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_598">
+              <path d="M 143.43307 676.5208 C 143.43307 673.6027 146.02882 670.8034 150.2012 670.811 C 154.65952 670.8735 157.6063 673.70686 157.6063 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_597">
+              <line x1="171.77952" y1="682.2307" x2="171.77952" y2="676.5208" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_596">
+              <path d="M 157.6063 676.5208 C 157.6063 673.6027 160.20205 670.8034 164.37442 670.811 C 168.83275 670.8735 171.77952 673.70686 171.77952 676.5194" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_692">
+              <line x1="185.95275" y1="681.9337" x2="185.95275" y2="676.2239" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_693">
+              <path d="M 171.77952 676.2239 C 171.77952 673.3058 174.37528 670.5065 178.54765 670.5141 C 183.00598 670.5766 185.95275 673.4099 185.95275 676.2224" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_867">
+            <title>Core</title>
+            <g id="Line_595">
+              <line x1="135.58733" y1="664.3215" x2="179.12526" y2="664.3215" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_594">
+              <line x1="135.58733" y1="667.4396" x2="179.12526" y2="667.4396" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_691">
+            <title>Coil</title>
+            <g id="Line_593">
+              <line x1="136.1208" y1="649.6129" x2="136.1208" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_592">
+              <line x1="150.29402" y1="649.6129" x2="150.29402" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_591">
+              <path d="M 136.1208 655.3227 C 136.1208 658.24084 138.71656 661.0401 142.88892 661.0325 C 147.34726 660.97 150.29403 658.1367 150.29403 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_590">
+              <line x1="164.46725" y1="649.6129" x2="164.46725" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_589">
+              <path d="M 150.29402 655.3227 C 150.29402 658.24084 152.88978 661.0401 157.06215 661.0325 C 161.52048 660.97 164.46725 658.1367 164.46725 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_588">
+              <line x1="178.64048" y1="649.6129" x2="178.64048" y2="655.3227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_587">
+              <path d="M 164.46725 655.3227 C 164.46725 658.24084 167.06301 661.0401 171.23538 661.0325 C 175.69371 660.97 178.64048 658.1367 178.64048 655.3242" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_795">
+        <title>T</title>
+        <g id="Graphic_792">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(92.85827 679.7676) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_654">
+          <title>transformer-air_core-step-horizontal</title>
+          <g id="Group_650">
+            <title>Coil</title>
+            <g id="Line_634">
+              <line x1="40.25197" y1="645.0259" x2="40.25197" y2="651.5264" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_633">
+              <line x1="54.425196" y1="645.0259" x2="54.425196" y2="651.5264" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_632">
+              <path d="M 40.25197 651.5264 C 40.25197 654.84865 42.84773 658.0356 47.020095 658.0269 C 51.47843 657.9557 54.4252 654.73006 54.4252 651.5281" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_631">
+              <line x1="68.59842" y1="645.0259" x2="68.59842" y2="651.5264" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_630">
+              <path d="M 54.425196 651.5264 C 54.425196 654.84865 57.020954 658.0356 61.19332 658.0269 C 65.651655 657.9557 68.598424 654.73006 68.598424 651.5281" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_629">
+              <line x1="82.77165" y1="645.0259" x2="82.77165" y2="651.5264" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_628">
+              <path d="M 68.598424 651.5264 C 68.598424 654.84865 71.19418 658.0356 75.36655 658.0269 C 79.82488 657.9557 82.77165 654.73006 82.77165 651.5281" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_653">
+            <title>Coil</title>
+            <g id="Line_627">
+              <line x1="33.165355" y1="682.2306" x2="33.165355" y2="675.73015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_626">
+              <line x1="47.33858" y1="682.2306" x2="47.33858" y2="675.73015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_625">
+              <path d="M 33.165355 675.73015 C 33.165355 672.4079 35.761113 669.221 39.93348 669.2297 C 44.391814 669.3008 47.338584 672.5265 47.338584 675.7285" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_624">
+              <line x1="61.51181" y1="682.2306" x2="61.51181" y2="675.73015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_623">
+              <path d="M 47.33858 675.73015 C 47.33858 672.4079 49.93434 669.221 54.10671 669.2297 C 58.56504 669.3008 61.51181 672.5265 61.51181 675.7285" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_622">
+              <line x1="75.68504" y1="682.2306" x2="75.68504" y2="675.73015" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_621">
+              <path d="M 61.51181 675.73015 C 61.51181 672.4079 64.10757 669.221 68.279936 669.2297 C 72.73827 669.3008 75.68504 672.5265 75.68504 675.7285" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_651">
+              <line x1="89.85827" y1="682.2307" x2="89.85827" y2="675.7302" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_652">
+              <path d="M 75.68504 675.7302 C 75.68504 672.40794 78.2808 669.221 82.45316 669.2297 C 86.9115 669.30086 89.85827 672.5265 89.85827 675.7285" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_764">
+        <title>T</title>
+        <g id="Graphic_761">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(502.93206 594.7801)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+        <g id="Group_464">
+          <title>transformer-powder_core-variable-vertical</title>
+          <g id="Group_865">
+            <title>Coil</title>
+            <g id="Line_480">
+              <line x1="502.9201" y1="548.7513" x2="508.6299" y2="548.7513" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_479">
+              <line x1="502.9201" y1="562.9245" x2="508.6299" y2="562.9245" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_478">
+              <path d="M 508.6299 548.7513 C 511.54805 548.7513 514.42976 551.84794 514.4221 556.0203 C 514.3596 560.47864 511.4424 562.9245 508.6299 562.9245" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_477">
+              <line x1="502.8295" y1="577.10725" x2="508.5393" y2="577.10725" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_476">
+              <path d="M 508.6299 562.9245 C 511.54805 562.9245 514.34735 565.52026 514.3397 569.6926 C 514.2772 574.15096 511.5477 577.0977 508.7352 577.0977" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_475">
+              <line x1="502.9201" y1="591.27096" x2="508.6299" y2="591.27096" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_474">
+              <path d="M 508.7352 577.0977 C 511.6533 577.0977 514.4104 579.60424 514.40277 583.7766 C 514.34027 588.23494 511.50546 591.2599 508.69296 591.2599" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_866">
+            <title>Core</title>
+            <g id="Line_473">
+              <line x1="520.58394" y1="548.24215" x2="520.58394" y2="591.7801" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_472">
+              <line x1="517.5381" y1="548.24215" x2="517.5381" y2="591.7801" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_864">
+            <title>Coil</title>
+            <g id="Line_471">
+              <line x1="535.32954" y1="548.5256" x2="529.6197" y2="548.5256" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_470">
+              <line x1="535.32954" y1="562.69884" x2="529.6197" y2="562.69884" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_469">
+              <path d="M 529.6197 548.5256 C 526.7016 548.5256 523.58117 551.1813 523.5888 555.35364 C 523.6513 559.812 526.8072 562.69884 529.6197 562.69884" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_468">
+              <line x1="535.32954" y1="576.8721" x2="529.6197" y2="576.8721" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_467">
+              <path d="M 529.6197 562.69884 C 526.7016 562.69884 523.9023 565.2946 523.9099 569.467 C 523.9724 573.9253 526.80574 576.8721 529.61824 576.8721" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_466">
+              <line x1="535.32954" y1="591.0453" x2="529.6197" y2="591.0453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_465">
+              <path d="M 529.6197 576.8721 C 526.7016 576.8721 523.9023 579.4678 523.9099 583.6402 C 523.9724 588.0985 526.80574 591.0453 529.61824 591.0453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Line_875">
+          <title>arrow</title>
+          <line x1="505.13384" y1="587.4827" x2="529.6608" y2="556.4152" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_763">
+        <title>T</title>
+        <g id="Group_498">
+          <title>transformer-iron_core-variable-vertical</title>
+          <g id="Group_862">
+            <title>Coil</title>
+            <g id="Line_514">
+              <line x1="430.5481" y1="548.70206" x2="436.2579" y2="548.70206" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_513">
+              <line x1="430.5481" y1="562.8753" x2="436.2579" y2="562.8753" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_512">
+              <path d="M 436.2579 548.70206 C 439.17606 548.70206 442.05776 551.7987 442.05013 555.9711 C 441.98763 560.4294 439.0704 562.8753 436.2579 562.8753" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_511">
+              <line x1="430.4575" y1="577.05804" x2="436.1673" y2="577.05804" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_510">
+              <path d="M 436.2579 562.8753 C 439.17606 562.8753 441.97535 565.47105 441.9677 569.6434 C 441.9052 574.10175 439.1757 577.0485 436.3632 577.0485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_509">
+              <line x1="430.5481" y1="591.22174" x2="436.2579" y2="591.22174" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_508">
+              <path d="M 436.3632 577.0485 C 439.2813 577.0485 442.0384 579.555 442.03077 583.7274 C 441.96827 588.1857 439.13347 591.2107 436.32097 591.2107" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_863">
+            <title>Core</title>
+            <g id="Line_507">
+              <line x1="448.21194" y1="548.19294" x2="448.21194" y2="591.7309" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_506">
+              <line x1="445.1661" y1="548.19294" x2="445.1661" y2="591.7309" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_861">
+            <title>Coil</title>
+            <g id="Line_505">
+              <line x1="462.95755" y1="548.4764" x2="457.2477" y2="548.4764" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_504">
+              <line x1="462.95755" y1="562.6496" x2="457.2477" y2="562.6496" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_503">
+              <path d="M 457.2477 548.4764 C 454.3296 548.4764 451.20917 551.13206 451.2168 555.3044 C 451.2793 559.76276 454.4352 562.6496 457.2477 562.6496" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_502">
+              <line x1="462.95755" y1="576.82286" x2="457.2477" y2="576.82286" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_501">
+              <path d="M 457.2477 562.6496 C 454.3296 562.6496 451.5303 565.2454 451.5379 569.41776 C 451.6004 573.8761 454.43374 576.82286 457.24624 576.82286" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_500">
+              <line x1="462.95755" y1="590.9961" x2="457.2477" y2="590.9961" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_499">
+              <path d="M 457.2477 576.82286 C 454.3296 576.82286 451.5303 579.4186 451.5379 583.591 C 451.6004 588.0493 454.43374 590.9961 457.24624 590.9961" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_874">
+            <title>arrow</title>
+            <line x1="432.5669" y1="587.1992" x2="457.0939" y2="556.1317" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_760">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(430.56006 594.7309)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_762">
+        <title>T</title>
+        <g id="Group_530">
+          <title>transformer-air_core-variable-vertical</title>
+          <g id="Group_860">
+            <title>Coil</title>
+            <g id="Line_544">
+              <line x1="358.90666" y1="547.9009" x2="364.6165" y2="547.9009" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_543">
+              <line x1="358.90666" y1="562.0741" x2="364.6165" y2="562.0741" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_542">
+              <path d="M 364.6165 547.9009 C 367.53463 547.9009 370.41633 550.99755 370.4087 555.1699 C 370.3462 559.62825 367.429 562.0741 364.6165 562.0741" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_541">
+              <line x1="358.81607" y1="576.25686" x2="364.5259" y2="576.25686" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_540">
+              <path d="M 364.6165 562.0741 C 367.53463 562.0741 370.33392 564.66987 370.3263 568.8422 C 370.2638 573.3006 367.53425 576.2473 364.72175 576.2473" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_539">
+              <line x1="358.90666" y1="590.42056" x2="364.6165" y2="590.42056" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_538">
+              <path d="M 364.72175 576.2473 C 367.6399 576.2473 370.39697 578.75385 370.38934 582.9262 C 370.32684 587.38455 367.49204 590.4095 364.67954 590.4095" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_859">
+            <title>Coil</title>
+            <g id="Line_537">
+              <line x1="391.3161" y1="547.6752" x2="385.6063" y2="547.6752" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_536">
+              <line x1="391.3161" y1="561.84845" x2="385.6063" y2="561.84845" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_535">
+              <path d="M 385.6063 547.6752 C 382.68815 547.6752 379.56774 550.3309 379.57537 554.50325 C 379.63787 558.9616 382.7938 561.84845 385.6063 561.84845" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_534">
+              <line x1="391.3161" y1="576.0217" x2="385.6063" y2="576.0217" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_533">
+              <path d="M 385.6063 561.84845 C 382.68815 561.84845 379.88885 564.4442 379.8965 568.6166 C 379.959 573.0749 382.7923 576.0217 385.6048 576.0217" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_532">
+              <line x1="391.3161" y1="590.1949" x2="385.6063" y2="590.1949" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_531">
+              <path d="M 385.6063 576.0217 C 382.68815 576.0217 379.88885 578.61744 379.8965 582.7898 C 379.959 587.24814 382.7923 590.1949 385.6048 590.1949" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_549">
+            <title>arrow</title>
+            <line x1="361.05364" y1="586.3379" x2="385.5806" y2="555.2704" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_759">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(358.91863 593.42056)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_791">
+        <title>T</title>
+        <g id="Group_447">
+          <title>transformer-powder_core-variable-horizontal</title>
+          <g id="Group_857">
+            <title>Coil</title>
+            <g id="Line_463">
+              <line x1="241.86804" y1="604.6034" x2="241.86804" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_462">
+              <line x1="256.04127" y1="604.6034" x2="256.04127" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_461">
+              <path d="M 241.86804 598.89356 C 241.86804 595.9754 244.4638 593.1761 248.63617 593.18375 C 253.0945 593.24625 256.04127 596.0796 256.04127 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_460">
+              <line x1="270.2145" y1="604.6034" x2="270.2145" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_459">
+              <path d="M 256.04127 598.89356 C 256.04127 595.9754 258.63703 593.1761 262.8094 593.18375 C 267.26773 593.24625 270.2145 596.0796 270.2145 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_458">
+              <line x1="284.38773" y1="604.6034" x2="284.38773" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_457">
+              <path d="M 270.2145 598.89356 C 270.2145 595.9754 272.81026 593.1761 276.98263 593.18375 C 281.44096 593.24625 284.38773 596.0796 284.38773 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_858">
+            <title>Core</title>
+            <g id="Line_456">
+              <line x1="241.85892" y1="586.9026" x2="285.39685" y2="586.9026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_455">
+              <line x1="241.85892" y1="590.0207" x2="285.39685" y2="590.0207" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_856">
+            <title>Coil</title>
+            <g id="Line_454">
+              <line x1="241.6424" y1="572.1939" x2="241.6424" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_453">
+              <line x1="255.8156" y1="572.1939" x2="255.8156" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_452">
+              <path d="M 241.6424 577.90375 C 241.6424 580.8219 244.23815 583.6212 248.4105 583.61356 C 252.86885 583.55106 255.81562 580.7177 255.81562 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_451">
+              <line x1="269.98884" y1="572.1939" x2="269.98884" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_450">
+              <path d="M 255.8156 577.90375 C 255.8156 580.8219 258.41137 583.6212 262.58374 583.61356 C 267.04207 583.55106 269.98884 580.7177 269.98884 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_449">
+              <line x1="284.16207" y1="572.1939" x2="284.16207" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_448">
+              <path d="M 269.98884 577.90375 C 269.98884 580.8219 272.5846 583.6212 276.75697 583.61356 C 281.2153 583.55106 284.16207 580.7177 284.16207 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_873">
+            <title>arrow</title>
+            <line x1="246.3307" y1="573.16534" x2="275.99216" y2="600.1555" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_788">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(287.31495 604.59626) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_790">
+        <title>T</title>
+        <g id="Group_481">
+          <title>transformer-iron_core-variable-horizontal</title>
+          <g id="Group_854">
+            <title>Coil</title>
+            <g id="Line_497">
+              <line x1="140.7245" y1="604.6034" x2="140.7245" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_496">
+              <line x1="154.89773" y1="604.6034" x2="154.89773" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_495">
+              <path d="M 140.7245 598.89356 C 140.7245 595.9754 143.32026 593.1761 147.49263 593.18375 C 151.95096 593.24625 154.89773 596.0796 154.89773 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_494">
+              <line x1="169.07096" y1="604.6034" x2="169.07096" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_493">
+              <path d="M 154.89773 598.89356 C 154.89773 595.9754 157.49349 593.1761 161.66586 593.18375 C 166.12419 593.24625 169.07096 596.0796 169.07096 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_492">
+              <line x1="183.24419" y1="604.6034" x2="183.24419" y2="598.89356" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_491">
+              <path d="M 169.07096 598.89356 C 169.07096 595.9754 171.66672 593.1761 175.83909 593.18375 C 180.29742 593.24625 183.24419 596.0796 183.24419 598.8921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_855">
+            <title>Core</title>
+            <g id="Line_490">
+              <line x1="140.21538" y1="586.9026" x2="183.7533" y2="586.9026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_489">
+              <line x1="140.21538" y1="590.0207" x2="183.7533" y2="590.0207" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_853">
+            <title>Coil</title>
+            <g id="Line_488">
+              <line x1="140.49885" y1="572.1939" x2="140.49885" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_487">
+              <line x1="154.67207" y1="572.1939" x2="154.67207" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_486">
+              <path d="M 140.49885 577.90375 C 140.49885 580.8219 143.0946 583.6212 147.26697 583.61356 C 151.7253 583.55106 154.67208 580.7177 154.67208 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_485">
+              <line x1="168.8453" y1="572.1939" x2="168.8453" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_484">
+              <path d="M 154.67207 577.90375 C 154.67207 580.8219 157.26783 583.6212 161.4402 583.61356 C 165.89853 583.55106 168.8453 580.7177 168.8453 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_483">
+              <line x1="183.01853" y1="572.1939" x2="183.01853" y2="577.90375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_482">
+              <path d="M 168.8453 577.90375 C 168.8453 580.8219 171.44106 583.6212 175.61343 583.61356 C 180.07176 583.55106 183.01853 580.7177 183.01853 577.9052" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_872">
+            <title>arrow</title>
+            <line x1="145.13385" y1="572.8819" x2="174.79531" y2="599.8721" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_787">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(186.1181 604.3128) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_789">
+        <title>T</title>
+        <g id="Group_515">
+          <title>transformer-air_core-variable-horizontal</title>
+          <g id="Group_852">
+            <title>Coil</title>
+            <g id="Line_529">
+              <line x1="45.54304" y1="603.5082" x2="45.54304" y2="597.0077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_528">
+              <line x1="59.716266" y1="603.5082" x2="59.716266" y2="597.0077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_527">
+              <path d="M 45.54304 597.0077 C 45.54304 593.6855 48.1388 590.4986 52.311166 590.50725 C 56.7695 590.5784 59.71627 593.8041 59.71627 597.00604" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_526">
+              <line x1="73.88949" y1="603.5082" x2="73.88949" y2="597.0077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_525">
+              <path d="M 59.716266 597.0077 C 59.716266 593.6855 62.312024 590.4986 66.48439 590.50725 C 70.942725 590.5784 73.889495 593.8041 73.889495 597.00604" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_524">
+              <line x1="88.06272" y1="603.5082" x2="88.06272" y2="597.0077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_523">
+              <path d="M 73.889495 597.0077 C 73.889495 593.6855 76.48525 590.4986 80.65762 590.50725 C 85.11595 590.5784 88.06272 593.8041 88.06272 597.00604" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_851">
+            <title>Coil</title>
+            <g id="Line_522">
+              <line x1="45.31738" y1="566.6109" x2="45.31738" y2="573.1114" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_521">
+              <line x1="59.49061" y1="566.6109" x2="59.49061" y2="573.1114" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_520">
+              <path d="M 45.31738 573.1114 C 45.31738 576.4336 47.91314 579.6205 52.08551 579.61184 C 56.54384 579.5407 59.49061 576.315 59.49061 573.11305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_519">
+              <line x1="73.663835" y1="566.6109" x2="73.663835" y2="573.1114" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_518">
+              <path d="M 59.49061 573.1114 C 59.49061 576.4336 62.08637 579.6205 66.258735 579.61184 C 70.71707 579.5407 73.66384 576.315 73.66384 573.11305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_517">
+              <line x1="87.83706" y1="566.6109" x2="87.83706" y2="573.1114" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_516">
+              <path d="M 73.66384 573.1114 C 73.66384 576.4336 76.2596 579.6205 80.43196 579.61184 C 84.8903 579.5407 87.83707 576.315 87.83707 573.11305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Line_545">
+            <title>arrow</title>
+            <line x1="50.801876" y1="570.6449" x2="80.46333" y2="597.63506" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_786">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(90.87401 601.28755) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_776">
+        <title>T</title>
+        <g id="Group_430">
+          <title>transformer-powder_core-static-vertical</title>
+          <g id="Group_849">
+            <title>Coil</title>
+            <g id="Line_446">
+              <line x1="504.2817" y1="450.3069" x2="509.9915" y2="450.3069" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_445">
+              <line x1="504.2817" y1="464.4801" x2="509.9915" y2="464.4801" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_444">
+              <path d="M 509.9915 450.3069 C 512.90966 450.3069 515.79136 453.40355 515.78373 457.5759 C 515.72123 462.03426 512.804 464.4801 509.9915 464.4801" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_443">
+              <line x1="504.1911" y1="478.66286" x2="509.9009" y2="478.66286" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_442">
+              <path d="M 509.9915 464.4801 C 512.90966 464.4801 515.70895 467.0759 515.7013 471.24824 C 515.6388 475.7066 512.9093 478.65334 510.0968 478.65334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_441">
+              <line x1="504.2817" y1="492.82657" x2="509.9915" y2="492.82657" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_440">
+              <path d="M 510.0968 478.65334 C 513.0149 478.65334 515.772 481.15986 515.7644 485.3322 C 515.7019 489.79056 512.86707 492.8155 510.05457 492.8155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_850">
+            <title>Core</title>
+            <g id="Line_439">
+              <line x1="521.94554" y1="450.17277" x2="521.94554" y2="493.7107" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_438">
+              <line x1="518.8997" y1="450.17277" x2="518.8997" y2="493.7107" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_848">
+            <title>Coil</title>
+            <g id="Line_437">
+              <line x1="536.69115" y1="450.08123" x2="530.9813" y2="450.08123" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_436">
+              <line x1="536.69115" y1="464.25446" x2="530.9813" y2="464.25446" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_435">
+              <path d="M 530.9813 450.08123 C 528.0632 450.08123 524.9428 452.7369 524.9504 456.90926 C 525.0129 461.3676 528.1688 464.25446 530.9813 464.25446" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_434">
+              <line x1="536.69115" y1="478.4277" x2="530.9813" y2="478.4277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_433">
+              <path d="M 530.9813 464.25446 C 528.0632 464.25446 525.2639 466.8502 525.2715 471.0226 C 525.334 475.4809 528.16734 478.4277 530.97984 478.4277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_432">
+              <line x1="536.69115" y1="492.6009" x2="530.9813" y2="492.6009" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_431">
+              <path d="M 530.9813 478.4277 C 528.0632 478.4277 525.2639 481.02344 525.2715 485.1958 C 525.334 489.65415 528.16734 492.6009 530.97984 492.6009" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_773">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(504.29366 496.7107)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_775">
+        <title>T</title>
+        <g id="Group_362">
+          <title>transformer-iron_core-static-vertical</title>
+          <g id="Group_846">
+            <title>Coiil</title>
+            <g id="Line_378">
+              <line x1="431.52365" y1="450.3674" x2="437.2335" y2="450.3674" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_377">
+              <line x1="431.52365" y1="464.5406" x2="437.2335" y2="464.5406" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_376">
+              <path d="M 437.2335 450.3674 C 440.1516 450.3674 443.0333 453.46404 443.0257 457.6364 C 442.9632 462.09474 440.046 464.5406 437.2335 464.5406" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_375">
+              <line x1="431.43306" y1="478.72335" x2="437.1429" y2="478.72335" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_374">
+              <path d="M 437.2335 464.5406 C 440.1516 464.5406 442.9509 467.13636 442.9433 471.30873 C 442.8808 475.76706 440.15124 478.71383 437.33874 478.71383" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_373">
+              <line x1="431.52365" y1="492.88706" x2="437.2335" y2="492.88706" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_372">
+              <path d="M 437.33874 478.71383 C 440.2569 478.71383 443.01396 481.22034 443.00633 485.3927 C 442.94383 489.85104 440.10903 492.876 437.29653 492.876" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_847">
+            <title>Core</title>
+            <g id="Line_371">
+              <line x1="449.1875" y1="449.85826" x2="449.1875" y2="493.3962" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_370">
+              <line x1="446.14165" y1="449.85826" x2="446.14165" y2="493.3962" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_845">
+            <title>Coil</title>
+            <g id="Line_369">
+              <line x1="463.9331" y1="450.1417" x2="458.2233" y2="450.1417" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_368">
+              <line x1="463.9331" y1="464.31495" x2="458.2233" y2="464.31495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_367">
+              <path d="M 458.2233 450.1417 C 455.30514 450.1417 452.18473 452.7974 452.19236 456.96974 C 452.25486 461.4281 455.4108 464.31495 458.2233 464.31495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_366">
+              <line x1="463.9331" y1="478.4882" x2="458.2233" y2="478.4882" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_365">
+              <path d="M 458.2233 464.31495 C 455.30514 464.31495 452.50584 466.9107 452.51347 471.08307 C 452.57597 475.5414 455.4093 478.4882 458.2218 478.4882" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_364">
+              <line x1="463.9331" y1="492.6614" x2="458.2233" y2="492.6614" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_363">
+              <path d="M 458.2233 478.4882 C 455.30514 478.4882 452.50584 481.08393 452.51347 485.2563 C 452.57597 489.71463 455.4093 492.6614 458.2218 492.6614" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_772">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(431.5356 496.3962)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_774">
+        <title>T</title>
+        <g id="Group_396">
+          <title>transformer-air_core-static-vertical</title>
+          <g id="Group_844">
+            <title>Coil</title>
+            <g id="Line_412">
+              <line x1="359.41787" y1="450.816" x2="365.1277" y2="450.816" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_411">
+              <line x1="359.41787" y1="464.98924" x2="365.1277" y2="464.98924" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_410">
+              <path d="M 365.1277 450.816 C 368.04584 450.816 370.92754 453.9127 370.9199 458.08504 C 370.8574 462.5434 367.9402 464.98924 365.1277 464.98924" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_409">
+              <line x1="359.32728" y1="479.172" x2="365.0371" y2="479.172" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_408">
+              <path d="M 365.1277 464.98924 C 368.04584 464.98924 370.84513 467.585 370.8375 471.75736 C 370.775 476.2157 368.04546 479.16246 365.23296 479.16246" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_407">
+              <line x1="359.41787" y1="493.3357" x2="365.1277" y2="493.3357" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_406">
+              <path d="M 365.23296 479.16246 C 368.1511 479.16246 370.9082 481.669 370.90055 485.84134 C 370.83805 490.2997 368.00325 493.3246 365.19075 493.3246" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_843">
+            <title>Coil</title>
+            <g id="Line_403">
+              <line x1="391.82733" y1="450.59035" x2="386.1175" y2="450.59035" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_402">
+              <line x1="391.82733" y1="464.7636" x2="386.1175" y2="464.7636" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_401">
+              <path d="M 386.1175 450.59035 C 383.19936 450.59035 380.07895 453.246 380.0866 457.4184 C 380.1491 461.8767 383.305 464.7636 386.1175 464.7636" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_400">
+              <line x1="391.82733" y1="478.9368" x2="386.1175" y2="478.9368" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_399">
+              <path d="M 386.1175 464.7636 C 383.19936 464.7636 380.40006 467.35934 380.4077 471.5317 C 380.4702 475.99004 383.30352 478.9368 386.11602 478.9368" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_398">
+              <line x1="391.82733" y1="493.11003" x2="386.1175" y2="493.11003" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_397">
+              <path d="M 386.1175 478.9368 C 383.19936 478.9368 380.40006 481.53257 380.4077 485.70493 C 380.4702 490.16327 383.30352 493.11004 386.11602 493.11004" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_771">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(358.91863 496.7107)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_782">
+        <title>T</title>
+        <g id="Group_413">
+          <title>transformer-powder_core-static-horizontal</title>
+          <g id="Group_841">
+            <title>Coil</title>
+            <g id="Line_429">
+              <line x1="237.32753" y1="517.40407" x2="237.32753" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_428">
+              <line x1="251.50075" y1="517.40407" x2="251.50075" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_427">
+              <path d="M 237.32753 511.69424 C 237.32753 508.7761 239.92328 505.9768 244.09565 505.9844 C 248.554 506.0469 251.50076 508.88026 251.50076 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_426">
+              <line x1="265.67398" y1="517.40407" x2="265.67398" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_425">
+              <path d="M 251.50075 511.69424 C 251.50075 508.7761 254.0965 505.9768 258.26888 505.9844 C 262.7272 506.0469 265.67398 508.88026 265.67398 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_424">
+              <line x1="279.8472" y1="517.40407" x2="279.8472" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_423">
+              <path d="M 265.67398 511.69424 C 265.67398 508.7761 268.26974 505.9768 272.4421 505.9844 C 276.90044 506.0469 279.8472 508.88026 279.8472 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_842">
+            <title>Core</title>
+            <g id="Line_422">
+              <line x1="237.1934" y1="499.70326" x2="280.73133" y2="499.70326" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_421">
+              <line x1="237.1934" y1="502.82137" x2="280.73133" y2="502.82137" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_840">
+            <title>Coil</title>
+            <g id="Line_420">
+              <line x1="237.10187" y1="484.9946" x2="237.10187" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_419">
+              <line x1="251.2751" y1="484.9946" x2="251.2751" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_418">
+              <path d="M 237.10187 490.70443 C 237.10187 493.6226 239.69763 496.4219 243.87 496.41424 C 248.32833 496.35174 251.2751 493.5184 251.2751 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_417">
+              <line x1="265.44832" y1="484.9946" x2="265.44832" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_416">
+              <path d="M 251.2751 490.70443 C 251.2751 493.6226 253.87085 496.4219 258.04322 496.41424 C 262.50155 496.35174 265.44832 493.5184 265.44832 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_415">
+              <line x1="279.62155" y1="484.9946" x2="279.62155" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_414">
+              <path d="M 265.44832 490.70443 C 265.44832 493.6226 268.04408 496.4219 272.21645 496.41424 C 276.67478 496.35174 279.62155 493.5184 279.62155 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_779">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(283.73133 517.3468) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_781">
+        <title>T</title>
+        <g id="Group_354">
+          <title>transformer-iron_core-static-horizontal</title>
+          <g id="Group_838">
+            <title>Coil</title>
+            <g id="Line_353">
+              <line x1="136.66418" y1="517.40407" x2="136.66418" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_352">
+              <line x1="150.8374" y1="517.40407" x2="150.8374" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_351">
+              <path d="M 136.66418 511.69424 C 136.66418 508.7761 139.25994 505.9768 143.4323 505.9844 C 147.89064 506.0469 150.8374 508.88026 150.8374 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_350">
+              <line x1="165.01063" y1="517.40407" x2="165.01063" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_349">
+              <path d="M 150.8374 511.69424 C 150.8374 508.7761 153.43316 505.9768 157.60553 505.9844 C 162.06386 506.0469 165.01063 508.88026 165.01063 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_348">
+              <line x1="179.18386" y1="517.40407" x2="179.18386" y2="511.69424" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_347">
+              <path d="M 165.01063 511.69424 C 165.01063 508.7761 167.6064 505.9768 171.77876 505.9844 C 176.2371 506.0469 179.18386 508.88026 179.18386 511.69276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_839">
+            <title>Core</title>
+            <g id="Line_346">
+              <line x1="136.15506" y1="499.70326" x2="179.69298" y2="499.70326" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_345">
+              <line x1="136.15506" y1="502.82137" x2="179.69298" y2="502.82137" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_837">
+            <title>Coil</title>
+            <g id="Line_361">
+              <line x1="136.43852" y1="484.9946" x2="136.43852" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_360">
+              <line x1="150.61175" y1="484.9946" x2="150.61175" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_359">
+              <path d="M 136.43852 490.70443 C 136.43852 493.6226 139.03428 496.4219 143.20665 496.41424 C 147.66498 496.35174 150.61175 493.5184 150.61175 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_358">
+              <line x1="164.78497" y1="484.9946" x2="164.78497" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_357">
+              <path d="M 150.61175 490.70443 C 150.61175 493.6226 153.2075 496.4219 157.37987 496.41424 C 161.8382 496.35174 164.78497 493.5184 164.78497 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_356">
+              <line x1="178.9582" y1="484.9946" x2="178.9582" y2="490.70443" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_355">
+              <path d="M 164.78497 490.70443 C 164.78497 493.6226 167.38073 496.4219 171.5531 496.41424 C 176.01143 496.35174 178.9582 493.5184 178.9582 490.7059" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_778">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(182.69298 517.3468) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_836">
+        <title>T</title>
+        <g id="Group_835">
+          <title>transformer-air_core-static-horizontal</title>
+          <g id="Group_834">
+            <title>Coil</title>
+            <g id="Line_395">
+              <line x1="40.3648" y1="519.648" x2="40.3648" y2="513.1475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_394">
+              <line x1="54.538024" y1="519.648" x2="54.538024" y2="513.1475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_393">
+              <path d="M 40.3648 513.1475 C 40.3648 509.8253 42.960556 506.63836 47.132924 506.64704 C 51.59126 506.7182 54.53803 509.9439 54.53803 513.1458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_392">
+              <line x1="68.71125" y1="519.648" x2="68.71125" y2="513.1475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_391">
+              <path d="M 54.538024 513.1475 C 54.538024 509.8253 57.13378 506.63836 61.30615 506.64704 C 65.76448 506.7182 68.71125 509.9439 68.71125 513.1458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_390">
+              <line x1="82.88448" y1="519.648" x2="82.88448" y2="513.1475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_389">
+              <path d="M 68.71125 513.1475 C 68.71125 509.8253 71.30701 506.63836 75.47938 506.64704 C 79.93771 506.7182 82.88448 509.9439 82.88448 513.1458" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_833">
+            <title>Coil</title>
+            <g id="Line_386">
+              <line x1="40.13914" y1="482.7507" x2="40.13914" y2="489.25116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_385">
+              <line x1="54.31237" y1="482.7507" x2="54.31237" y2="489.25116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_384">
+              <path d="M 40.13914 489.25116 C 40.13914 492.5734 42.7349 495.7603 46.907266 495.75163 C 51.3656 495.6805 54.31237 492.4548 54.31237 489.25284" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_383">
+              <line x1="68.48559" y1="482.7507" x2="68.48559" y2="489.25116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_382">
+              <path d="M 54.31237 489.25116 C 54.31237 492.5734 56.908125 495.7603 61.08049 495.75163 C 65.53883 495.6805 68.485596 492.4548 68.485596 489.25284" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_381">
+              <line x1="82.65882" y1="482.7507" x2="82.65882" y2="489.25116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_380">
+              <path d="M 68.485596 489.25116 C 68.485596 492.5734 71.08135 495.7603 75.25372 495.75163 C 79.712055 495.6805 82.65882 492.4548 82.65882 489.25284" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_777">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(85.88448 517.3468) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_283">
+        <title>L</title>
+        <g id="Graphic_295">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(497.65723 399.5841) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_285">
+          <title>inductor-powder_core-variable-east</title>
+          <g id="Group_831">
+            <title>Coil</title>
+            <g id="Line_294">
+              <line x1="531.07917" y1="370.40158" x2="525.36934" y2="370.40158" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_293">
+              <line x1="531.07917" y1="356.22835" x2="525.36934" y2="356.22835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_292">
+              <path d="M 525.36934 370.40158 C 522.4512 370.40158 519.7924 367.3144 519.8 363.14202 C 519.8625 358.6837 522.55684 356.22835 525.36934 356.22835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_291">
+              <path d="M 531.07917 342.0551 C 529.1761 342.0551 525.2805 342.02343 525.36934 342.0551" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_290">
+              <path d="M 525.36934 356.22835 C 522.4512 356.22835 519.6519 353.6326 519.6595 349.46022 C 519.722 345.0019 522.55536 342.05512 525.36786 342.05512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_289">
+              <line x1="531.07917" y1="327.8819" x2="525.36934" y2="327.8819" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_288">
+              <path d="M 525.36934 342.05512 C 522.4512 342.05512 519.6519 339.45936 519.6595 335.287 C 519.722 330.82866 522.55536 327.8819 525.36786 327.8819" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_284">
+              <title>arrow</title>
+              <line x1="526.1095" y1="366.2362" x2="526.1095" y2="338.12155" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_830">
+            <title>Core</title>
+            <g id="Line_287">
+              <line x1="513.1045" y1="371.88707" x2="513.1045" y2="328.34915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_286">
+              <line x1="516.1317" y1="371.88707" x2="516.1317" y2="328.34915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_270">
+        <title>L</title>
+        <g id="Graphic_282">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(453.48344 399.5841) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_272">
+          <title>inductor-powder_core-variable-west</title>
+          <g id="Group_829">
+            <title>Coil</title>
+            <g id="Line_281">
+              <line x1="433.7008" y1="370.40158" x2="439.4106" y2="370.40158" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_280">
+              <line x1="433.7008" y1="356.22835" x2="439.4106" y2="356.22835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_279">
+              <path d="M 439.4106 370.40158 C 442.32876 370.40158 444.5111 366.84984 444.5035 362.67747 C 444.441 358.21914 442.2231 356.22835 439.4106 356.22835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_278">
+              <line x1="433.7008" y1="342.05512" x2="439.4106" y2="342.05512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_277">
+              <path d="M 439.4106 356.22835 C 442.32876 356.22835 445.12806 353.6326 445.12043 349.46022 C 445.05793 345.0019 442.2246 342.05512 439.4121 342.05512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_276">
+              <line x1="433.7008" y1="327.8819" x2="439.4106" y2="327.8819" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_275">
+              <path d="M 439.4106 342.05512 C 442.32876 342.05512 445.12806 339.45936 445.12043 335.287 C 445.05793 330.82866 442.2246 327.8819 439.4121 327.8819" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_271">
+              <title>arrow</title>
+              <line x1="438.6796" y1="331.65355" x2="438.6796" y2="359.7682" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_828">
+            <title>Core</title>
+            <g id="Line_274">
+              <line x1="448.19867" y1="371.0576" x2="448.19867" y2="327.5197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_273">
+              <line x1="451.2259" y1="371.0576" x2="451.2259" y2="327.5197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_257">
+        <title>L</title>
+        <g id="Graphic_269">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 387.2462)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_259">
+          <title>inductor-powder_core-variable-south</title>
+          <g id="Group_827">
+            <title>Coil</title>
+            <g id="Line_268">
+              <line x1="317.40944" y1="364.9076" x2="317.40944" y2="370.61743" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_267">
+              <line x1="331.58267" y1="364.9076" x2="331.58267" y2="370.61743" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_266">
+              <path d="M 317.40944 370.61743 C 317.40944 373.53558 320.0052 376.33487 324.17757 376.32724 C 328.6359 376.26474 331.58267 373.4314 331.58267 370.6189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_265">
+              <line x1="345.7559" y1="364.9076" x2="345.7559" y2="370.61743" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_264">
+              <path d="M 331.58267 370.61743 C 331.58267 373.53558 334.17843 376.33487 338.3508 376.32724 C 342.80913 376.26474 345.7559 373.4314 345.7559 370.6189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_263">
+              <line x1="359.92912" y1="364.9076" x2="359.92912" y2="370.61743" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_262">
+              <path d="M 345.7559 370.61743 C 345.7559 373.53558 348.35165 376.33487 352.52402 376.32724 C 356.98236 376.26474 359.92912 373.4314 359.92912 370.6189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_258">
+              <title>arrow</title>
+              <line x1="356.31495" y1="369.125" x2="327.3499" y2="369.125" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_826">
+            <title>Core</title>
+            <g id="Line_261">
+              <line x1="316.3912" y1="379.79475" x2="359.92912" y2="379.79475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_260">
+              <line x1="316.3912" y1="382.91286" x2="359.92912" y2="382.91286" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_244">
+        <title>L</title>
+        <g id="Graphic_256">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 306.47093)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_246">
+          <title>inductor-powder_core-variable-north</title>
+          <g id="Group_825">
+            <title>Coil</title>
+            <g id="Line_255">
+              <line x1="317.40944" y1="337.53755" x2="317.40944" y2="331.82772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_254">
+              <line x1="331.58267" y1="337.53755" x2="331.58267" y2="331.82772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_253">
+              <path d="M 317.40944 331.82772 C 317.40944 328.90958 320.0052 326.1103 324.17757 326.1179 C 328.6359 326.1804 331.58267 329.01374 331.58267 331.82624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_252">
+              <line x1="345.7559" y1="337.53755" x2="345.7559" y2="331.82772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_251">
+              <path d="M 331.58267 331.82772 C 331.58267 328.90958 334.17843 326.1103 338.3508 326.1179 C 342.80913 326.1804 345.7559 329.01374 345.7559 331.82624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_250">
+              <line x1="359.92912" y1="337.53755" x2="359.92912" y2="331.82772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_249">
+              <path d="M 345.7559 331.82772 C 345.7559 328.90958 348.35165 326.1103 352.52402 326.1179 C 356.98236 326.1804 359.92912 329.01374 359.92912 331.82624" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_245">
+              <title>arrow</title>
+              <line x1="320.88188" y1="332.6875" x2="349.84695" y2="332.6875" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_824">
+            <title>Core</title>
+            <g id="Line_248">
+              <line x1="316.90032" y1="319.83674" x2="360.43824" y2="319.83674" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_247">
+              <line x1="316.90032" y1="322.95485" x2="360.43824" y2="322.95485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_332">
+        <title>L</title>
+        <g id="Graphic_343">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(201.20084 401.2849) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_333">
+          <title>inductor-powder_core-static-east</title>
+          <g id="Group_823">
+            <title>Coil</title>
+            <g id="Line_342">
+              <line x1="234.0573" y1="372.10236" x2="228.34749" y2="372.10236" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_341">
+              <line x1="234.0573" y1="357.92914" x2="228.34749" y2="357.92914" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_340">
+              <path d="M 228.34749 372.10236 C 225.42934 372.10236 222.77052 369.01518 222.77815 364.8428 C 222.84065 360.38448 225.53499 357.92914 228.34749 357.92914" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_339">
+              <path d="M 234.0573 343.7559 C 232.15423 343.7559 228.25866 343.7242 228.34749 343.7559" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_338">
+              <path d="M 228.34749 357.92914 C 225.42934 357.92914 222.63005 355.3334 222.63767 351.161 C 222.70017 346.70268 225.5335 343.7559 228.346 343.7559" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_337">
+              <line x1="234.0573" y1="329.5827" x2="228.34749" y2="329.5827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_336">
+              <path d="M 228.34749 343.7559 C 225.42934 343.7559 222.63005 341.16015 222.63767 336.9878 C 222.70017 332.52945 225.5335 329.5827 228.346 329.5827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_822">
+            <title>Core</title>
+            <g id="Line_335">
+              <line x1="216.20084" y1="372.1206" x2="216.20084" y2="328.5827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_334">
+              <line x1="219.22808" y1="372.1206" x2="219.22808" y2="328.5827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_320">
+        <title>L</title>
+        <g id="Graphic_331">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(160.87703 401.30094) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_321">
+          <title>inductor-powder_core-static-west</title>
+          <g id="Group_821">
+            <title>Coil</title>
+            <g id="Line_330">
+              <line x1="140.3519" y1="372.1184" x2="146.06173" y2="372.1184" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_329">
+              <line x1="140.3519" y1="357.94517" x2="146.06173" y2="357.94517" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_328">
+              <path d="M 146.06173 372.1184 C 148.97988 372.1184 151.16224 368.56666 151.15461 364.3943 C 151.09211 359.93596 148.87423 357.94517 146.06173 357.94517" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_327">
+              <line x1="140.3519" y1="343.77195" x2="146.06173" y2="343.77195" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_326">
+              <path d="M 146.06173 357.94517 C 148.97988 357.94517 151.77917 355.3494 151.77154 351.17705 C 151.70904 346.7187 148.87571 343.77195 146.06321 343.77195" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_325">
+              <line x1="140.3519" y1="329.5987" x2="146.06173" y2="329.5987" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_324">
+              <path d="M 146.06173 343.77195 C 148.97988 343.77195 151.77917 341.1762 151.77154 337.0038 C 151.70904 332.5455 148.87571 329.5987 146.06321 329.5987" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_820">
+            <title>Core</title>
+            <g id="Line_323">
+              <line x1="154.84978" y1="371.85777" x2="154.84978" y2="328.31984" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_322">
+              <line x1="157.87703" y1="371.85777" x2="157.87703" y2="328.31984" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_308">
+        <title>L</title>
+        <g id="Graphic_319">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 396.76377)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_309">
+          <title>inductor-powder_core-static-south</title>
+          <g id="Group_819">
+            <title>Coil</title>
+            <g id="Line_318">
+              <line x1="49.25197" y1="371.929" x2="49.25197" y2="378.42947" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_317">
+              <line x1="63.425196" y1="371.929" x2="63.425196" y2="378.42947" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_316">
+              <path d="M 49.25197 378.42947 C 49.25197 381.7517 51.84773 384.93863 56.020095 384.92994 C 60.47843 384.8588 63.4252 381.6331 63.4252 378.43116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_315">
+              <line x1="77.59842" y1="371.929" x2="77.59842" y2="378.42947" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_314">
+              <path d="M 63.425196 378.42947 C 63.425196 381.7517 66.02095 384.93863 70.19332 384.92994 C 74.651655 384.8588 77.59842 381.6331 77.59842 378.43116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_313">
+              <line x1="91.77165" y1="371.929" x2="91.77165" y2="378.42947" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_312">
+              <path d="M 77.59842 378.42947 C 77.59842 381.7517 80.19418 384.93863 84.36655 384.92994 C 88.82488 384.8588 91.77165 381.6331 91.77165 378.43116" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_818">
+            <title>Core</title>
+            <g id="Line_311">
+              <line x1="49.7925" y1="388.9676" x2="93.33042" y2="388.9676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_310">
+              <line x1="49.7925" y1="392.5175" x2="93.33042" y2="392.5175" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_296">
+        <title>L</title>
+        <g id="Graphic_307">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 296.95335)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_297">
+          <title>inductor-powder_core-static-north</title>
+          <g id="Group_817">
+            <title>Coil</title>
+            <g id="Line_306">
+              <line x1="48.25197" y1="333.36945" x2="48.25197" y2="326.86896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_305">
+              <line x1="62.425196" y1="333.36945" x2="62.425196" y2="326.86896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_304">
+              <path d="M 48.25197 326.86896 C 48.25197 323.54673 50.84773 320.3598 55.020095 320.3685 C 59.47843 320.43965 62.4252 323.66532 62.4252 326.86728" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_303">
+              <line x1="76.59842" y1="333.36945" x2="76.59842" y2="326.86896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_302">
+              <path d="M 62.425196 326.86896 C 62.425196 323.54673 65.020954 320.3598 69.19332 320.3685 C 73.651655 320.43965 76.59842 323.66532 76.59842 326.86728" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_301">
+              <line x1="90.77165" y1="333.36945" x2="90.77165" y2="326.86896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_300">
+              <path d="M 76.59842 326.86896 C 76.59842 323.54673 79.19418 320.3598 83.36655 320.3685 C 87.82488 320.43965 90.77165 323.66532 90.77165 326.86728" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_816">
+            <title>Core</title>
+            <g id="Line_299">
+              <line x1="48.25997" y1="313.1996" x2="91.79789" y2="313.1996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+            <g id="Line_298">
+              <line x1="48.25997" y1="316.7495" x2="91.79789" y2="316.7495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_206">
+        <title>L</title>
+        <g id="Graphic_217">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(493.40526 256.4345) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_207">
+          <title>inductor-iron_core-variable-east</title>
+          <g id="Group_815">
+            <title>Coil</title>
+            <g id="Line_216">
+              <line x1="526.8272" y1="227.25197" x2="521.1174" y2="227.25197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_215">
+              <line x1="526.8272" y1="213.07874" x2="521.1174" y2="213.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_214">
+              <path d="M 521.1174 227.25197 C 518.1992 227.25197 515.5404 224.16478 515.54804 219.99241 C 515.61054 215.53408 518.3049 213.07874 521.1174 213.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_213">
+              <path d="M 526.8272 198.9055 C 524.9241 198.9055 521.02855 198.87382 521.1174 198.9055" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_212">
+              <path d="M 521.1174 213.07874 C 518.1992 213.07874 515.39993 210.48298 515.40756 206.31062 C 515.47006 201.85228 518.3034 198.90551 521.1159 198.90551" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_211">
+              <line x1="526.8272" y1="184.73229" x2="521.1174" y2="184.73229" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_210">
+              <path d="M 521.1174 198.90551 C 518.1992 198.90551 515.39993 196.30976 515.40756 192.13739 C 515.47006 187.67906 518.3034 184.73229 521.1159 184.73229" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_243">
+              <title>arrow</title>
+              <line x1="522.0865" y1="223.08658" x2="522.0865" y2="194.97194" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_814">
+            <title>Core</title>
+            <g id="Line_209">
+              <line x1="508.8525" y1="228.73746" x2="508.8525" y2="185.19954" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_208">
+              <line x1="511.87975" y1="228.73746" x2="511.87975" y2="185.19954" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_194">
+        <title>L</title>
+        <g id="Graphic_205">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(449.2315 256.4345) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_195">
+          <title>inductor-iron_core-variable-west</title>
+          <g id="Group_813">
+            <title>Coil</title>
+            <g id="Line_204">
+              <line x1="429.4488" y1="227.25197" x2="435.15865" y2="227.25197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_203">
+              <line x1="429.4488" y1="213.07874" x2="435.15865" y2="213.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_202">
+              <path d="M 435.15865 227.25197 C 438.0768 227.25197 440.25916 223.70023 440.25153 219.52786 C 440.18903 215.06953 437.97115 213.07874 435.15865 213.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_201">
+              <line x1="429.4488" y1="198.90552" x2="435.15865" y2="198.90552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_200">
+              <path d="M 435.15865 213.07874 C 438.0768 213.07874 440.8761 210.48298 440.86846 206.31062 C 440.80596 201.85228 437.97263 198.90551 435.16013 198.90551" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_199">
+              <line x1="429.4488" y1="184.73229" x2="435.15865" y2="184.73229" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_198">
+              <path d="M 435.15865 198.90551 C 438.0768 198.90551 440.8761 196.30976 440.86846 192.13739 C 440.80596 187.67906 437.97263 184.73229 435.16013 184.73229" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_242">
+              <title>arrow</title>
+              <line x1="433.63656" y1="188.50394" x2="433.63656" y2="216.61858" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_812">
+            <title>Core</title>
+            <g id="Line_197">
+              <line x1="443.9467" y1="227.908" x2="443.9467" y2="184.37008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_196">
+              <line x1="446.97394" y1="227.908" x2="446.97394" y2="184.37008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_182">
+        <title>L</title>
+        <g id="Graphic_193">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 242.30374)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_183">
+          <title>inductor-iron_core-variable-south</title>
+          <g id="Group_811">
+            <title>Coil</title>
+            <g id="Line_192">
+              <line x1="317.40944" y1="219.96516" x2="317.40944" y2="225.67498" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_191">
+              <line x1="331.58267" y1="219.96516" x2="331.58267" y2="225.67498" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_190">
+              <path d="M 317.40944 225.67498 C 317.40944 228.59313 320.0052 231.39242 324.17757 231.3848 C 328.6359 231.3223 331.58267 228.48896 331.58267 225.67646" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_189">
+              <line x1="345.7559" y1="219.96516" x2="345.7559" y2="225.67498" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_188">
+              <path d="M 331.58267 225.67498 C 331.58267 228.59313 334.17843 231.39242 338.3508 231.3848 C 342.80913 231.3223 345.7559 228.48896 345.7559 225.67646" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_187">
+              <line x1="359.92912" y1="219.96516" x2="359.92912" y2="225.67498" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_186">
+              <path d="M 345.7559 225.67498 C 345.7559 228.59313 348.35165 231.39242 352.52402 231.3848 C 356.98236 231.3223 359.92912 228.48896 359.92912 225.67646" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_241">
+              <title>arrow</title>
+              <line x1="356.31495" y1="224.25" x2="327.3499" y2="224.25" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_810">
+            <title>Core</title>
+            <g id="Line_185">
+              <line x1="316.3912" y1="234.8523" x2="359.92912" y2="234.8523" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_184">
+              <line x1="316.3912" y1="237.9704" x2="359.92912" y2="237.9704" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_170">
+        <title>L</title>
+        <g id="Graphic_181">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 161.52848)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_171">
+          <title>inductor-iron_core-variable-north</title>
+          <g id="Group_809">
+            <title>Coil</title>
+            <g id="Line_180">
+              <line x1="317.40944" y1="192.5951" x2="317.40944" y2="186.88527" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_179">
+              <line x1="331.58267" y1="192.5951" x2="331.58267" y2="186.88527" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_178">
+              <path d="M 317.40944 186.88527 C 317.40944 183.96713 320.0052 181.16783 324.17757 181.17546 C 328.6359 181.23796 331.58267 184.0713 331.58267 186.8838" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_177">
+              <line x1="345.7559" y1="192.5951" x2="345.7559" y2="186.88527" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_176">
+              <path d="M 331.58267 186.88527 C 331.58267 183.96713 334.17843 181.16783 338.3508 181.17546 C 342.80913 181.23796 345.7559 184.0713 345.7559 186.8838" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_175">
+              <line x1="359.92912" y1="192.5951" x2="359.92912" y2="186.88527" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_174">
+              <path d="M 345.7559 186.88527 C 345.7559 183.96713 348.35165 181.16783 352.52402 181.17546 C 356.98236 181.23796 359.92912 184.0713 359.92912 186.8838" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_240">
+              <title>arrow</title>
+              <line x1="320.88188" y1="187.74807" x2="349.84695" y2="187.74807" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_808">
+            <title>Core</title>
+            <g id="Line_173">
+              <line x1="316.90032" y1="174.8943" x2="360.43824" y2="174.8943" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_172">
+              <line x1="316.90032" y1="178.0124" x2="360.43824" y2="178.0124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_95">
+        <title>L</title>
+        <g id="Graphic_104">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(201.14173 256.3585) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_96">
+          <title>inductor-iron_core-static-east</title>
+          <g id="Group_807">
+            <title>Coil</title>
+            <g id="Line_103">
+              <line x1="234.11642" y1="227.5339" x2="228.4066" y2="227.5339" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_102">
+              <line x1="234.11642" y1="213.36067" x2="228.4066" y2="213.36067" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_101">
+              <path d="M 228.4066 227.5339 C 225.48845 227.5339 222.82964 224.4467 222.83726 220.27434 C 222.89976 215.816 225.5941 213.36067 228.4066 213.36067" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_100">
+              <path d="M 234.11643 199.18741 C 232.21334 199.18741 228.31777 199.15574 228.4066 199.18741" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_99">
+              <path d="M 228.4066 213.36067 C 225.48845 213.36067 222.68916 210.7649 222.6968 206.59254 C 222.7593 202.1342 225.59262 199.18744 228.40512 199.18744" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_98">
+              <line x1="234.11642" y1="185.0142" x2="228.4066" y2="185.0142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_97">
+              <path d="M 228.4066 199.18744 C 225.48845 199.18744 222.68916 196.59168 222.6968 192.4193 C 222.7593 187.96098 225.59262 185.0142 228.40512 185.0142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_806">
+            <title>Core</title>
+            <g id="Line_167">
+              <path d="M 216.14173 229.0194 L 216.14173 185.48146 L 216.14173 185.48146" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_168">
+              <path d="M 219.16897 229.0194 L 219.16897 185.48146 L 219.16897 185.48146" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_85">
+        <title>L</title>
+        <g id="Graphic_94">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(160.87703 256.37453) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_86">
+          <title>inductor-iron_core-static-west</title>
+          <g id="Group_804">
+            <title>Coil</title>
+            <g id="Line_93">
+              <line x1="140.3519" y1="227.192" x2="146.06173" y2="227.192" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_92">
+              <line x1="140.3519" y1="213.01876" x2="146.06173" y2="213.01876" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_91">
+              <path d="M 146.06173 227.192 C 148.97988 227.192 151.16224 223.64025 151.15461 219.46788 C 151.09211 215.00955 148.87423 213.01876 146.06173 213.01876" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_90">
+              <line x1="140.3519" y1="198.84553" x2="146.06173" y2="198.84553" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_89">
+              <path d="M 146.06173 213.01876 C 148.97988 213.01876 151.77917 210.423 151.77154 206.25064 C 151.70904 201.7923 148.87571 198.84553 146.06321 198.84553" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_88">
+              <line x1="140.3519" y1="184.6723" x2="146.06173" y2="184.6723" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_87">
+              <path d="M 146.06173 198.84553 C 148.97988 198.84553 151.77917 196.24977 151.77154 192.0774 C 151.70904 187.61907 148.87571 184.6723 146.06321 184.6723" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_805">
+            <title>Core</title>
+            <g id="Line_165">
+              <line x1="154.84978" y1="227.84802" x2="154.84978" y2="184.3101" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_164">
+              <line x1="157.87703" y1="227.84802" x2="157.87703" y2="184.3101" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_75">
+        <title>L</title>
+        <g id="Graphic_84">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 251.78338)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_76">
+          <title>inductor-iron_core-static-south</title>
+          <g id="Group_803">
+            <title>Coil</title>
+            <g id="Line_83">
+              <line x1="49.25197" y1="227.0386" x2="49.25197" y2="233.5391" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_82">
+              <line x1="63.425196" y1="227.0386" x2="63.425196" y2="233.5391" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_81">
+              <path d="M 49.25197 233.5391 C 49.25197 236.86133 51.84773 240.04826 56.020095 240.03957 C 60.47843 239.96842 63.4252 236.74274 63.4252 233.54078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_80">
+              <line x1="77.59842" y1="227.0386" x2="77.59842" y2="233.5391" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_79">
+              <path d="M 63.425196 233.5391 C 63.425196 236.86133 66.02095 240.04826 70.19332 240.03957 C 74.651655 239.96842 77.59842 236.74274 77.59842 233.54078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_78">
+              <line x1="91.77165" y1="227.0386" x2="91.77165" y2="233.5391" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_77">
+              <path d="M 77.59842 233.5391 C 77.59842 236.86133 80.19418 240.04826 84.36655 240.03957 C 88.82488 239.96842 91.77165 236.74274 91.77165 233.54078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_802">
+            <title>Core</title>
+            <g id="Line_160">
+              <line x1="48.23373" y1="243.98723" x2="91.77165" y2="243.98723" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_161">
+              <line x1="48.23373" y1="247.53712" x2="91.77165" y2="247.53712" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_65">
+        <title>L</title>
+        <g id="Graphic_74">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 152.0809)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_66">
+          <title>inductor-iron_core-static-north</title>
+          <g id="Group_801">
+            <title>Coil</title>
+            <g id="Line_73">
+              <line x1="49.441727" y1="188.47908" x2="49.441727" y2="181.9786" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_72">
+              <line x1="63.61495" y1="188.47908" x2="63.61495" y2="181.9786" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_71">
+              <path d="M 49.441727 181.9786 C 49.441727 178.65636 52.037485 175.46943 56.20985 175.47812 C 60.668186 175.54927 63.614956 178.77495 63.614956 181.9769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_70">
+              <line x1="77.78818" y1="188.47908" x2="77.78818" y2="181.9786" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_69">
+              <path d="M 63.61495 181.9786 C 63.61495 178.65636 66.21071 175.46943 70.38308 175.47812 C 74.84141 175.54927 77.78818 178.77495 77.78818 181.9769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_68">
+              <line x1="91.96141" y1="188.47908" x2="91.96141" y2="181.9786" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <g id="Line_67">
+              <path d="M 77.78818 181.9786 C 77.78818 178.65636 80.38394 175.46943 84.55631 175.47812 C 89.01464 175.54927 91.96141 178.77495 91.96141 181.9769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_800">
+            <title>Core</title>
+            <g id="Line_158">
+              <line x1="48.932605" y1="168.32717" x2="92.47053" y2="168.32717" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_159">
+              <line x1="48.932605" y1="171.87706" x2="92.47053" y2="171.87706" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_135">
+        <title>L</title>
+        <g id="Graphic_144">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(489.8161 124.62349) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_136">
+          <title>inductor-air_core-static-north</title>
+          <g id="Line_143">
+            <line x1="517.48284" y1="95.44094" x2="511.773" y2="95.44094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_142">
+            <line x1="517.48284" y1="81.26772" x2="511.773" y2="81.26772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_141">
+            <path d="M 511.773 95.44094 C 508.8549 95.44094 506.19605 92.35376 506.2037 88.18139 C 506.2662 83.72306 508.9605 81.26772 511.773 81.26772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_140">
+            <path d="M 517.48284 67.094466 C 515.57976 67.094466 511.6842 67.0628 511.773 67.094466" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_139">
+            <path d="M 511.773 81.26772 C 508.8549 81.26772 506.0556 78.67196 506.0632 74.49959 C 506.1257 70.04126 508.95904 67.09449 511.77154 67.09449" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_138">
+            <line x1="517.48284" y1="52.92126" x2="511.773" y2="52.92126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_137">
+            <path d="M 511.773 67.09449 C 508.8549 67.09449 506.0556 64.49873 506.0632 60.326364 C 506.1257 55.86803 508.95904 52.92126 511.77154 52.92126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_151">
+            <title>arrow</title>
+            <line x1="512.9228" y1="91.27556" x2="512.9228" y2="63.160914" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_125">
+        <title>L</title>
+        <g id="Graphic_134">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(445.6423 124.62349) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_126">
+          <title>inductor-air_core-static-west</title>
+          <g id="Line_133">
+            <line x1="430.92185" y1="95.44094" x2="436.6317" y2="95.44094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_132">
+            <line x1="430.92185" y1="81.26772" x2="436.6317" y2="81.26772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_131">
+            <path d="M 436.6317 95.44094 C 439.5498 95.44094 441.7322 91.8892 441.72456 87.71684 C 441.66206 83.2585 439.4442 81.26772 436.6317 81.26772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_130">
+            <line x1="430.92185" y1="67.09449" x2="436.6317" y2="67.09449" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_129">
+            <path d="M 436.6317 81.26772 C 439.5498 81.26772 442.3491 78.67196 442.3415 74.49959 C 442.279 70.04126 439.44566 67.09449 436.63316 67.09449" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_128">
+            <line x1="430.92185" y1="52.92126" x2="436.6317" y2="52.92126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_127">
+            <path d="M 436.6317 67.09449 C 439.5498 67.09449 442.3491 64.49873 442.3415 60.326364 C 442.279 55.86803 439.44566 52.92126 436.63316 52.92126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_150">
+            <title>arrow</title>
+            <line x1="435.40156" y1="56.692914" x2="435.40156" y2="84.80756" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_115">
+        <title>L</title>
+        <g id="Graphic_124">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 108.06299)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_116">
+          <title>inductor-air_core-static-south</title>
+          <g id="Line_123">
+            <line x1="317.40944" y1="88.67323" x2="317.40944" y2="94.38305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_122">
+            <line x1="331.58267" y1="88.67323" x2="331.58267" y2="94.38305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_121">
+            <path d="M 317.40944 94.38305 C 317.40944 97.3012 320.0052 100.10049 324.17757 100.09286 C 328.6359 100.03036 331.58267 97.19703 331.58267 94.38453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_120">
+            <line x1="345.7559" y1="88.67323" x2="345.7559" y2="94.38305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_119">
+            <path d="M 331.58267 94.38305 C 331.58267 97.3012 334.17843 100.10049 338.3508 100.09286 C 342.80913 100.03036 345.7559 97.19703 345.7559 94.38453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_118">
+            <line x1="359.92912" y1="88.67323" x2="359.92912" y2="94.38305" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_117">
+            <path d="M 345.7559 94.38305 C 345.7559 97.3012 348.35165 100.10049 352.52402 100.09286 C 356.98236 100.03036 359.92912 97.19703 359.92912 94.38453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_149">
+            <title>arrow</title>
+            <line x1="356.31495" y1="92.97638" x2="327.3499" y2="92.97638" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_105">
+        <title>L</title>
+        <g id="Graphic_114">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(290.2269 34.464566)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_106">
+          <title>inductor-air_core-static-north</title>
+          <g id="Line_113">
+            <line x1="317.40944" y1="61.30317" x2="317.40944" y2="55.59334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_112">
+            <line x1="331.58267" y1="61.30317" x2="331.58267" y2="55.59334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_111">
+            <path d="M 317.40944 55.59334 C 317.40944 52.675197 320.0052 49.8759 324.17757 49.88353 C 328.6359 49.94603 331.58267 52.779363 331.58267 55.591863" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_110">
+            <line x1="345.7559" y1="61.30317" x2="345.7559" y2="55.59334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_109">
+            <path d="M 331.58267 55.59334 C 331.58267 52.675197 334.17843 49.8759 338.3508 49.88353 C 342.80913 49.94603 345.7559 52.779363 345.7559 55.591863" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_108">
+            <line x1="359.92912" y1="61.30317" x2="359.92912" y2="55.59334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_107">
+            <path d="M 345.7559 55.59334 C 345.7559 52.675197 348.35165 49.8759 352.52402 49.88353 C 356.98236 49.94603 359.92912 52.779363 359.92912 55.591863" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_871">
+            <title>arrow</title>
+            <line x1="320.88188" y1="56.77456" x2="349.84695" y2="56.77456" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_55">
+        <title>L</title>
+        <g id="Graphic_64">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(204.33945 122.22718) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_56">
+          <title>inductor-air_core-static-north</title>
+          <g id="Line_63">
+            <line x1="232.01138" y1="93.04464" x2="226.30155" y2="93.04464" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_62">
+            <line x1="232.01138" y1="78.87141" x2="226.30155" y2="78.87141" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_61">
+            <path d="M 226.30155 93.04464 C 223.3834 93.04464 220.7246 89.95745 220.73222 85.78508 C 220.79472 81.32675 223.62805 78.37998 226.44055 78.37998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_60">
+            <path d="M 232.01138 64.69816 C 230.1083 64.69816 226.21273 64.66649 226.30155 64.69816" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_59">
+            <path d="M 226.30155 78.87141 C 223.3834 78.87141 220.58412 76.275655 220.59174 72.10329 C 220.65424 67.64495 223.48758 64.698184 226.30008 64.698184" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_58">
+            <line x1="232.01138" y1="50.52496" x2="226.30155" y2="50.52496" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_57">
+            <path d="M 226.30155 64.698184 C 223.3834 64.698184 220.58412 62.102426 220.59174 57.93006 C 220.65424 53.471725 223.48758 50.524956 226.30008 50.524956" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_54">
+        <title>L</title>
+        <g id="Graphic_53">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(157.47452 122.24322) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_45">
+          <title>inductor-air_core-static-west</title>
+          <g id="Line_52">
+            <line x1="142.58475" y1="93.06068" x2="148.29458" y2="93.06068" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_51">
+            <line x1="142.58475" y1="78.88745" x2="148.29458" y2="78.88745" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_50">
+            <path d="M 148.29458 93.06068 C 151.21272 93.06068 153.39508 89.50894 153.38746 85.33657 C 153.32496 80.87823 151.10708 78.88745 148.29458 78.88745" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_49">
+            <line x1="142.58475" y1="64.71422" x2="148.29458" y2="64.71422" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_48">
+            <path d="M 148.29458 78.88745 C 151.21272 78.88745 154.01202 76.29169 154.00439 72.11932 C 153.94189 67.66099 151.10856 64.71422 148.29606 64.71422" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_47">
+            <line x1="142.58475" y1="50.540994" x2="148.29458" y2="50.540994" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_46">
+            <path d="M 148.29458 64.71422 C 151.21272 64.71422 154.01202 62.11846 154.00439 57.946094 C 153.94189 53.48776 151.10856 50.54099 148.29606 50.54099" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_43">
+        <title>L</title>
+        <g id="Graphic_31">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 110.32784)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_23">
+          <title>inductor-air_core-static-south</title>
+          <g id="Line_30">
+            <line x1="49.25197" y1="93.0806" x2="49.25197" y2="99.58109" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_29">
+            <line x1="63.425196" y1="93.0806" x2="63.425196" y2="99.58109" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_28">
+            <path d="M 49.25197 99.58109 C 49.25197 102.90332 51.84773 106.09024 56.020095 106.08156 C 60.47843 106.0104 63.4252 102.78473 63.4252 99.58277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_27">
+            <line x1="77.59842" y1="93.0806" x2="77.59842" y2="99.58109" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_26">
+            <path d="M 63.425196 99.58109 C 63.425196 102.90332 66.02095 106.09024 70.19332 106.08156 C 74.651655 106.0104 77.59842 102.78473 77.59842 99.58277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_25">
+            <line x1="91.77165" y1="93.0806" x2="91.77165" y2="99.58109" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_24">
+            <path d="M 77.59842 99.58109 C 77.59842 102.90332 80.19418 106.09024 84.36655 106.08156 C 88.82488 106.0104 91.77165 102.78473 91.77165 99.58277" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_42">
+        <title>L</title>
+        <g id="Graphic_22">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(22.069428 25.273824)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_21">
+          <title>inductor-air_core-static-north</title>
+          <g id="Line_14">
+            <line x1="49.25197" y1="54.521066" x2="49.25197" y2="48.02058" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_15">
+            <line x1="63.425196" y1="54.521066" x2="63.425196" y2="48.02058" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_16">
+            <path d="M 49.25197 48.02058 C 49.25197 44.698346 51.84773 41.51142 56.020095 41.520106 C 60.47843 41.59126 63.4252 44.816937 63.4252 48.018895" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_17">
+            <line x1="77.59842" y1="54.521066" x2="77.59842" y2="48.02058" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_18">
+            <path d="M 63.425196 48.02058 C 63.425196 44.698346 66.02095 41.51142 70.19332 41.520106 C 74.651655 41.59126 77.59842 44.816937 77.59842 48.018895" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_19">
+            <line x1="91.77165" y1="54.521066" x2="91.77165" y2="48.02058" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_20">
+            <path d="M 77.59842 48.02058 C 77.59842 44.698346 80.19418 41.51142 84.36655 41.520106 C 88.82488 41.59126 91.77165 44.816937 91.77165 48.018895" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#666">
+      <g>
+        <path d="M 1.92 0 L 0 -.72 L 0 .72 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.584 0 L 0 -.594 L 0 .594 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.44 0 L 0 -.54 L 0 .54 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Resistors_-_R" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Resistors - R</title>
+    <g id="Resistors_-_R_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_141">
+        <title>VR</title>
+        <g id="Graphic_145">
+          <text transform="translate(422.79526 466.90695) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_142">
+          <title>resistor-variable-west</title>
+          <g id="Line_144">
+            <title>resistor</title>
+            <path d="M 413.5477 431.5771 L 406.4611 428.74244 L 420.6343 423.07315 L 406.4611 417.40386 L 420.6343 411.73456 L 406.4611 406.06527 L 411.52783 403.9716 L 420.6343 400.396 L 413.5477 397.56134" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_143">
+            <title>arrow</title>
+            <line x1="421.11665" y1="431.5771" x2="407.79086" y2="401.6826" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_136">
+        <title>VR</title>
+        <g id="Graphic_140">
+          <text transform="translate(259.26627 404.35733)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_137">
+          <title>resistor-variable-south</title>
+          <g id="Line_139">
+            <title>resistor</title>
+            <path d="M 320.46456 426.9263 L 317.6299 434.0129 L 311.96062 419.8397 L 306.29133 434.0129 L 300.62204 419.8397 L 294.95275 434.0129 L 292.85907 428.94615 L 289.28346 419.8397 L 286.4488 426.9263" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_138">
+            <title>arrow</title>
+            <line x1="320.46456" y1="419.35733" x2="290.59016" y2="432.67417" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_131">
+        <title>VR</title>
+        <g id="Graphic_135">
+          <text transform="translate(177.61417 466.90695) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_132">
+          <title>resistor-variable-east</title>
+          <g id="Line_134">
+            <title>resistor</title>
+            <path d="M 199.62882 397.56134 L 206.71543 400.396 L 192.5422 406.06527 L 206.71543 411.73456 L 192.5422 417.40386 L 206.71543 423.07315 L 201.64868 425.1668 L 192.5422 428.74244 L 199.62882 431.5771" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_133">
+            <title>arrow</title>
+            <line x1="192.05986" y1="397.56134" x2="205.4497" y2="427.5995" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_45">
+        <title>VR</title>
+        <g id="Graphic_47">
+          <text transform="translate(37.943443 419.5696)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_90">
+          <title>resistor-variable-north</title>
+          <g id="Line_46">
+            <title>resistor</title>
+            <path d="M 65.34646 409.9903 L 68.1811 402.9037 L 73.850395 417.07694 L 79.51969 402.9037 L 85.18898 417.07694 L 90.85827 402.9037 L 92.95194 407.97046 L 96.52756 417.07694 L 99.36221 409.9903" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_52">
+            <title>arrow</title>
+            <line x1="65.34646" y1="417.5593" x2="95.63355" y2="405.07966" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_123">
+        <title>VR</title>
+        <g id="Graphic_129">
+          <text transform="translate(422.79526 342.60773) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_124">
+          <title>resistor-variable_a-west</title>
+          <g id="Line_128">
+            <line x1="412.9486" y1="305.59608" x2="412.96235" y2="310.07188" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_127">
+            <path d="M 410.72447 312.30973 L 395.4164 312.30973 L 395.4164 291.61855 L 399.42535 291.61855" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_126">
+            <title>resistor</title>
+            <path d="M 412.9486 305.59608 L 405.89335 302.8132 L 419.8868 297.21588 L 405.89335 291.61855 L 419.8868 286.02122 L 405.89335 280.4239 L 410.89584 278.3568 L 419.8868 274.82657 L 412.8901 272.0279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_125">
+            <circle cx="412.96235" cy="312.30973" r="2.2378705686934" fill="black"/>
+            <circle cx="412.96235" cy="312.30973" r="2.2378705686934" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_116">
+        <title>VR</title>
+        <g id="Graphic_122">
+          <text transform="translate(259.26627 275.79185)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_117">
+          <title>resistor-variable_a-south</title>
+          <g id="Line_121">
+            <line x1="320.017" y1="297.73004" x2="324.4928" y2="297.7163" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_120">
+            <path d="M 326.73064 299.9542 L 326.73064 315.45312 L 306.03946 315.45312 L 306.03946 311.2533" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_119">
+            <title>resistor</title>
+            <path d="M 320.017 297.73004 L 317.2341 304.7853 L 311.6368 290.79185 L 306.03946 304.7853 L 300.44213 290.79185 L 294.8448 304.7853 L 292.7777 299.7828 L 289.24747 290.79185 L 286.4488 297.78858" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_118">
+            <circle cx="326.73064" cy="297.7163" r="2.2378705686934" fill="black"/>
+            <circle cx="326.73064" cy="297.7163" r="2.2378705686934" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_109">
+        <title>VR</title>
+        <g id="Graphic_115">
+          <text transform="translate(177.61417 342.60773) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_110">
+          <title>resistor-variable_a-east</title>
+          <g id="Line_114">
+            <line x1="199.6439" y1="277.99122" x2="199.63016" y2="273.51542" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_113">
+            <path d="M 201.86804 271.27757 L 218.42446 271.27757 L 218.42446 291.96875 L 213.16716 291.96875" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_112">
+            <title>resistor</title>
+            <path d="M 199.6439 277.99122 L 206.69916 280.7741 L 192.7057 286.37142 L 206.69916 291.96875 L 192.7057 297.56608 L 206.69916 303.1634 L 201.69667 305.2305 L 192.7057 308.76073 L 199.70243 311.5594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_111">
+            <circle cx="199.63016" cy="271.27757" r="2.23787056869341" fill="black"/>
+            <circle cx="199.63016" cy="271.27757" r="2.23787056869341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_55">
+        <title>VR</title>
+        <g id="Graphic_57">
+          <text transform="translate(37.943443 300.77386)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_89">
+          <title>resistor-variable_a-north</title>
+          <g id="Line_69">
+            <line x1="69.76254" y1="290.83567" x2="65.28674" y2="290.8494" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_70">
+            <path d="M 63.04888 288.61153 L 63.04888 272.47168 L 83.74006 272.47168 L 83.74006 277.3124" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_56">
+            <title>resistor</title>
+            <path d="M 69.76254 290.83567 L 72.54541 283.7804 L 78.14274 297.77386 L 83.74006 283.7804 L 89.33739 297.77386 L 94.93472 283.7804 L 97.00182 288.7829 L 100.53205 297.77386 L 103.33071 290.77714" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_67">
+            <circle cx="63.04888" cy="290.8494" r="2.23787056869339" fill="black"/>
+            <circle cx="63.04888" cy="290.8494" r="2.23787056869339" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_104">
+        <title>VR</title>
+        <g id="Graphic_108">
+          <text transform="translate(423.79526 212.16015) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_105">
+          <title>resistor-variable_b-west</title>
+          <g id="Line_107">
+            <title>line</title>
+            <line x1="393.94614" y1="165.93196" x2="401.93937" y2="165.93196" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_106">
+            <title>resistor</title>
+            <path d="M 415.206 180.15186 L 408.11937 177.31721 L 422.2926 171.64792 L 408.11937 165.97863 L 422.2926 160.30934 L 408.11937 154.64005 L 413.18613 152.54637 L 422.2926 148.97076 L 415.206 146.13611" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_99">
+        <title>VR</title>
+        <g id="Graphic_103">
+          <text transform="translate(259.26627 143.54362)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_100">
+          <title>resistor-variable_b-south</title>
+          <g id="Line_102">
+            <title>line</title>
+            <line x1="306.24466" y1="186.89192" x2="306.24466" y2="178.89869" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_101">
+            <title>resistor</title>
+            <path d="M 320.46456 165.63024 L 317.6299 172.71685 L 311.96062 158.54362 L 306.29133 172.71685 L 300.62204 158.54362 L 294.95275 172.71685 L 292.85907 167.6501 L 289.28346 158.54362 L 286.4488 165.63024" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_94">
+        <title>VR</title>
+        <g id="Graphic_98">
+          <text transform="translate(177.61417 212.16015) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_95">
+          <title>resistor-variable_b-east</title>
+          <g id="Line_97">
+            <title>line</title>
+            <line x1="220.79109" y1="159.31675" x2="212.79786" y2="159.31675" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_96">
+            <title>resistor</title>
+            <path d="M 199.52574 145.09685 L 206.61235 147.9315 L 192.43912 153.60079 L 206.61235 159.27008 L 192.43912 164.93937 L 206.61235 170.60866 L 201.5456 172.70233 L 192.43912 176.27795 L 199.52574 179.1126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_81">
+        <title>VR</title>
+        <g id="Graphic_83">
+          <text transform="translate(37.943443 171.891)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_88">
+          <title>resistor-variable_b-north</title>
+          <g id="Line_86">
+            <title>line</title>
+            <line x1="83.59785" y1="140.54454" x2="83.59785" y2="148.53777" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_82">
+            <title>resistor</title>
+            <path d="M 69.37795 161.80438 L 72.2126 154.71777 L 77.88189 168.891 L 83.55118 154.71777 L 89.22047 168.891 L 94.88976 154.71777 L 96.98344 159.78452 L 100.55905 168.891 L 103.3937 161.80438" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_91">
+        <title>R</title>
+        <g id="Graphic_93">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(205.4871 100.529) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Line_92">
+          <title>resistor-static-verical</title>
+          <path d="M 195.61703 67.09449 L 188.53042 64.25984 L 202.70364 58.59055 L 188.53042 52.92126 L 202.70364 47.25197 L 188.53042 41.582677 L 193.59717 39.489003 L 202.70364 35.913385 L 195.61703 33.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_25">
+        <title>R</title>
+        <g id="Graphic_27">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(37.943443 53.17323)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Line_26">
+          <title>resistor-static-horizontal</title>
+          <path d="M 69.37795 43.086614 L 72.2126 36 L 77.88189 50.17323 L 83.55118 36 L 89.22047 50.17323 L 94.88976 36 L 96.98344 41.066753 L 100.55905 50.17323 L 103.3937 43.086614" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

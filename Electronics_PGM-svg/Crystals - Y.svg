@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
+  <g id="Crystals_-_Y" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+    <title>Crystals - Y</title>
+    <g id="Crystals_-_Y_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Y</title>
+        <g id="Graphic_7">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(123.59055 201.70866)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_3">
+          <title>crystal-horizontal</title>
+          <g id="Line_6">
+            <path d="M 163.84361 173.19685 L 163.84252 184.46977 L 163.84361 195.874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_5">
+            <path d="M 179.43416 173.19685 L 179.43307 184.46977 L 179.43416 195.874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_14">
+            <rect x="167.57462" y="170.3622" width="8.503937" height="28.346457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_21">
+        <title>Y</title>
+        <g id="Graphic_13">
+          <title>RefNo Value Exp</title>
+          <text transform="translate(305.17323 242.58555) rotate(-90)" fill="black">
+            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          </text>
+        </g>
+        <g id="Group_16">
+          <title>crystal-vertical</title>
+          <g id="Line_19">
+            <path d="M 276.66142 202.22136 L 287.93434 202.22245 L 299.3386 202.22136" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Line_18">
+            <path d="M 276.66142 186.6308 L 287.93434 186.6319 L 299.3386 186.6308" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_17">
+            <rect x="273.82677" y="189.98641" width="28.346457" height="8.503937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
