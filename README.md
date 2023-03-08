@@ -37,7 +37,7 @@ If a two-tone representation is needed, a possible solution may be:
 
 * Make the variable arrows back with a think white border
 * Use hatching for the capacitor cores
-* Use a dashed line for notation arros and legend border
+* Use a dashed line for notation arrows and legend border
 
 ## Fonts
 
