@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577 733" width="577" height="733">
   <defs/>
-  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
-  <g id="Integrated_Circuits_-_U" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-16 12:54:54 +0000</metadata>
+  <g id="Integrated_Circuits_-_U" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>Integrated Circuits - U</title>
     <g id="Integrated_Circuits_-_U_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_83">
         <title>IC</title>
         <rect x="73.70079" y="327.40158" width="126.14173" height="42.519685" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(78.70079 342.66142)" fill="black">
-          <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="52.61188" y="10">IC </tspan>
+        <text transform="translate(78.70079 342.16142)" fill="black">
+          <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="52.06989" y="11">IC </tspan>
         </text>
       </g>
       <g id="Group_82">
@@ -22,19 +22,19 @@
             <path d="M 454.1811 267.17322 L 482.52756 210.4803 L 510.874 267.17322 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_64">
-            <text transform="translate(486.41654 264.87968) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(484.41654 264.88046) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_63">
-            <text transform="translate(457.8433 264.87968) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(455.8433 264.88046) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_73">
           <text transform="translate(491.811 213.4803)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -46,19 +46,19 @@
             <path d="M 397.874 266.17322 L 341.1811 237.82677 L 397.874 209.4803 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_56">
-            <text transform="translate(395.58047 233.9378) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(395.58126 235.9378) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_55">
-            <text transform="translate(395.58047 262.51102) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(395.58126 264.51102) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_72">
-          <text transform="translate(338.8862 207.94488)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+          <text transform="translate(341.17622 207.94488)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -70,19 +70,19 @@
             <path d="M 267.87402 209.4803 L 239.52756 266.17322 L 211.1811 209.4803 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_48">
-            <text transform="translate(235.63858 213.10719) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(237.63858 213.1064) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_47">
-            <text transform="translate(264.2118 213.10719) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(266.2118 213.1064) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_69">
           <text transform="translate(248.59842 251.17322)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -94,19 +94,19 @@
             <path d="M 86.17323 209.4803 L 142.86614 237.82677 L 86.17323 266.17322 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_22">
-            <text transform="translate(88.46677 241.71574)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(88.46599 239.71574)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_21">
-            <text transform="translate(88.46677 213.14251)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(88.46599 211.14251)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_67">
           <text transform="translate(112.86614 207.94488)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -118,19 +118,19 @@
             <path d="M 454.1811 163.99213 L 482.52756 107.29921 L 510.874 163.99213 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_60">
-            <text transform="translate(457.8433 161.69858) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(455.8433 161.69936) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_59">
-            <text transform="translate(486.18977 161.69858) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(484.18977 161.69936) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_74">
           <text transform="translate(491.811 110.29921)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -142,19 +142,19 @@
             <path d="M 397.874 162.99213 L 341.1811 134.64567 L 397.874 106.29921 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_52">
-            <text transform="translate(395.58047 159.32992) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(395.58126 161.32992) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_51">
-            <text transform="translate(395.58047 130.98347) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(395.58126 132.98347) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_71">
-          <text transform="translate(338.8862 104.48031)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+          <text transform="translate(341.17622 104.48031)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -166,19 +166,19 @@
             <path d="M 267.87402 106.29921 L 239.52756 162.99213 L 211.1811 106.29921 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_44">
-            <text transform="translate(264.2118 109.25942) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(266.2118 109.25864) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_43">
-            <text transform="translate(235.86536 109.25942) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(237.86536 109.25864) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_68">
           <text transform="translate(248.59842 147.99213)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>
@@ -190,19 +190,19 @@
             <path d="M 86.17323 106.29921 L 142.86614 134.64567 L 86.17323 162.99213 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_26">
-            <text transform="translate(89.13344 109.96142)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+            <text transform="translate(89.13265 107.96142)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
             </text>
           </g>
           <g id="Graphic_27">
-            <text transform="translate(89.13344 138.30787)" fill="black">
-              <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">−</tspan>
+            <text transform="translate(89.13265 136.30787)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">−</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_66">
           <text transform="translate(112.86614 104.48031)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Label</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Label</tspan>
           </text>
         </g>
       </g>

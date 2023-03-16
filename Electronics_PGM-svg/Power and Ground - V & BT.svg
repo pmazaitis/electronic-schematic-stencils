@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577 733" width="577" height="733">
   <defs/>
-  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
-  <g id="Power_and_Ground_-_V___BT" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-16 12:54:54 +0000</metadata>
+  <g id="Power_and_Ground_-_V___BT" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>Power and Ground - V &amp; BT</title>
     <g id="Power_and_Ground_-_V___BT_Layer_1">
       <title>Layer 1</title>
@@ -74,8 +74,8 @@
           </g>
         </g>
         <g id="Graphic_109">
-          <text transform="translate(332.01122 136.91577) rotate(90)" fill="black">
-            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          <text transform="translate(334.3118 138.61578) rotate(90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
           </text>
         </g>
       </g>
@@ -91,8 +91,8 @@
           </g>
         </g>
         <g id="Graphic_121">
-          <text transform="translate(231.34611 136.96634) rotate(90)" fill="black">
-            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          <text transform="translate(234.0569 138.09942) rotate(90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
           </text>
         </g>
       </g>
@@ -129,8 +129,8 @@
           </g>
         </g>
         <g id="Graphic_68">
-          <text transform="translate(123.59294 123.67402)" fill="black">
-            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          <text transform="translate(125.57641 121.39056)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
           </text>
         </g>
       </g>
@@ -146,8 +146,8 @@
           </g>
         </g>
         <g id="Graphic_58">
-          <text transform="translate(42.28918 130.28526)" fill="black">
-            <tspan font-family="Fira Mono" font-size="16" fill="black" x="0" y="16">+</tspan>
+          <text transform="translate(43.70572 127.71833)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="16" fill="black" x="0" y="19">+</tspan>
           </text>
         </g>
       </g>
@@ -164,23 +164,23 @@
         </g>
         <g id="Graphic_22">
           <text transform="translate(318.89763 70.01575)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Volts</tspan>
           </text>
         </g>
       </g>
       <g id="Group_19">
         <title>V</title>
         <g id="Graphic_18">
-          <text transform="translate(197.42949 67.41518) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+          <text transform="translate(196.92949 66.77016) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Volts</tspan>
           </text>
         </g>
         <g id="Group_12">
           <title>power-dc-vertical</title>
           <g id="Graphic_8">
-            <text transform="translate(173.81295 35.01575)" fill="black">
-              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="12">+</tspan>
-              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="27.364">−</tspan>
+            <text transform="translate(173.81232 32.379747)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="13" fill="black" x="0" y="15">+</tspan>
+              <tspan font-family="Borg Sans Mono" font-size="13" fill="black" x="0" y="33">−</tspan>
             </text>
           </g>
           <g id="Graphic_5">
@@ -192,15 +192,15 @@
       <g id="Group_11">
         <title>V</title>
         <g id="Graphic_10">
-          <text transform="translate(45.50608 72.44882)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">Volts</tspan>
+          <text transform="translate(46.6511 72.44882)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">Volts</tspan>
           </text>
         </g>
         <g id="Group_9">
           <title>power-dc-horizontal</title>
           <g id="Graphic_7">
-            <text transform="translate(52.046544 42.84449)" fill="black">
-              <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="0" y="12">+ −</tspan>
+            <text transform="translate(49.95164 41.526487)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="13" fill="black" x="0" y="15">+ −</tspan>
             </text>
           </g>
           <g id="Graphic_4">

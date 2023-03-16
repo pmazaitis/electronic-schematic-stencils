@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577 733" width="577" height="733">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
       <g>
@@ -8,8 +8,8 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
-  <g id="Switches_and_Relays_-_S" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-16 12:54:54 +0000</metadata>
+  <g id="Switches_and_Relays_-_S" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>Switches and Relays - S</title>
     <g id="Switches_and_Relays_-_S_Layer_1">
       <title>Layer 1</title>
@@ -32,8 +32,8 @@
         </g>
         <g id="Graphic_32">
           <title>RefNo Value Exp</title>
-          <text transform="translate(265.91205 266.7101) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(265.41205 263.27504) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
       </g>
@@ -56,8 +56,8 @@
         </g>
         <g id="Graphic_29">
           <title>RefNo Value Exp</title>
-          <text transform="translate(112.91276 266.7101) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(112.41276 263.27504) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
       </g>
@@ -80,8 +80,8 @@
         </g>
         <g id="Graphic_28">
           <title>RefNo Value Exp</title>
-          <text transform="translate(188.39226 117.1601)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(191.82732 116.6601)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
       </g>
@@ -104,8 +104,8 @@
         </g>
         <g id="Graphic_26">
           <title>RefNo Value Exp</title>
-          <text transform="translate(36.503836 119.33205)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(39.938895 118.83205)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
       </g>

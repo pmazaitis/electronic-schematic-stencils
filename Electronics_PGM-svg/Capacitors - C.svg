@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 733" width="576" height="733">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577 733" width="577" height="733">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#666">
       <g>
@@ -18,8 +18,8 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-08 03:57:29 +0000</metadata>
-  <g id="Capacitors_-_C" fill="none" stroke="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1">
+  <metadata> Produced by OmniGraffle 7.21.3\n2023-03-16 12:54:54 +0000</metadata>
+  <g id="Capacitors_-_C" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>Capacitors - C</title>
     <g id="Capacitors_-_C_Layer_1">
       <title>Layer 1</title>
@@ -27,8 +27,8 @@
         <title>C</title>
         <g id="Graphic_213">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 710.2671) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 707.332) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_210">
@@ -49,8 +49,8 @@
         <title>C</title>
         <g id="Graphic_223">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 667.1633)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 667.1633)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_220">
@@ -71,8 +71,8 @@
         <title>C</title>
         <g id="Graphic_208">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 710.2671) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 707.332) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_205">
@@ -93,8 +93,8 @@
         <title>C</title>
         <g id="Graphic_218">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 667.1633)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 667.1633)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_215">
@@ -115,15 +115,15 @@
         <title>C</title>
         <g id="Graphic_65">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 599.42664) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 596.4916) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_62">
           <title>capacitor-electrolytic-south</title>
           <g id="Graphic_120">
-            <text transform="translate(430.7083 569.0042) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(430.70896 570.0042) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
           <g id="Graphic_126">
@@ -142,15 +142,15 @@
         <title>C</title>
         <g id="Graphic_70">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 556.32284)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 556.32284)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_67">
           <title>capacitor-electrolytic-west</title>
           <g id="Graphic_117">
-            <text transform="translate(304.97087 538.7315) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(303.97087 538.7322) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
           <g id="Graphic_124">
@@ -168,14 +168,14 @@
       <g id="Group_51">
         <title>C</title>
         <g id="Graphic_118">
-          <text transform="translate(203.8139 533.313)" fill="black">
-            <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+          <text transform="translate(203.81323 533.313)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
           </text>
         </g>
         <g id="Graphic_55">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 599.42664) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 596.4916) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_52">
@@ -196,15 +196,15 @@
         <title>C</title>
         <g id="Graphic_60">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 556.32284)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 556.32284)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_57">
           <title>capacitor-electrolytic-east</title>
           <g id="Graphic_119">
-            <text transform="translate(90.02606 544.6583) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(91.02606 544.6576) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
           <g id="Graphic_121">
@@ -223,8 +223,8 @@
         <title>C</title>
         <g id="Graphic_176">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 484.6235) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 481.68843) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_236">
@@ -241,8 +241,8 @@
         <title>C</title>
         <g id="Graphic_186">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 441.5197)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 441.5197)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_183">
@@ -259,8 +259,8 @@
         <title>C</title>
         <g id="Graphic_171">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 484.6235) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 481.68843) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_238">
@@ -277,8 +277,8 @@
         <title>C</title>
         <g id="Graphic_181">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 441.5197)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 441.5197)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_178">
@@ -295,8 +295,8 @@
         <title>C</title>
         <g id="Graphic_80">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 369.82034) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 366.8853) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_235">
@@ -308,8 +308,8 @@
             <path d="M 421.6794 315.55465 C 424.8497 317.88224 429.8783 318.67864 433.34507 318.67353 C 436.85223 318.66745 440.94655 317.93833 445.1466 315.44248" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_92">
-            <text transform="translate(428.28024 339.12987) rotate(180)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(428.28093 340.12987) rotate(180)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
         </g>
@@ -318,8 +318,8 @@
         <title>C</title>
         <g id="Graphic_90">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 326.71654)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 326.71654)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_87">
@@ -331,8 +331,8 @@
             <path d="M 327.23506 301.03937 L 327.23506 312.1357 L 327.23506 323.36126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_94">
-            <text transform="translate(341.34915 315.4217) rotate(90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(342.34915 315.42103) rotate(90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
         </g>
@@ -341,8 +341,8 @@
         <title>C</title>
         <g id="Graphic_75">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 369.82034) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 366.8853) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_234">
@@ -354,8 +354,8 @@
             <path d="M 188.1378 318.01383 L 198.94554 318.01383 L 209.87918 318.01383" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_93">
-            <text transform="translate(201.83913 303.5108)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(201.83845 302.5108)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
         </g>
@@ -364,8 +364,8 @@
         <title>C</title>
         <g id="Graphic_85">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 326.71654)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 326.71654)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_82">
@@ -377,8 +377,8 @@
             <path d="M 77.14444 301.03937 C 75.34505 303.4902 74.14026 307.81286 74.13055 312.3123 C 74.121915 316.86415 75.32337 320.4696 77.252835 323.71654" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           </g>
           <g id="Graphic_96">
-            <text transform="translate(54.025196 309.39937) rotate(-90)" fill="black">
-              <tspan font-family="Fira Mono" font-size="14" fill="black" x="7274181e-19" y="14">+</tspan>
+            <text transform="translate(53.025196 309.40006) rotate(-90)" fill="black">
+              <tspan font-family="Borg Sans Mono" font-size="14" fill="black" x="0" y="16">+</tspan>
             </text>
           </g>
         </g>
@@ -387,8 +387,8 @@
         <title>C</title>
         <g id="Graphic_45">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 250.76522) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 247.83016) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_232">
@@ -405,8 +405,8 @@
         <title>C</title>
         <g id="Graphic_40">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 207.66142)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 207.66142)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_37">
@@ -423,8 +423,8 @@
         <title>C</title>
         <g id="Graphic_50">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 250.76522) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 247.83016) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_47">
@@ -444,8 +444,8 @@
         <title>C</title>
         <g id="Graphic_35">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 207.66142)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 207.66142)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_32">
@@ -462,8 +462,8 @@
         <title>C</title>
         <g id="Graphic_196">
           <title>RefNo Value Exp</title>
-          <text transform="translate(448.1466 133.12742) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(447.6466 130.19236) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_193">
@@ -484,8 +484,8 @@
         <title>C</title>
         <g id="Graphic_201">
           <title>RefNo Value Exp</title>
-          <text transform="translate(275.77022 90.02362)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(279.20528 90.02362)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_198">
@@ -506,8 +506,8 @@
         <title>C</title>
         <g id="Graphic_29">
           <title>RefNo Value Exp</title>
-          <text transform="translate(213.02747 133.12742) rotate(-90)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(212.52747 130.19236) rotate(-90)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_26">
@@ -527,8 +527,8 @@
         <title>C</title>
         <g id="Graphic_6">
           <title>RefNo Value Exp</title>
-          <text transform="translate(22.98675 90.02362)" fill="black">
-            <tspan font-family="Anonymous Pro" font-size="10" fill="black" x="0" y="10">RefNo Value Exp</tspan>
+          <text transform="translate(26.42181 90.02362)" fill="black">
+            <tspan font-family="Borg Sans Mono" font-size="10" fill="black" x="0" y="11">RefNo Value Exp</tspan>
           </text>
         </g>
         <g id="Group_23">
