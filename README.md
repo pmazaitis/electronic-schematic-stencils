@@ -1,4 +1,4 @@
-# Composible Stencils for Electronic Schematic Diagrams
+# Composable Stencils for Electronic Schematic Diagrams
 
 This stencil set includes labeled components in the following categories: 
 
