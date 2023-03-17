@@ -35,7 +35,7 @@ Aluminum | #A5A5A5  | Notation arrows, legend border |
 
 If a two-tone representation is needed, a possible solution may be:
 
-* Make the variable arrows back with a think white border
+* Make the variable arrows black with a thin white border
 * Use hatching for the capacitor cores
 * Use a dashed line for notation arrows and legend border
 
